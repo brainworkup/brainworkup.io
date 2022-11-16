@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny on Joey W. Trampush, Ph.D.</title>
+    <link>https://brainworkup.org/tags/shiny/</link>
+    <description>Recent content in shiny on Joey W. Trampush, Ph.D.</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://brainworkup.org/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shiny Document</title>
+      <link>https://brainworkup.org/2021/06/shiny-document/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2021/06/shiny-document/</guid>
+      <description>
+&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/js/selectize.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/accessibility/js/selectize-plugin-a11y.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-javascript/js/ion.rangeSlider.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
+
+
+&lt;p&gt;This R Markdown document is made interactive using Shiny.
+Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.&lt;/p&gt;
+&lt;p&gt;To learn more, see &lt;a href=&#34;http://rmarkdown.rstudio.com/authoring_shiny.html&#34;&gt;Interactive Documents&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;section-inputs-and-outputs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Inputs and Outputs&lt;/h2&gt;
+&lt;p&gt;You can embed Shiny inputs and outputs in your document.
+Outputs are automatically updated whenever inputs change.
+This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny &lt;code&gt;renderPlot&lt;/code&gt; function.
+The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt; functions create the input widgets used to drive the plot.&lt;/p&gt;
+&lt;div class=&#34;shiny-input-panel&#34;&gt;
+&lt;div class=&#34;shiny-flow-layout&#34;&gt;
+&lt;div&gt;
+&lt;div class=&#34;form-group shiny-input-container&#34;&gt;
+&lt;label class=&#34;control-label&#34; id=&#34;n_breaks-label&#34; for=&#34;n_breaks&#34;&gt;Number of bins:&lt;/label&gt;
+&lt;div&gt;
+&lt;select id=&#34;n_breaks&#34;&gt;&lt;option value=&#34;10&#34;&gt;10&lt;/option&gt;
+&lt;option value=&#34;20&#34; selected&gt;20&lt;/option&gt;
+&lt;option value=&#34;35&#34;&gt;35&lt;/option&gt;
+&lt;option value=&#34;50&#34;&gt;50&lt;/option&gt;&lt;/select&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;n_breaks&#34; data-nonempty=&#34;&#34;&gt;{&#34;plugins&#34;:[&#34;selectize-plugin-a11y&#34;]}&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class=&#34;form-group shiny-input-container&#34;&gt;
+&lt;label class=&#34;control-label&#34; id=&#34;bw_adjust-label&#34; for=&#34;bw_adjust&#34;&gt;Bandwidth adjustment:&lt;/label&gt;
+&lt;input class=&#34;js-range-slider&#34; id=&#34;bw_adjust&#34; data-skin=&#34;shiny&#34; data-min=&#34;0.2&#34; data-max=&#34;2&#34; data-from=&#34;1&#34; data-step=&#34;0.2&#34; data-grid=&#34;true&#34; data-grid-num=&#34;9&#34; data-grid-snap=&#34;false&#34; data-prettify-separator=&#34;,&#34; data-prettify-enabled=&#34;true&#34; data-keyboard=&#34;true&#34; data-data-type=&#34;number&#34;/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;out649274955dad354e&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Embedded Application&lt;/h2&gt;
+&lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
+This example embeds a Shiny application located in another directory:&lt;/p&gt;
+&lt;iframe data-deferred-src=&#34;appadd9b3b20a31ef7bf69da6edf6b48039/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
+&lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
+&lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
+This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -34,23 +34,23 @@
   weight = 60
 
 [[main]]
-  name = "dropdown"
-  url = "#"
+  name = "Clinical"
+  url = "#clinical"
   hasChildren = true
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 1"
-  url = "#"
+  parent = "Clinical"
+  name = "Child Neuropsychology"
+  url = "#childneuro"
 
 [[main]]
-  parent = "dropdown"
-  name = "dropdown 2"
-  url = "#!"
+  parent = "Clinical"
+  name = "Adult Neuropsychology"
+  url = "#adultneuro"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 70

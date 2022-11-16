@@ -1,0 +1,19 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Trial 1 Correct,6,9,Low Average,,4,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_01
+Trial 2 Correct,12,75,High Average,,10,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_02
+Trial 3 Correct,11,63,Average,,12,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_03
+Trial 4 Correct,8,25,Average,,10,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_04
+Trial 5 Correct,10,50,Average,,13,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_05
+List B Correct,14,91,Above Average,,8,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_06
+Short Delay Free Recall Correct,8,25,Average,,9,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_07
+Short Delay Cued Recall Correct,9,37,Average,,11,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_08
+Long Delay Free Recall Correct,9,37,Average,,11,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_09
+Long Delay Cued Recall Correct,10,50,Average,,12,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_10
+Total Hits,7,16,Low Average,,14,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_11
+Total False Positives,12,75,High Average,,0,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_12
+Recognition Discriminability (d'),9,37,Average,,3.3,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_13
+Recognition Discriminability Nonparametric,10,50,Average,,96,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_14
+Total Intrusions,9,37,Average,,3,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,scaled_score,FALSE,Fluid,Sequential,CVLT3_15
+Trials 1-5 Correct,96,39,Average,,47,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,standard_score,FALSE,Fluid,Sequential,CVLT3_16
+Delayed Recall Correct,96,39,Average,,36,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,standard_score,FALSE,Fluid,Sequential,CVLT3_17
+Total Recall Correct,98,45,Average,,97,cvlt3,CVLT-3,Memory,Verbal Memory,Verbal Memory,Cognitive,Verbal Memory,npsych_test,standard_score,FALSE,Fluid,Sequential,CVLT3_18

@@ -1,8 +1,8 @@
 title: "Joey W. Trampush, Ph.D."
 baseURL: https://brainworkup.org
 copyright: Copyright &copy; {year} Joey Trampush
-googleAnalytics: ''
-disqusShortname: ''
+googleAnalytics: ""
+disqusShortname: ""
 theme: academia-hugo
 enableGitInfo: yes
 defaultContentLanguage: en
@@ -46,7 +46,7 @@ taxonomies:
   publication_type: publication_types
   tag: tags
 permalinks:
-  post: /:year/:month/:day/:slug/
+  post: /:year/:month/:slug/
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

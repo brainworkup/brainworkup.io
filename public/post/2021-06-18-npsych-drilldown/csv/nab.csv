@@ -1,0 +1,29 @@
+﻿scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Attention Domain,88,21,Low Average,,,nab,NAB,Attention/Executive,Broad Attention,Broad Attention,Cognitive,Attention,npsych_test,standard_score,TRUE,,Attention,NAB_ATT_01
+Language Domain,127,96,Above Average,107 - 147,,nab,NAB,Verbal/Language,Broad Language,Broad Language,Cognitive,Language,npsych_test,standard_score,FALSE,,Sequential,NAB_02
+Memory Domain,109,73,Average,96 - 122,,nab,NAB,Memory,Broad Memory,Broad Memory,Cognitive,Memory,npsych_test,standard_score,FALSE,,Sequential,NAB_03
+Spatial Domain,110,75,High Average,94 - 126,,nab,NAB,Visual Perception/Construction,Broad Spatial,Broad Spatial,Cognitive,Spatial,npsych_test,standard_score,TRUE,,Simultaneous,NAB_04
+Executive Functions Domain,105,63,Average,94 - 116,,nab,NAB,Attention/Executive,Broad Executive Functions,Broad Executive Functions,Cognitive,Executive Function,npsych_test,standard_score,TRUE,,Planning,NAB_05
+Digits Forward,38,12,Low Average,,6,nab,NAB,Attention/Executive,Verbal Attention,Verbal Attention,Cognitive,Attention,npsych_test,t_score,FALSE,,Attention,NAB_11
+Digits Forward Longest Span,,12,Low Average,,6,nab,NAB,Attention/Executive,Verbal Attention,Verbal Attention,Cognitive,Attention,npsych_test,percentile,FALSE,,Attention,NAB_12
+Digits Backward ,42,21,Low Average,,3,nab,NAB,Attention/Executive,Verbal Working Memory,Verbal Working Memory,Cognitive,Attention,npsych_test,t_score,FALSE,,Attention,NAB_13
+Digits Backward Longest Span,,6,Below Average,,4,nab,NAB,Attention/Executive,Verbal Working Memory,Verbal Working Memory,Cognitive,Attention,npsych_test,percentile,FALSE,,Attention,NAB_14
+Dots,59,82,High Average,,10,nab,NAB,Attention/Executive,Nonverbal Working Memory,Nonverbal Working Memory,Cognitive,Attention,npsych_test,t_score,FALSE,,Attention,NAB_ATT_11
+Numbers & Letters Part A Speed ,37,10,Low Average,,37,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_15
+Numbers & Letters Part A Errors,49,46,Average,,0,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_16
+Numbers & Letters Part A Efficiency,38,12,Low Average,,108,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_17
+Numbers & Letters Part B Efficiency,50,50,Average,,97,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_ATT_15
+Numbers & Letters Part C Efficiency,38,12,Low Average,,43,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_ATT_16
+Numbers & Letters Part D Efficiency,44,27,Average,,47,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_ATT_17
+Numbers & Letters Part D Disruption,48,42,Average,,45,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,TRUE,,Attention,NAB_ATT_18
+Driving Scenes,42,21,Low Average,,48,nab,NAB,Attention/Executive,Visual Attention,Visual Attention,Cognitive,Attention,npsych_test,t_score,FALSE,,Attention,NAB_ATT_19
+Auditory Comprehension,55,69,Average,,56,nab,NAB,Verbal/Language,Receptive Language,Receptive Language,Cognitive,Language,npsych_test,t_score,FALSE,,Sequential,NAB_19
+Naming,61,86,High Average,,10,nab,NAB,Verbal/Language,Expressive Language,Expressive Language,Cognitive,Language,npsych_test,t_score,FALSE,,Simultaneous,NAB_23
+Shape Learning Immediate Recognition,61,86,High Average,,5,nab,NAB,Memory,Nonverbal Memory,Nonverbal Memory,Cognitive,Memory,npsych_test,t_score,FALSE,,Simultaneous,NAB_26
+Shape Learning Delayed Recognition,61,86,High Average,,5,nab,NAB,Memory,Nonverbal Memory,Nonverbal Memory,Cognitive,Memory,npsych_test,t_score,FALSE,,Simultaneous,NAB_27
+Story Learning Immediate Recall,45,31,Average,,16,nab,NAB,Memory,Verbal Memory,Verbal Memory,Cognitive,Memory,npsych_test,t_score,FALSE,,Sequential,NAB_29
+Story Learning Delayed Recall,51,54,Average,,18,nab,NAB,Memory,Verbal Memory,Verbal Memory,Cognitive,Memory,npsych_test,t_score,FALSE,,Sequential,NAB_30
+Visual Discrimination,59,82,High Average,,6,nab,NAB,Visual Perception/Construction,Visuoperception,Visuoperception,Cognitive,Spatial,npsych_test,t_score,FALSE,,Simultaneous,NAB_32
+Design Construction,52,58,Average,,9,nab,NAB,Visual Perception/Construction,Visuoconstruction,Visuoconstruction,Cognitive,Spatial,npsych_test,t_score,TRUE,,Planning,NAB_33
+Mazes,56,73,Average,,8,nab,NAB,Attention/Executive,Planning,Planning,Cognitive,Executive Function,npsych_test,t_score,TRUE,,Planning,NAB_34
+Word Generation,50,50,Average,,6,nab,NAB,Attention/Executive,Generativity,Generativity,Cognitive,Executive Function,npsych_test,t_score,TRUE,,Planning,NAB_35

@@ -12,11 +12,164 @@
     
     
     <item>
+      <title>Highcharter Drilldown on Neuropsychological Domains and Test Scores</title>
+      <link>https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
+      <description>
+&lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Neuropsychological Testing Results&lt;/h2&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+aside {
+  margin-left: 100%;
+  position: absolute;
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+img {
+  width: 200vw;
+  margin-left: calc(50% - 50vw);
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+rect[Attributes Style] {
+    fill: transparent;
+    x: 0;
+    y: 0;
+    width: 1200;
+    height: 800;
+    rx: 0;
+    ry: 0;
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.drilld {
+  width: 300vw;
+  margin-left: calc(50% - 50vw);
+}
+&lt;/style&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:576px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: HighchartR Drilldown
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xaringan Drilldown</title>
+      <link>https://brainworkup.org/2021/08/xaringan-drilldown/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2021/08/xaringan-drilldown/</guid>
+      <description>
+&lt;link href=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/panelset/panelset.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/js-cookie/js.cookie.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/peerjs/peerjs.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/tiny.toast/toast.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;div id=&#34;distribution-of-scores-population-level-interpretation&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Distribution of Scores: Population-level Interpretation&lt;/h1&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:gauss-plot1&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Statistical classification of neuropsychological test scores in the general population.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;neuropsych-drilldown-z-scores-m-0-sd-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Neuropsych Drilldown: z-Scores (M = 0, SD = 1)&lt;/h1&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:336px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drillz-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shiny Document</title>
+      <link>https://brainworkup.org/2021/06/shiny-document/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2021/06/shiny-document/</guid>
+      <description>
+&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/js/selectize.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/accessibility/js/selectize-plugin-a11y.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-javascript/js/ion.rangeSlider.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
+
+
+&lt;p&gt;This R Markdown document is made interactive using Shiny.
+Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.&lt;/p&gt;
+&lt;p&gt;To learn more, see &lt;a href=&#34;http://rmarkdown.rstudio.com/authoring_shiny.html&#34;&gt;Interactive Documents&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;section-inputs-and-outputs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Inputs and Outputs&lt;/h2&gt;
+&lt;p&gt;You can embed Shiny inputs and outputs in your document.
+Outputs are automatically updated whenever inputs change.
+This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny &lt;code&gt;renderPlot&lt;/code&gt; function.
+The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt; functions create the input widgets used to drive the plot.&lt;/p&gt;
+&lt;div class=&#34;shiny-input-panel&#34;&gt;
+&lt;div class=&#34;shiny-flow-layout&#34;&gt;
+&lt;div&gt;
+&lt;div class=&#34;form-group shiny-input-container&#34;&gt;
+&lt;label class=&#34;control-label&#34; id=&#34;n_breaks-label&#34; for=&#34;n_breaks&#34;&gt;Number of bins:&lt;/label&gt;
+&lt;div&gt;
+&lt;select id=&#34;n_breaks&#34;&gt;&lt;option value=&#34;10&#34;&gt;10&lt;/option&gt;
+&lt;option value=&#34;20&#34; selected&gt;20&lt;/option&gt;
+&lt;option value=&#34;35&#34;&gt;35&lt;/option&gt;
+&lt;option value=&#34;50&#34;&gt;50&lt;/option&gt;&lt;/select&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;n_breaks&#34; data-nonempty=&#34;&#34;&gt;{&#34;plugins&#34;:[&#34;selectize-plugin-a11y&#34;]}&lt;/script&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class=&#34;form-group shiny-input-container&#34;&gt;
+&lt;label class=&#34;control-label&#34; id=&#34;bw_adjust-label&#34; for=&#34;bw_adjust&#34;&gt;Bandwidth adjustment:&lt;/label&gt;
+&lt;input class=&#34;js-range-slider&#34; id=&#34;bw_adjust&#34; data-skin=&#34;shiny&#34; data-min=&#34;0.2&#34; data-max=&#34;2&#34; data-from=&#34;1&#34; data-step=&#34;0.2&#34; data-grid=&#34;true&#34; data-grid-num=&#34;9&#34; data-grid-snap=&#34;false&#34; data-prettify-separator=&#34;,&#34; data-prettify-enabled=&#34;true&#34; data-keyboard=&#34;true&#34; data-data-type=&#34;number&#34;/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;out649274955dad354e&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Embedded Application&lt;/h2&gt;
+&lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
+This example embeds a Shiny application located in another directory:&lt;/p&gt;
+&lt;iframe data-deferred-src=&#34;appadd9b3b20a31ef7bf69da6edf6b48039/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
+&lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
+&lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
+This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
-      <link>https://brainworkup.org/2020/12/01/hello-r-markdown/</link>
+      <link>https://brainworkup.org/2020/12/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
+      <guid>https://brainworkup.org/2020/12/hello-r-markdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -47,7 +200,7 @@ fit
   init.angle &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-50&lt;/span&gt;, border &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;
 )
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -55,10 +208,10 @@ fit
     
     <item>
       <title>Display Jupyter Notebooks with academia</title>
-      <link>https://brainworkup.org/2019/02/05/display-jupyter-notebooks-with-academia/</link>
+      <link>https://brainworkup.org/2019/02/display-jupyter-notebooks-with-academia/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/2019/02/05/display-jupyter-notebooks-with-academia/</guid>
+      <guid>https://brainworkup.org/2019/02/display-jupyter-notebooks-with-academia/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./academia_0_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -93,10 +246,10 @@ rm Untitled.md
     
     <item>
       <title>A Study of Snail Behavior</title>
-      <link>https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/</link>
+      <link>https://brainworkup.org/2016/04/a-study-of-snail-behavior/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/</guid>
+      <guid>https://brainworkup.org/2016/04/a-study-of-snail-behavior/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -164,8 +317,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -177,8 +330,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -190,8 +343,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -203,8 +356,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -216,8 +369,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -229,8 +382,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -242,8 +395,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -255,8 +408,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/a-study-of-snail-behavior/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/a-study-of-snail-behavior/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -287,10 +440,10 @@ rm Untitled.md
     
     <item>
       <title>academia: the website builder for Hugo</title>
-      <link>https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/</link>
+      <link>https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/</guid>
+      <guid>https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academia-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -358,8 +511,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -371,8 +524,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -384,8 +537,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -397,8 +550,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -410,8 +563,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -423,8 +576,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -436,8 +589,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -449,8 +602,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://brainworkup.org/2016/04/20/academia-the-website-builder-for-hugo/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;https://brainworkup.org/2016/04/academia-the-website-builder-for-hugo/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -476,6 +629,98 @@ rm Untitled.md
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academia/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bwu blog quarto</title>
+      <link>https://brainworkup.org/1/01/bwu-blog-quarto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/1/01/bwu-blog-quarto/</guid>
+      <description>
+
+
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(rmarkdown)
+library(bookdown)
+library(blogdown)
+library(hugodown)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;hugodown&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following objects are masked from &amp;#39;package:blogdown&amp;#39;:
+## 
+##     hugo_build, hugo_version, shortcode&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following object is masked from &amp;#39;package:rmarkdown&amp;#39;:
+## 
+##     md_document&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ── Attaching packages
+## ────────────────────────────────── tidyverse
+## 1.3.2.9000 ──&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
+## ✔ tibble    3.1.8.9002        ✔ stringr   1.4.1.9000   
+## ✔ tidyr     1.2.1.9001        ✔ forcats   0.5.2.9000   
+## ✔ readr     2.1.3.9000        ✔ lubridate 1.9.0.9000   
+## ✔ purrr     0.9000.0.9000     
+## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(highcharter)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Registered S3 method overwritten by &amp;#39;quantmod&amp;#39;:
+##   method            from
+##   as.zoo.data.frame zoo&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(httpuv)
+library(htmltools)
+library(htmlwidgets)
+library(widgetframe)
+library(crosstalk)
+library(manipulateWidget)
+library(shiny)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;shiny&amp;#39;
+## 
+## The following object is masked from &amp;#39;package:crosstalk&amp;#39;:
+## 
+##     getDefaultReactiveDomain&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(pandocfilters)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;pandocfilters&amp;#39;
+## 
+## The following object is masked from &amp;#39;package:dplyr&amp;#39;:
+## 
+##     filter
+## 
+## The following object is masked from &amp;#39;package:stats&amp;#39;:
+## 
+##     filter
+## 
+## The following object is masked from &amp;#39;package:methods&amp;#39;:
+## 
+##     Math&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(plotly)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;plotly&amp;#39;
+## 
+## The following object is masked from &amp;#39;package:pandocfilters&amp;#39;:
+## 
+##     filter
+## 
+## The following object is masked from &amp;#39;package:ggplot2&amp;#39;:
+## 
+##     last_plot
+## 
+## The following object is masked from &amp;#39;package:stats&amp;#39;:
+## 
+##     filter
+## 
+## The following object is masked from &amp;#39;package:graphics&amp;#39;:
+## 
+##     layout&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(knitr)&lt;/code&gt;&lt;/pre&gt;
+&lt;div id=&#34;new-cool-post-no-its-not&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;New Cool Post No its not&lt;/h2&gt;
+&lt;p&gt;Insert Lead paragraph here.&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

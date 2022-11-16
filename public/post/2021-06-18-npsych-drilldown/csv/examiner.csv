@@ -1,0 +1,3 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Dot Counting,63,91,Above Average,,22,nih_examiner,NIH EXAMINER,Attention/Executive,Working Memory,Nonverbal Working Memory,Cognitive,Working Memory,npsych_test,t_score,FALSE,,,EXAMINER_01
+Unstructured Task,74,99,Exceptionally High,,2.4,nih_examiner,NIH EXAMINER,Attention/Executive,Planning,Planning,Cognitive,Planning,npsych_test,t_score,TRUE,,Planning,EXAMINER_02

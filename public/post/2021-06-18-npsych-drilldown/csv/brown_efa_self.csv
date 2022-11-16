@@ -1,0 +1,8 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Activation,55,69,Average,49-61,11,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_1
+Focus,59,79,Average,54-64,15,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_2
+Effort,54,71,Average,48-60,12,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_3
+Emotion,58,78,Average,53-63,14,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_4
+Memory,59,81,Average,53-65,14,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_5
+Action,66,92,At-Risk,60-72,19,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_6
+Total Composite,59,81,Average,56-62,85,brown_efa_self,Brown EF/A Self,Behavioral/Emotional/Social,Executive Function,Executive Function,Behavior,Executive Function,rating_scale_self,t_score,FALSE,,,BROWN-EFA_SELF_7

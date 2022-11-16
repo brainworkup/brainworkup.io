@@ -1,0 +1,6 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Math Computation,119,90,High Average,110 - 128,50,wrat5,WRAT-5,Academic Skills,Math,Math Calculation,Academics,Math,npsych_test,standard_score,FALSE,,,WRAT5_01
+Spelling,113,81,High Average,105 - 121,46,wrat5,WRAT-5,Academic Skills,Writing,Spelling,Academics,Spelling,npsych_test,standard_score,FALSE,,,WRAT5_02
+Word Reading,117,87,High Average,110 - 124,65,wrat5,WRAT-5,Academic Skills,Reading,Reading Decoding,Academics,Reading,npsych_test,standard_score,FALSE,,,WRAT5_03
+Sentence Comprehension,100,50,Average,90 - 110,41,wrat5,WRAT-5,Academic Skills,Reading,Reading Comprehension,Academics,Reading,npsych_test,standard_score,FALSE,,,WRAT5_04
+Reading Composite,109,73,Average,102 - 116,217,wrat5,WRAT-5,Academic Skills,Reading,Broad Reading,Academics,Reading,npsych_test,composite_score,FALSE,,,WRAT5_05

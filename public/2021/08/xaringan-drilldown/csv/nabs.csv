@@ -1,0 +1,38 @@
+﻿scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,test_type,score_type,timed,verbal,pass,absort,description
+Total NAB Index,68,2,Below Average,55 - 81,,nabs,NAB,Intelligence/General Ability,General Cognitive Functioning,General Cognitive Functioning,npsych_test,standard_score,TRUE,Verbal/Nonverbal,General PASS,NAB_6,a composite indicator of general cognitive functioning
+Attention Domain,56,0.17,Exceptionally Low,47 - 65,,nabs,NAB,Attention/Executive,Attentional Fluency,Attentional Fluency,npsych_test,standard_score,TRUE,Verbal/Nonverbal,Attention,NAB_1,general attentional functioning
+Orientation,,3,Below Average,,27,nabs,NAB,Attention/Executive,Orientation,Orientation,npsych_test,percentile,FALSE,Verbal,Attention,NAB_7,general aox3
+Orientation to Self,,,,,14,nabs,NAB,Attention/Executive,Orientation,Orientation,npsych_test,base_rate,FALSE,Verbal,Attention,NAB_8,oriented to self
+Orientation to Time,,,,,8,nabs,NAB,Attention/Executive,Orientation,Orientation,npsych_test,base_rate,FALSE,Verbal,Attention,NAB_9,oriented to time
+Orientation to Place,,,,,4,nabs,NAB,Attention/Executive,Orientation,Orientation,npsych_test,base_rate,FALSE,Verbal,Attention,NAB_10,oriented to place
+Orientation to Situation,,,,,1,nabs,NAB,Attention/Executive,Orientation,Orientation,npsych_test,base_rate,FALSE,Verbal,Attention,NAB_11,oriented to situation
+Digits Forward,41,18,Low-Average,,8,nabs,NAB,Attention/Executive,Attention,Verbal Attention,npsych_test,t_score,FALSE,Verbal,Sequential,NAB_12,basic auditory attention
+Digits Forward Longest Span,,15,Low-Average,,6,nabs,NAB,Attention/Executive,Attention,Verbal Attention,npsych_test,raw_score,FALSE,Verbal,Sequential,NAB_13,basic auditory attention
+Digits Backward,30,2,Below Average,,2,nabs,NAB,Attention/Executive,Working Memory,Verbal Working Memory,npsych_test,t_score,FALSE,Verbal,Sequential,NAB_14,verbal working memory
+Digits Backward Longest Span,,5,Below Average,,3,nabs,NAB,Attention/Executive,Working Memory,Verbal Working Memory,npsych_test,raw_score,FALSE,Verbal,Sequential,NAB_15,verbal working memory
+Numbers & Letters Part A Speed,30,2,Below Average,,42,nabs,NAB,Attention/Executive,Processing Speed,Processing Speed,npsych_test,t_score,TRUE,Nonverbal,Attention,NAB_16,processing speed
+Numbers & Letters Part A Errors,19,1,Exceptionally Low,,3,nabs,NAB,Attention/Executive,Response Monitoring,Response Monitoring,npsych_test,t_score,TRUE,Nonverbal,Attention,NAB_17,processing speed
+Numbers & Letters Part A Efficiency,26,1,Exceptionally Low,,88,nabs,NAB,Attention/Executive,Processing Speed,Processing Speed,npsych_test,t_score,TRUE,Nonverbal,Attention,NAB_18,processing speed
+Numbers & Letters Part B Efficiency,22,1,Exceptionally Low,,22,nabs,NAB,Attention/Executive,Cognitive Flexibility,Cognitive Flexibility,npsych_test,t_score,TRUE,Nonverbal,Attention,NAB_19,complex processing speed and set-shifting
+Language Domain,103,58,Average,83 - 123,,nabs,NAB,Verbal/Language,General Language,General Language,npsych_test,standard_score,FALSE,Verbal,Sequential,NAB_2,general language functions
+Auditory Comprehension,55,69,Average,,56,nabs,NAB,Verbal/Language,Auditory Comprehension,Auditory Comprehension,npsych_test,t_score,FALSE,Verbal,Sequential,NAB_20,receptive language comprehension
+Auditory Comprehension Colors,,,,,13,nabs,NAB,Verbal/Language,Auditory Comprehension,Auditory Comprehension,npsych_test,base_rate,FALSE,Verbal,Sequential,NAB_21,receptive language comprehension
+Auditory Comprehension Shapes,,,,,22,nabs,NAB,Verbal/Language,Auditory Comprehension,Auditory Comprehension,npsych_test,base_rate,FALSE,Verbal,Sequential,NAB_22,receptive language comprehension
+Auditory Comprehension Colors/Shapes/Numbers,,,,,21,nabs,NAB,Verbal/Language,Auditory Comprehension,Auditory Comprehension,npsych_test,base_rate,FALSE,Verbal,Sequential,NAB_23,receptive language comprehension
+Naming,53,62,Average,,9,nabs,NAB,Verbal/Language,Confrontation Naming,Confrontation Naming,npsych_test,t_score,FALSE,Verbal,Simultaneous,NAB_24,confrontation naming/expressive vocabulary
+Naming Semantic Cuing,,,,,0,nabs,NAB,Verbal/Language,Confrontation Naming,Confrontation Naming,npsych_test,base_rate,FALSE,Verbal,Simultaneous,NAB_25,confrontation naming/expressive vocabulary
+Naming Phonemic Cuing,,,,,0,nabs,NAB,Verbal/Language,Confrontation Naming,Confrontation Naming,npsych_test,base_rate,FALSE,Verbal,Simultaneous,NAB_26,confrontation naming/expressive vocabulary
+Memory Domain,52,0.07,Exceptionally Low,39 - 65,,nabs,NAB,Memory,General Learning/Memory,General Learning/Memory,npsych_test,standard_score,FALSE,Verbal/Nonverbal,Sequential/Simultaneous,NAB_3,general memory functioning
+Shape Learning Immediate Recognition,22,0.5,Exceptionally Low,,0,nabs,NAB,Memory,Nonverbal Memory,Nonverbal Immediate Recognition,npsych_test,t_score,FALSE,Nonverbal,Simultaneous,NAB_27,nonverbal learning and memory
+Shape Learning Delayed Recognition,35,7,Below Average,,1,nabs,NAB,Memory,Nonverbal Memory,Nonverbal Delayed Recognition,npsych_test,t_score,FALSE,Nonverbal,Simultaneous,NAB_28,nonverbal learning and memory
+Shape Learning Percent Retention,,0.5,Exceptionally Low,,0,nabs,NAB,Memory,Nonverbal Memory,Nonverbal Delayed Recognition,npsych_test,percentile,FALSE,Nonverbal,Simultaneous,NAB_29,nonverbal learning and memory
+Story Learning Immediate Recall,20,0.5,Exceptionally Low,,8,nabs,NAB,Memory,Verbal Memory,Verbal Immediate Recall,npsych_test,t_score,FALSE,Verbal,Sequential,NAB_30,story learning for details
+Story Learning Delayed Recall,27,1,Exceptionally Low,,9,nabs,NAB,Memory,Verbal Memory,Verbal Delayed Recall,npsych_test,t_score,FALSE,Verbal,Sequential,NAB_31,story learning for details
+Story Learning Percent Retention,,95,Above Average,,113,nabs,NAB,Memory,Verbal Memory,Verbal Delayed Recall,npsych_test,percentile,FALSE,Verbal,Sequential,NAB_32,story learning for details
+Spatial Domain,95,37,Average,79 - 111,,nabs,NAB,Visual Perception/Construction,General Visual/Spatial,General Visual/Spatial,npsych_test,standard_score,TRUE,Nonverbal,Attention/Simultaneous,NAB_4,general visuospatial functioning
+Visual Discrimination,57,76,High-Average,,5,nabs,NAB,Visual Perception/Construction,Visuoperception,Visuoperception,npsych_test,t_score,FALSE,Nonverbal,Simultaneous,NAB_33,visuoperception and discrimination
+Design Construction,40,16,Low-Average,,5,nabs,NAB,Visual Perception/Construction,Visuoconstruction,Visuoconstruction,npsych_test,t_score,TRUE,Nonverbal,Attention/Simultaneous,NAB_34,visuoconstruction and integration
+Executive Functions Domain,88,21,Low-Average,77 - 99,,nabs,NAB,Attention/Executive,General Executive Functioning,General Executive Functioning,npsych_test,standard_score,TRUE,Verbal/Nonverbal,Attention/Planning,NAB_5,general executive functioning
+Mazes,57,76,High-Average,,9,nabs,NAB,Attention/Executive,Planning/Problem Solving,Planning/Problem Solving,npsych_test,t_score,TRUE,Nonverbal,Planning,NAB_35,planning and problem solving
+Word Generation,30,2,Below Average,,3,nabs,NAB,Attention/Executive,Fluency/Generativity,Fluency/Generativity,npsych_test,t_score,TRUE,Verbal,Planning,NAB_36,word fluency and generativity
+Word Generation Perseverations,,50,Average,,0,nabs,NAB,Attention/Executive,Response Monitoring,Response Monitoring,npsych_test,percentile,TRUE,Verbal,Planning,NAB_37,word fluency and generativity

@@ -7,17 +7,44 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>highcharter</title>
+      <link>https://brainworkup.org/categories/highcharter/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/highcharter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>https://brainworkup.org/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xaringan</title>
+      <link>https://brainworkup.org/categories/xaringan/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/xaringan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>https://brainworkup.org/categories/shiny/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/shiny/</guid>
       <description></description>
     </item>
     

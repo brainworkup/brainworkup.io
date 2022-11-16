@@ -1,0 +1,17 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_broad,domain_test,test_type,score_type,timed,fluid_crystal,pass,absort
+Verbal Comprehension (VCI),125,95,Above Average,118-130,43,wais4,WAIS-IV,Intelligence,Crystallized Intelligence,Crystallized Intelligence,Cognitive,Verbal Comprehension (VCI),npsych_test,composite_score,FALSE,,,WAIS4_01
+Perceptual Reasoning (PRI),119,90,High Average,112-124,40,wais4,WAIS-IV,Intelligence,Fluid Intelligence,Fluid Intelligence,Cognitive,,npsych_test,composite_score,FALSE,,,WAIS4_02
+Working Memory (WMI),108,70,Average,101-114,23,wais4,WAIS-IV,Attention/Executive,Working Memory,Working Memory,Cognitive,,npsych_test,composite_score,FALSE,,,WAIS4_03
+Processing Speed (PSI),97,42,Average,89-106,19,wais4,WAIS-IV,Attention/Executive,Processing Speed,Processing Speed,Cognitive,,npsych_test,composite_score,TRUE,,,WAIS4_04
+Full Scale (FSIQ),117,87,High Average,113-121,125,wais4,WAIS-IV,Intelligence,General Intelligence,General Intelligence,Cognitive,,npsych_test,composite_score,TRUE,,,WAIS4_05
+General Ability (GAI),125,95,Above Average,119-129,83,wais4,WAIS-IV,Intelligence,General Intelligence,General Intelligence,Cognitive,,npsych_test,composite_score,FALSE,,,WAIS4_06
+Similarities,16,98,Exceptionally High,,31,wais4,WAIS-IV,Verbal/Language,Word Reasoning,Word Reasoning,Cognitive,Verbal Comprehension (VCI),npsych_test,scaled_score,FALSE,,,WAIS4_07
+Vocabulary,13,84,High Average,,41,wais4,WAIS-IV,Verbal/Language,Vocabulary,Vocabulary,Cognitive,Verbal Comprehension (VCI),npsych_test,scaled_score,FALSE,,,WAIS4_08
+Information,14,91,Above Average,,20,wais4,WAIS-IV,Verbal/Language,Acquired Knowledge,Acquired Knowledge,Cognitive,Verbal Comprehension (VCI),npsych_test,scaled_score,FALSE,,,WAIS4_09
+Block Design,13,84,High Average,,58,wais4,WAIS-IV,Visual Perception/Construction,Visuoconstruction,Visuoconstruction,Cognitive,,npsych_test,scaled_score,TRUE,,,WAIS4_10
+Matrix Reasoning,14,91,Above Average,,24,wais4,WAIS-IV,Visual Perception/Construction,Simultaneous Processing,Simultaneous Processing,Cognitive,,npsych_test,scaled_score,FALSE,,,WAIS4_11
+Visual Puzzles,13,84,High Average,,21,wais4,WAIS-IV,Visual Perception/Construction,Simultaneous Processing,Simultaneous Processing,Cognitive,,npsych_test,scaled_score,TRUE,,,WAIS4_12
+Arithmetic,15,95,Above Average,,19,wais4,WAIS-IV,Attention/Executive,Working Memory,Working Memory,Cognitive,,npsych_test,scaled_score,TRUE,,,WAIS4_13
+Letter-Number Sequencing,8,25,Low Average,,18,wais4,WAIS-IV,Attention/Executive,Working Memory,Verbal Working Memory,Cognitive,,npsych_test,scaled_score,FALSE,,,WAIS4_14
+Coding,11,63,Average,,79,wais4,WAIS-IV,Attention/Executive,Processing Speed,Processing Speed,Cognitive,,npsych_test,scaled_score,TRUE,,,WAIS4_15
+Cancellation,8,25,Low Average,,36,wais4,WAIS-IV,Attention/Executive,Processing Speed,Visual Attention,Cognitive,,npsych_test,scaled_score,TRUE,,,WAIS4_16

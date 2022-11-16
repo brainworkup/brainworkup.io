@@ -1,0 +1,32 @@
+---
+title: Animated Plots
+authors:
+  - Joey Trampush
+date: '2021-06-25'
+slug: animated-plots
+subtitle: Trajectory of working memory using gganimate
+summary: ''
+lastmod: '2021-06-25T13:36:25-07:00'
+featured: no
+projects: []
+categories: ["R"]
+tags: ["plot", "ggplot2", "gganimate"]
+---
+
+Trajectory of working memory.
+
+## Ridgeline plots using `ggridges`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
