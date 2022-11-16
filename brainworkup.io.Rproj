@@ -1,7 +1,7 @@
 Version: 1.0
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
+RestoreWorkspace: No
+SaveWorkspace: No
 AlwaysSaveHistory: Default
 
 EnableCodeIndexing: Yes
@@ -14,5 +14,14 @@ LaTeX: XeLaTeX
 
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
+LineEndingConversion: Posix
 
 BuildType: Website
+
+UseNativePipeOperator: Yes
+
+MarkdownWrap: Sentence
+MarkdownReferences: Section
+MarkdownCanonical: Yes
+
+ZoteroLibraries: "My Library"
