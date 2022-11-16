@@ -1,0 +1,236 @@
+---
+title: Animated Plots
+authors:
+  - Joey Trampush
+date: '2021-06-25'
+slug: animated-plots
+subtitle: Trajectory of working memory using gganimate
+summary: ''
+lastmod: '2021-06-25T13:36:25-07:00'
+featured: no
+projects: []
+categories: ["R"]
+tags: ["plot", "ggplot2", "gganimate"]
+---
+
+Trajectory of working memory.
+
+## Ridgeline plots using `ggridges`
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+```{r}
+# Load required R packages:
+library(languagserver)
+library(here)
+library(data.table)
+library(purrr)
+library(stringr)
+library(ggridges) # ridgeline plots
+library(ggthemes) # wsj, tufte, 538, hc
+library(gganimate) # animate and create gifs
+library(scales)
+library(tweenr)
+library(htmlwidgets)
+library(widgetframe)
+library(crosstalk)
+library(manipulateWidget)
+library(tidytable)
+```
+
+```{r, eval=T, include=F}
+# NIH EXAMINER working memory data - fill sample
+wm <- tidytable::fread("wm.csv")
+# tidy data
+wm <- wm %>%
+  tidytable::mutate(age_int = trunc(age)) %>%
+  tidytable::relocate(age_int, .after = age)
+
+wm <- wm %>%
+  mutate(
+    age_5y = case_when(
+      age_int == 3 ~ 3,
+      age_int == 4 ~ 4,
+      age_int == 5 ~ 5,
+      age_int == 6 ~ 6,
+      age_int == 7 ~ 7,
+      age_int == 8 ~ 8,
+      age_int == 9 ~ 9,
+      age_int == 10 ~ 10,
+      age_int == 11 ~ 11,
+      age_int == 12 ~ 12,
+      age_int == 13 ~ 13,
+      age_int == 14 ~ 14,
+      age_int == 15 ~ 15,
+      age_int == 16 ~ 16,
+      age_int == 17 ~ 17,
+      age_int == 18 ~ 18,
+      age_int == 19 ~ 19,
+      age_int %in% 20:24 ~ 20,
+      age_int %in% 25:29 ~ 25,
+      age_int %in% 30:34 ~ 30,
+      age_int %in% 35:39 ~ 35,
+      age_int %in% 40:44 ~ 40,
+      age_int %in% 45:49 ~ 45,
+      age_int %in% 50:54 ~ 50,
+      age_int %in% 55:59 ~ 55,
+      age_int %in% 60:64 ~ 60,
+      age_int %in% 65:69 ~ 65,
+      age_int %in% 70:74 ~ 70,
+      age_int %in% 75:79 ~ 75,
+      age_int %in% 80:84 ~ 80,
+      age_int %in% 85:89 ~ 85,
+      age_int %in% 90:99 ~ 90
+    )
+  ) %>%
+  relocate(age_5y, .after = age_int)
+
+wm <- wm %>%
+  mutate(
+    age_5y.1 = case_when(
+      age_int %in% 3:9 ~ 5,
+      age_int %in% 10:14 ~ 10,
+      age_int %in% 15:19 ~ 15,
+      age_int %in% 20:24 ~ 20,
+      age_int %in% 25:29 ~ 25,
+      age_int %in% 30:34 ~ 30,
+      age_int %in% 35:39 ~ 35,
+      age_int %in% 40:44 ~ 40,
+      age_int %in% 45:49 ~ 45,
+      age_int %in% 50:54 ~ 50,
+      age_int %in% 55:59 ~ 55,
+      age_int %in% 60:64 ~ 60,
+      age_int %in% 65:69 ~ 65,
+      age_int %in% 70:74 ~ 70,
+      age_int %in% 75:79 ~ 75,
+      age_int %in% 80:84 ~ 80,
+      age_int %in% 85:89 ~ 85,
+      age_int %in% 90:99 ~ 90
+    )
+  ) %>%
+  relocate(age_5y.1, .after = age_5y)
+
+wm <- wm %>%
+  mutate(
+    age_10y = case_when(
+      age_int %in% 3:9 ~ 0,
+      age_int %in% 10:19 ~ 10,
+      age_int %in% 20:29 ~ 20,
+      age_int %in% 30:39 ~ 30,
+      age_int %in% 40:49 ~ 40,
+      age_int %in% 50:59 ~ 50,
+      age_int %in% 60:69 ~ 60,
+      age_int %in% 70:79 ~ 70,
+      age_int %in% 80:89 ~ 80,
+      age_int %in% 90:99 ~ 90
+    )
+  ) %>%
+  relocate(age_10y, .after = age_5y.1)
+
+# age as integer
+wm <- wm[, age := as.integer(age)]
+wm <- wm[, age_int := as.integer(age_int)]
+wm <- wm[, age_5y := as.integer(age_5y)]
+wm <- wm[, age_5y.1 := as.integer(age_5y.1)]
+wm <- wm[, age_10y := as.integer(age_10y)]
+
+# as tibble
+wm <- as_tibble(wm)
+
+# convert names
+names_fresh <- names(wm) %>%
+  str_replace_all("[#%()]", "") %>%
+  str_replace_all("[ /]", "_") %>%
+  str_to_lower()
+
+# set names
+wm <- wm %>%
+  set_names(names_fresh)
+
+# write out indiv tests
+readr::write_csv(wm, "wm.csv")
+```
+
+```{r wm}
+# NIH EXAMINER working memory data - fill sample
+wm <- data.table::fread("wm.csv")
+
+# wm phenos
+pheno <- data.frame(wm %>% select(
+  age_10y,
+  wm,
+  dots,
+  nback1,
+  nback2
+))
+
+# Define function using .data[[]] pronoun
+
+plot_for_loop <- function(df, x_var, y_var) {
+  # plot code
+  plots <- ggplot(df, na.rm = TRUE, aes(x = .data[[x_var]], y = as.factor(.data[[y_var]]), fill = stat(x))) +
+    geom_density_ridges_gradient(scale = 3, size = 0.3, rel_min_height = 0.01, gradient_lwd = 0.5) +
+    scale_x_continuous(expand = c(0, 0)) +
+    scale_y_discrete(expand = expansion(mult = c(0, 0))) +
+    scale_fill_viridis_c(name = "zScore:", option = "A", direction = -1) +
+    labs(
+      title = "Figure 1. Change in mean working memory performance across the lifespan",
+      subtitle = "",
+      x = "Working memory factor",
+      y = "Age group"
+    ) +
+    # theme_fivethirtyeight() +
+    # theme_hc() +
+    theme(axis.title = element_text(size = 12))
+}
+
+# Loop through every column
+plot_list <- colnames(pheno)[-1] %>%
+  map(~ plot_for_loop(pheno, .x, colnames(pheno)[1]))
+
+# save each file to the corresponding location on disk:
+paths <- stringr::str_c(names(pheno)[-1], ".pdf")
+pwalk(list(paths, plot_list), ggsave, path = getwd(), device = "pdf", scale = 1, width = 11.69, height = 8.27, units = "in")
+
+# Combine all plots
+library(cowplot)
+plot_grid(plotlist = plot_list, ncol = 2)
+ggsave("cow.pdf", path = getwd(), device = "pdf", scale = 1, width = 11.69, height = 8.27, units = "in")
+```
+
+## WM animations using `gganimate`
+
+```{r data-wm}
+# NIH EXAMINER working memory data - fill sample
+wm <- tidytable::fread("wm.csv")
+
+# gganimate code
+anim <- ggplot2::ggplot(wm, na.rm = TRUE, aes(x = wm, y = as.factor(age_10y), fill = stat(x))) +
+  geom_density_ridges_gradient(scale = 3, size = 0.3, rel_min_height = 0.01, gradient_lwd = 0.5) +
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_discrete(expand = expansion(mult = c(0, 0))) +
+  scale_fill_viridis_c(name = "z-Score:", option = "A", direction = -1) +
+  theme_wsj() +
+  theme(axis.title = element_text(size = 12)) +
+  # Here comes the gganimate specific bits
+  labs(
+    title = "Age: {frame_time}",
+    subtitle = "Trajectory of WM",
+    x = "Working memory factor",
+    y = "Age group"
+  ) +
+  gganimate::transition_time(age_10y) +
+  gganimate::ease_aes("linear") +
+  gganimate::enter_fade() +
+  gganimate::exit_fade()
+```
+
+```{r}
+gganimate::animate(anim, fps = 20)
+```
+
+```{r}
+knitr::include_graphics("anim.gif")
+```

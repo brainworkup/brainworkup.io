@@ -1,0 +1,45 @@
+---
+title: "bwu blog quarto"
+author: "admin"
+date: "now"
+output:
+  blogdown::html_page:
+    toc: no
+    fig_width: 7
+    fig_asp: 0.618
+    fig_retina: 2
+    #dev: svg
+authors: []
+tags: []
+categories: []
+summary: ''
+lastmod: "last-modified"
+featured: no
+draft: no
+slug: []
+projects: []
+subtitle: ''
+---
+
+```{r}
+library(rmarkdown)
+library(bookdown)
+library(blogdown)
+library(hugodown)
+library(tidyverse)
+library(highcharter)
+library(httpuv)
+library(htmltools)
+library(htmlwidgets)
+library(widgetframe)
+library(crosstalk)
+library(manipulateWidget)
+library(shiny)
+library(pandocfilters)
+library(plotly)
+library(knitr)
+```
+
+## New Cool Post No its not
+
+Insert Lead paragraph here.

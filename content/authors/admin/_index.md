@@ -1,55 +1,54 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+avatar_image: jwt_fighton.jpg
+bio: Developmental Neuropsychologist & Geneticist | Psychiatry & Behavioral Sciences | Keck Medicine of USC
 btn:
-- label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
-display_education: false
+- label: Download CV
+  url: "files/cv.pdf"
+display_education: true
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD, Clinical Neuropsychology
+    institution: CUNY Graduate Center
+    year: 2010
+  - course: MPhil, Clinical Neuropsychology
+    institution: CUNY Graduate Center
     year: 2008
-email: ""
+  - course: MA, Clinical Neuropsychology
+    institution: CUNY Queens College
+    year: 2007
+  - course: BA, Psychology
+    institution: Bowling Green State University
+    year: 2000
+email: "trampush@usc.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Molecular Genetics
+- Neuropsychology
+- Neurodevelopment
+- Data Science
+name: Joey W. Trampush, Ph.D.
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: USC University of Southern California |
+  url: "https://usc.edu"
+- name: Keck School of Medicine
+  url: "https://keck.usc.edu/"
+role: Della Martin Assistant Professor of Psychiatry and the Behavioral Sciences
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/brainworkup
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=uG4qu4IAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brainworkup
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+I study how molecular genetics shape our behavior and risk for psychiatric illness using tools based on open-source data science. As a clinician and developmental neuropsychologist, I specialize in the evaluation of cognitive/learning/emotional difficulties and provide diagnostic clarification in children and young adults.

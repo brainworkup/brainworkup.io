@@ -1,0 +1,247 @@
+---
+title: Xaringan Drilldown
+author: Joey Trampush
+date: '2021-08-26'
+categories:
+  - xaringan
+tags:
+  - R
+subtitle: R + neuropsychological data
+summary: Where does the summary show up?
+authors:
+  - Joey Trampush
+lastmod: '2021-08-26'
+featured: no
+draft: no
+slug: xaringan-drilldown
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: '%current%'
+      highlightStyle: github
+      highlightLines: yes
+      ratio: '16:9'
+      countIncrementalSlides: yes
+      includePresenterNotes: yes
+    self_contained: yes
+  blogdown::html_page:
+    toc: no
+    fig_width: 7
+    fig_asp: 0.618
+    fig_retina: 2
+    dev: svg
+rmd_hash: ad12fe1c1b68566d
+---
+
+
+```{r not-setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_panelset() # So we can add some slides with fancy panelsets!
+```
+
+```{r setup, include=FALSE}
+library(rmarkdown)
+library(revealjs)
+library(xaringan)
+library(xaringanExtra)
+library(xaringanBuilder)
+library(xaringanthemer)
+library(blogdown)
+library(dataui)
+library(reactable)
+## Import CSV files
+library(tidyverse)
+library(highcharter)
+library(htmlwidgets)
+library(widgetframe)
+library(crosstalk)
+library(manipulateWidget)
+library(tibble)
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width = 9,
+  fig.height = 3.5,
+  fig.retina = 3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+
+```{r xaringan-themer}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#690f0d", # bright red
+  inverse_background_color = "#002B36", # dark dark blue
+  inverse_header_color = "#31b09e", # light aqua green
+  inverse_text_color = "#FFFFFF", # white
+  title_slide_background_color = "var(--base)",
+  text_font_google = google_font("Sen"),
+  header_font_google = google_font("NATS")
+)
+```
+
+
+---
+
+
+# Distribution of Scores: Population-level Interpretation
+
+```{r gauss-plot1, fig.cap='Statistical classification of neuropsychological test scores in the general population.', fig.width=4, fig.height=4, out.width = "50%"}
+knitr::include_graphics("plot_narrow.png", auto_pdf = TRUE)
+```
+
+---
+
+# Neuropsych Drilldown: z-Scores (M = 0, SD = 1)
+
+```{r}
+neurocog <- read_csv("neurocog.csv")
+```
+
+```{r}
+# for zscores
+ncogz <- neurocog %>%
+  group_by(domain) %>%
+  summarize(zMean = mean(z))
+
+ncogz <- arrange(ncogz, desc(zMean))
+
+## Level 1
+ncogL1statusz <- tibble(
+  name = ncogz$domain,
+  y = ncogz$zMean,
+  drilldown = tolower(name)
+)
+ncogL1statusz$y <- round(ncogL1statusz$y, 1)
+
+## Level 2
+ncogL2drillz <- lapply(unique(neurocog$domain), function(x_level) {
+  ncog2z <- subset(neurocog, neurocog$domain %in% x_level)
+  # ncog2z <- neurocog2[neurocog2$domain == x_level,]
+  ncog2z <- ncog2z %>%
+    group_by(subdomain) %>%
+    summarize(zMean = mean(z))
+  ncog2z <- arrange(ncog2z, desc(zMean)) ### CHECK
+  ncogL2zstatus <- tibble(name = ncog2z$subdomain, y = ncog2z$zMean, drilldown = tolower(paste(x_level, name, sep = "_")))
+  list(id = tolower(x_level), type = "column", data = list_parse(ncogL2zstatus))
+})
+
+## Level 3
+ncogL3drillz <- lapply(unique(neurocog$domain), function(x_level) {
+  ncog2z <- subset(neurocog, neurocog$domain %in% x_level)
+  # ncog2 <- neurocog[neurocog$domain == x_level,]
+  lapply(unique(ncog2z$subdomain), function(y_level) {
+    ncog3z <- subset(ncog2z, ncog2z$subdomain %in% y_level)
+    # ncog3 <- ncog2[ncog2$subdomain == y_level,]
+    ncog3z <- ncog3z %>%
+      group_by(narrow) %>%
+      summarize(zMean = mean(z))
+    ncog3z <- arrange(ncog3z, desc(zMean))
+    ncogL3zstatus <- tibble(name = ncog3z$narrow, y = ncog3z$zMean, drilldown = tolower(paste(x_level, y_level, name, sep = "_")))
+    list(id = tolower(paste(x_level, y_level, sep = "_")), type = "column", data = list_parse(ncogL3zstatus))
+  })
+}) %>% unlist(recursive = FALSE)
+
+## Level 4
+ncogL4drillz <- lapply(unique(neurocog$domain), function(x_level) {
+  ncog2z <- subset(neurocog, neurocog$domain %in% x_level)
+  # ncog2 <- neurocog[neurocog$domain == x_level,]
+  lapply(unique(ncog2z$subdomain), function(y_level) {
+    ncog3z <- subset(ncog2z, ncog2z$subdomain %in% y_level)
+    # ncog3 <- ncog2[ncog2$subdomain == y_level,]
+    lapply(unique(ncog3z$narrow), function(z_level) {
+      ncog4z <- subset(ncog3z, ncog3z$narrow %in% z_level)
+      # ncog4 <- ncog3[ncog3$narrow == z_level,]
+      ncog4z <- ncog4z %>%
+        group_by(scale) %>%
+        summarize(zMean = mean(z))
+      ncog4z <- arrange(ncog4z, desc(zMean))
+      ncogL4zstatus <- tibble(name = ncog4z$scale, y = ncog4z$zMean)
+      list(id = tolower(paste(x_level, y_level, z_level, sep = "_")), type = "column", data = list_parse2(ncogL4zstatus))
+    })
+  }) %>% unlist(recursive = FALSE)
+}) %>% unlist(recursive = FALSE)
+```
+
+```{r drillz, fig.cap='Drilldown Neuropsych Testing zScores', out.width = "100%"}
+## for Tooltip
+
+ncogL1statusz <- ncogL1statusz %>%
+  dplyr::mutate(
+    rangez = case_when(
+      y >= 2.0 ~ "Exceptionally High",
+      y %in% 1.3:1.9 ~ "Above Average",
+      y %in% 0.7:1.2 ~ "High-Average",
+      y %in% -0.7:0.6 ~ "Average",
+      y %in% -1.3:-0.6 ~ "Low-Average",
+      y %in% -2.0:-1.4 ~ "Below Average",
+      y < -2.0 ~ "Exceptionally Low"
+    )
+  )
+
+x <- c("Name", "Score", "Range")
+y <- c("{point.name}", "{point.y}", "{point.rangez}")
+tt <- tooltip_table(x, y)
+```
+
+```{r drillz-plot}
+frameWidget(
+  highchart() %>%
+    hc_title(
+      text = "biggie",
+      style = list(fontSize = "15px")
+    ) %>%
+    hc_add_series(
+      ncogL1statusz,
+      type = "bar",
+      name = "Neuropsychological Test Scores",
+      hcaes(
+        x = name,
+        y = y,
+        color = c(
+          "#058DC7",
+          "#50B432",
+          "#DDDF00",
+          "#24CBE5",
+          "#64E572",
+          "#FF9655"
+        )
+      )
+    ) %>%
+    hc_xAxis(
+      type = "category",
+      title = list(text = "Domain"),
+      categories = .$name
+    ) %>%
+    hc_yAxis(
+      title = list(text = "z-score"),
+      labels = list(format = "{value}")
+    ) %>%
+    hc_tooltip(
+      pointFormat = tt,
+      useHTML = TRUE,
+      valueDecimals = 0
+    ) %>%
+    hc_plotOptions(
+      series = list(
+        colorByPoint = TRUE,
+        allowPointSelect = TRUE,
+        dataLabels = TRUE
+      )
+    ) %>%
+    hc_drilldown(
+      allowPointDrilldown = TRUE,
+      series = c(ncogL2drillz, ncogL3drillz, ncogL4drillz)
+    )
+)
+```

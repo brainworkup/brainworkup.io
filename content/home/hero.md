@@ -1,14 +1,14 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+widget = "hero"
+headless = true
+active = true
+weight = 10
 
-title = "Academia"
+title = "brainworkup"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "jwt.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,31 +17,34 @@ hero_media = "user-2.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
-  
+  # color = "#fff"
+
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#000"
-  
+  # gradient_start = "#8b949e"
+  # gradient_end = "#c3cbd3"
+
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
+  # image = "logo_bwu_banner.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  # text_color_light = false
 
 # Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
+# Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
+# Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
-  
+  url = "#about"
+ # url = "/authors/admin"
+  label = "Learn More"
+
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contact Me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Joey** and I am an **Assistant Professor of Psychiatry & Behavioral Sciences** @ USC specializing in **Neuropsychology** and **Genetics**.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+*new website; this site is in build mode; this is a template*
+...
+<!-- I have some expertise in the evaluation and diagnosis of neurodevelopmental disorders including ADHD, autism and learning problems; sports-related brain injury; and neuropsychiatric illness, especially those that emerge during early adulthood. I try to be an active researcher who studies brain and neurocognitive functioning in psychiatric illness as well as trying to figure out the underlying genetic architecture of brain development. -->

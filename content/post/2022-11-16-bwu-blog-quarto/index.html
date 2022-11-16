@@ -1,0 +1,105 @@
+---
+title: "bwu blog quarto"
+author: "admin"
+date: "now"
+output:
+  blogdown::html_page:
+    toc: no
+    fig_width: 7
+    fig_asp: 0.618
+    fig_retina: 2
+    #dev: svg
+authors: []
+tags: []
+categories: []
+summary: ''
+lastmod: "last-modified"
+featured: no
+draft: no
+slug: []
+projects: []
+subtitle: ''
+---
+
+
+
+<pre class="r"><code>library(rmarkdown)
+library(bookdown)
+library(blogdown)
+library(hugodown)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;hugodown&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:blogdown&#39;:
+## 
+##     hugo_build, hugo_version, shortcode</code></pre>
+<pre><code>## The following object is masked from &#39;package:rmarkdown&#39;:
+## 
+##     md_document</code></pre>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages
+## ────────────────────────────────── tidyverse
+## 1.3.2.9000 ──</code></pre>
+<pre><code>## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
+## ✔ tibble    3.1.8.9002        ✔ stringr   1.4.1.9000   
+## ✔ tidyr     1.2.1.9001        ✔ forcats   0.5.2.9000   
+## ✔ readr     2.1.3.9000        ✔ lubridate 1.9.0.9000   
+## ✔ purrr     0.9000.0.9000     
+## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>library(highcharter)</code></pre>
+<pre><code>## Registered S3 method overwritten by &#39;quantmod&#39;:
+##   method            from
+##   as.zoo.data.frame zoo</code></pre>
+<pre class="r"><code>library(httpuv)
+library(htmltools)
+library(htmlwidgets)
+library(widgetframe)
+library(crosstalk)
+library(manipulateWidget)
+library(shiny)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;shiny&#39;
+## 
+## The following object is masked from &#39;package:crosstalk&#39;:
+## 
+##     getDefaultReactiveDomain</code></pre>
+<pre class="r"><code>library(pandocfilters)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;pandocfilters&#39;
+## 
+## The following object is masked from &#39;package:dplyr&#39;:
+## 
+##     filter
+## 
+## The following object is masked from &#39;package:stats&#39;:
+## 
+##     filter
+## 
+## The following object is masked from &#39;package:methods&#39;:
+## 
+##     Math</code></pre>
+<pre class="r"><code>library(plotly)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;plotly&#39;
+## 
+## The following object is masked from &#39;package:pandocfilters&#39;:
+## 
+##     filter
+## 
+## The following object is masked from &#39;package:ggplot2&#39;:
+## 
+##     last_plot
+## 
+## The following object is masked from &#39;package:stats&#39;:
+## 
+##     filter
+## 
+## The following object is masked from &#39;package:graphics&#39;:
+## 
+##     layout</code></pre>
+<pre class="r"><code>library(knitr)</code></pre>
+<div id="new-cool-post-no-its-not" class="section level2">
+<h2>New Cool Post No its not</h2>
+<p>Insert Lead paragraph here.</p>
+</div>
