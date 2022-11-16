@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gganimate on Joey W. Trampush, Ph.D.</title>
+    <link>https://brainworkup.org/tags/gganimate/</link>
+    <description>Recent content in gganimate on Joey W. Trampush, Ph.D.</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://brainworkup.org/tags/gganimate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animated Plots</title>
+      <link>https://brainworkup.org/2021/06/animated-plots/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2021/06/animated-plots/</guid>
+      <description>&lt;p&gt;Trajectory of working memory.&lt;/p&gt;
+&lt;h2 id=&#34;ridgeline-plots-using-ggridges&#34;&gt;Ridgeline plots using &lt;code&gt;ggridges&lt;/code&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: `stat(x)` was deprecated in ggplot2 3.4.0.
+## ℹ Please use `after_stat(x)` instead.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://brainworkup.org/2021/06/animated-plots/index_files/figure-html/wm-1.svg&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wm-animations-using-gganimate&#34;&gt;WM animations using &lt;code&gt;gganimate&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;anim.gif&#34; alt=&#34;&#34;&gt;&lt;!-- --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

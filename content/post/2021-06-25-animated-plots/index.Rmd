@@ -4,8 +4,8 @@ authors:
   - Joey Trampush
 date: '2021-06-25'
 slug: animated-plots
-subtitle: Trajectory of working memory using gganimate
-summary: ''
+subtitle: Trajectory of working memory
+summary: 'Trajectory of working memory using gganimate'
 lastmod: '2021-06-25T13:36:25-07:00'
 featured: no
 projects: []
@@ -19,11 +19,7 @@ Trajectory of working memory.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE)
-```
-
-```{r}
 # Load required R packages:
-library(languagserver)
 library(here)
 library(data.table)
 library(purrr)
@@ -38,6 +34,7 @@ library(widgetframe)
 library(crosstalk)
 library(manipulateWidget)
 library(tidytable)
+library(tibble)
 ```
 
 ```{r, eval=T, include=F}
@@ -137,7 +134,7 @@ wm <- wm[, age_5y.1 := as.integer(age_5y.1)]
 wm <- wm[, age_10y := as.integer(age_10y)]
 
 # as tibble
-wm <- as_tibble(wm)
+wm <- tibble::as_tibble(wm)
 
 # convert names
 names_fresh <- names(wm) %>%
@@ -155,7 +152,7 @@ readr::write_csv(wm, "wm.csv")
 
 ```{r wm}
 # NIH EXAMINER working memory data - fill sample
-wm <- data.table::fread("wm.csv")
+wm <- tidytable::fread("wm.csv")
 
 # wm phenos
 pheno <- data.frame(wm %>% select(
@@ -227,7 +224,7 @@ anim <- ggplot2::ggplot(wm, na.rm = TRUE, aes(x = wm, y = as.factor(age_10y), fi
   gganimate::exit_fade()
 ```
 
-```{r}
+```{r, eval=F}
 gganimate::animate(anim, fps = 20)
 ```
 

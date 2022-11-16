@@ -1,0 +1,2 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,timed,verbal,pass,test_type,score_type,absort,description
+Total Deviation Score,-3,0.01,Exceptionally Low,,10,cog_est,Cognitive Estimation,Attention/Executive,Abstract Reasoning,Abstract Reasoning,FALSE,Verbal,Planning,npsych_test,z_score,Cognitive Estimation_01,abstract reasoning (hypothesis generation and concept formation)

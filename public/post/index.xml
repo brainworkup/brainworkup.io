@@ -17,14 +17,10 @@
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
-      <description>
-&lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+      <description>&lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Neuropsychological Testing Results&lt;/h2&gt;
+&lt;h2 id=&#34;neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/h2&gt;
 &lt;style type=&#34;text/css&#34;&gt;
 aside {
   margin-left: 100%;
@@ -54,13 +50,12 @@ rect[Attributes Style] {
   margin-left: calc(50% - 50vw);
 }
 &lt;/style&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;figure&#34;&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:576px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: HighchartR Drilldown
 &lt;/p&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -71,8 +66,7 @@ Figure 1: HighchartR Drilldown
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/2021/08/xaringan-drilldown/</guid>
-      <description>
-&lt;link href=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
+      <description>&lt;link href=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/panelset/panelset.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/js-cookie/js.cookie.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/peerjs/peerjs.min.js&#34;&gt;&lt;/script&gt;
@@ -82,24 +76,18 @@ Figure 1: HighchartR Drilldown
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;hr /&gt;
-&lt;div id=&#34;distribution-of-scores-population-level-interpretation&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Distribution of Scores: Population-level Interpretation&lt;/h1&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:gauss-plot1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;distribution-of-scores-population-level-interpretation&#34;&gt;Distribution of Scores: Population-level Interpretation&lt;/h1&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;&lt;/p&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Statistical classification of neuropsychological test scores in the general population.
 &lt;/p&gt;
 &lt;/div&gt;
-&lt;hr /&gt;
-&lt;/div&gt;
-&lt;div id=&#34;neuropsych-drilldown-z-scores-m-0-sd-1&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Neuropsych Drilldown: z-Scores (M = 0, SD = 1)&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;neuropsych-drilldown-z-scores-m--0-sd--1&#34;&gt;Neuropsych Drilldown: z-Scores (M = 0, SD = 1)&lt;/h1&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:336px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drillz-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -109,20 +97,16 @@ Figure 1: Statistical classification of neuropsychological test scores in the ge
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/2021/06/shiny-document/</guid>
-      <description>
-&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
+      <description>&lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/js/selectize.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/selectize/accessibility/js/selectize-plugin-a11y.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-javascript/js/ion.rangeSlider.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
 &lt;link href=&#34;https://brainworkup.org/2021/06/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
-
-
 &lt;p&gt;This R Markdown document is made interactive using Shiny.
 Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.&lt;/p&gt;
 &lt;p&gt;To learn more, see &lt;a href=&#34;http://rmarkdown.rstudio.com/authoring_shiny.html&#34;&gt;Interactive Documents&lt;/a&gt;.&lt;/p&gt;
-&lt;div id=&#34;section-inputs-and-outputs&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Inputs and Outputs&lt;/h2&gt;
+&lt;h2 id=&#34;inputs-and-outputs&#34;&gt;Inputs and Outputs&lt;/h2&gt;
 &lt;p&gt;You can embed Shiny inputs and outputs in your document.
 Outputs are automatically updated whenever inputs change.
 This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny &lt;code&gt;renderPlot&lt;/code&gt; function.
@@ -149,18 +133,31 @@ The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;out649274955dad354e&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Embedded Application&lt;/h2&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;outfd01dd5218bf58f8&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;h2 id=&#34;embedded-application&#34;&gt;Embedded Application&lt;/h2&gt;
 &lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
 This example embeds a Shiny application located in another directory:&lt;/p&gt;
-&lt;iframe data-deferred-src=&#34;appadd9b3b20a31ef7bf69da6edf6b48039/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;iframe data-deferred-src=&#34;appa06dfc96a54c98493e7cad304ed15559/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
 &lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
 &lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
 This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.&lt;/p&gt;
-&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Animated Plots</title>
+      <link>https://brainworkup.org/2021/06/animated-plots/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2021/06/animated-plots/</guid>
+      <description>&lt;p&gt;Trajectory of working memory.&lt;/p&gt;
+&lt;h2 id=&#34;ridgeline-plots-using-ggridges&#34;&gt;Ridgeline plots using &lt;code&gt;ggridges&lt;/code&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;## Warning: `stat(x)` was deprecated in ggplot2 3.4.0.
+## ℹ Please use `after_stat(x)` instead.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://brainworkup.org/2021/06/animated-plots/index_files/figure-html/wm-1.svg&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wm-animations-using-gganimate&#34;&gt;WM animations using &lt;code&gt;gganimate&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;anim.gif&#34; alt=&#34;&#34;&gt;&lt;!-- --&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -638,89 +635,84 @@ rm Untitled.md
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/1/01/bwu-blog-quarto/</guid>
-      <description>
-
-
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(rmarkdown)
-library(bookdown)
-library(blogdown)
-library(hugodown)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
-## Attaching package: &amp;#39;hugodown&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## The following objects are masked from &amp;#39;package:blogdown&amp;#39;:
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(rmarkdown)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(bookdown)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(blogdown)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(hugodown)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &#39;hugodown&#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;## The following objects are masked from &#39;package:blogdown&#39;:
 ## 
-##     hugo_build, hugo_version, shortcode&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## The following object is masked from &amp;#39;package:rmarkdown&amp;#39;:
+##     hugo_build, hugo_version, shortcode
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;## The following object is masked from &#39;package:rmarkdown&#39;:
 ## 
-##     md_document&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## ── Attaching packages
-## ────────────────────────────────── tidyverse
-## 1.3.2.9000 ──&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
+##     md_document
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(tidyverse)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## ── Attaching packages
+## ──────────────────────────────────────────────────────────────
+## tidyverse 1.3.2.9000 ──
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
 ## ✔ tibble    3.1.8.9002        ✔ stringr   1.4.1.9000   
 ## ✔ tidyr     1.2.1.9001        ✔ forcats   0.5.2.9000   
 ## ✔ readr     2.1.3.9000        ✔ lubridate 1.9.0.9000   
 ## ✔ purrr     0.9000.0.9000     
-## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ── Conflicts ────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
-## ✖ dplyr::lag()    masks stats::lag()&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(highcharter)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## Registered S3 method overwritten by &amp;#39;quantmod&amp;#39;:
+## ✖ dplyr::lag()    masks stats::lag()
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(highcharter)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## Registered S3 method overwritten by &#39;quantmod&#39;:
 ##   method            from
-##   as.zoo.data.frame zoo&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(httpuv)
-library(htmltools)
-library(htmlwidgets)
-library(widgetframe)
-library(crosstalk)
-library(manipulateWidget)
-library(shiny)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
-## Attaching package: &amp;#39;shiny&amp;#39;
+##   as.zoo.data.frame zoo
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(httpuv)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(htmltools)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(htmlwidgets)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(widgetframe)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(crosstalk)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(manipulateWidget)
+&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(shiny)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &#39;shiny&#39;
 ## 
-## The following object is masked from &amp;#39;package:crosstalk&amp;#39;:
+## The following object is masked from &#39;package:crosstalk&#39;:
 ## 
-##     getDefaultReactiveDomain&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(pandocfilters)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
-## Attaching package: &amp;#39;pandocfilters&amp;#39;
+##     getDefaultReactiveDomain
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(pandocfilters)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &#39;pandocfilters&#39;
 ## 
-## The following object is masked from &amp;#39;package:dplyr&amp;#39;:
-## 
-##     filter
-## 
-## The following object is masked from &amp;#39;package:stats&amp;#39;:
+## The following object is masked from &#39;package:dplyr&#39;:
 ## 
 ##     filter
 ## 
-## The following object is masked from &amp;#39;package:methods&amp;#39;:
-## 
-##     Math&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(plotly)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## 
-## Attaching package: &amp;#39;plotly&amp;#39;
-## 
-## The following object is masked from &amp;#39;package:pandocfilters&amp;#39;:
+## The following object is masked from &#39;package:stats&#39;:
 ## 
 ##     filter
 ## 
-## The following object is masked from &amp;#39;package:ggplot2&amp;#39;:
+## The following object is masked from &#39;package:methods&#39;:
+## 
+##     Math
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(plotly)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &#39;plotly&#39;
+## 
+## The following object is masked from &#39;package:pandocfilters&#39;:
+## 
+##     filter
+## 
+## The following object is masked from &#39;package:ggplot2&#39;:
 ## 
 ##     last_plot
 ## 
-## The following object is masked from &amp;#39;package:stats&amp;#39;:
+## The following object is masked from &#39;package:stats&#39;:
 ## 
 ##     filter
 ## 
-## The following object is masked from &amp;#39;package:graphics&amp;#39;:
+## The following object is masked from &#39;package:graphics&#39;:
 ## 
-##     layout&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(knitr)&lt;/code&gt;&lt;/pre&gt;
-&lt;div id=&#34;new-cool-post-no-its-not&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;New Cool Post No its not&lt;/h2&gt;
+##     layout
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(knitr)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;new-cool-post-no-its-not&#34;&gt;New Cool Post No its not&lt;/h2&gt;
 &lt;p&gt;Insert Lead paragraph here.&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     

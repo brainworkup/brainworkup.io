@@ -1,0 +1,75 @@
+---
+title: Highcharter Drilldown on Neuropsychological Domains and Test Scores
+subtitle: Subtitle
+summary: Summary
+authors:
+  - Joey Trampush
+patient: "Biggie"
+date: '2022-04-05'
+slug: highcharter-drilldown-neurocognitive-domains
+categories:
+  - R
+  - highcharter
+tags:
+  - ggplot2
+  - R
+  - R Markdown
+lastmod: '2022-04-05T13:50:26-07:00'
+featured: yes
+draft: no
+projects: []
+output:
+  blogdown::html_page:
+    toc: false
+    fig_width: 12
+    fig_height: 8
+    fig_retina: 3
+    dev: "svg"
+rmd_hash: ad12fe1c1b68566d
+---
+
+<script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
+<script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
+
+## Neuropsychological Testing Results
+
+<style type="text/css">
+aside {
+  margin-left: 100%;
+  position: absolute;
+}
+</style>
+<style type="text/css">
+img {
+  width: 200vw;
+  margin-left: calc(50% - 50vw);
+}
+</style>
+<style type="text/css">
+rect[Attributes Style] {
+    fill: transparent;
+    x: 0;
+    y: 0;
+    width: 1200;
+    height: 800;
+    rx: 0;
+    ry: 0;
+}
+</style>
+<style type="text/css">
+.drilld {
+  width: 300vw;
+  margin-left: calc(50% - 50vw);
+}
+</style>
+
+<div class="figure">
+
+<div id="htmlwidget-1" style="width:100%;height:576px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"url":"figs//widgets/widget_drilldown-plot.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figure 1: HighchartR Drilldown
+</p>
+
+</div>

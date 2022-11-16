@@ -21,8 +21,10 @@ ignoreFiles:
   - \.utf8\.md$
   - \.qmd$
   - \.py$
-  - _files$
+  #- _files$
   - _cache$
+  - (^|/)renv$
+  - renv\\.lock$
 outputs:
   home:
     - HTML

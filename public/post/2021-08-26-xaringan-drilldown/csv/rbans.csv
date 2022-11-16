@@ -1,0 +1,19 @@
+scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,timed,verbal,pass,test_type,score_type,absort,description
+RBANS Total Index,61,0.01,Exceptionally Low,,,rbans,RBANS,Intelligence/General Ability,General Cognitive Functioning,General Cognitive Functioning,TRUE,Verbal/Nonverbal,General PASS,npsych_test,standard_score,RBANS_1,composite indicator of general cognitive functioning
+Immediate Memory Index,61,0.01,Exceptionally Low,,,rbans,RBANS,Memory,General Learning/Memory,General Learning/Memory,FALSE,Verbal,Sequential,npsych_test,standard_score,RBANS_2,composite verbal learning of a word list and a logical story
+List Learning,4,2,Below Average,,20,rbans,RBANS,Memory,Verbal Memory,Verbal Immediate Recall,FALSE,Verbal,Sequential,npsych_test,scaled_score,RBANS_3,word list learning
+Story Memory,3,1,Exceptionally Low,,10,rbans,RBANS,Memory,Verbal Memory,Verbal Immediate Recall,FALSE,Verbal,Sequential,npsych_test,scaled_score,RBANS_4,expository story learning
+Visuospatial/Constructional Index,87,19,Low-Average,,,rbans,RBANS,Visual Perception/Construction,General Visual/Spatial,General Visual/Spatial,FALSE,Nonverbal,Simultaneous,npsych_test,standard_score,RBANS_5,broad visuospatial processing
+Figure Copy,9,37,Average,,19,rbans,RBANS,Visual Perception/Construction,Visuoconstruction,Visuoconstruction,FALSE,Nonverbal,Simultaneous,npsych_test,scaled_score,RBANS_6,copy of a complex abstract figure
+Line Orientation,,16,Low-Average,,14,rbans,RBANS,Visual Perception/Construction,Visuoperception,Visuoperception,FALSE,Nonverbal,Simultaneous,npsych_test,percentile,RBANS_7,basic percetion of visual stimuli
+Language Index,87,19,Low-Average,,,rbans,RBANS,Verbal/Language,General Language,General Language,TRUE,Verbal,Sequential,npsych_test,standard_score,RBANS_8,general language processing
+Picture Naming,,63,Average,,10,rbans,RBANS,Verbal/Language,Confrontation Naming,Confrontation Naming,FALSE,Verbal,Sequential,npsych_test,percentile,RBANS_9,confrontation naming/expressive vocabulary
+Semantic Fluency,5,5,Below Average,,17,rbans,RBANS,Verbal/Language,Semantic Fluency,Semantic Fluency,TRUE,Verbal,Sequential,npsych_test,scaled_score,RBANS_10,semantic word fluency/generativity
+Attention Index,68,2,Below Average,,,rbans,RBANS,Attention/Executive,Attentional Fluency,Attentional Fluency,TRUE,Verbal/Nonverbal,Attention,npsych_test,standard_score,RBANS_11,general attentional and executive functioning
+Digit Span,8,25,Average,,10,rbans,RBANS,Attention/Executive,Attention,Verbal Attention,FALSE,Verbal,Attention,npsych_test,scaled_score,RBANS_12,basic auditory attention
+Coding,2,0.01,Exceptionally Low,,34,rbans,RBANS,Attention/Executive,Processing Speed,Processing Speed,TRUE,Nonverbal,Planning,npsych_test,scaled_score,RBANS_13,speed of information processing
+Delayed Memory Index,44,0.01,Exceptionally Low,,,rbans,RBANS,Memory,General Learning/Memory,General Learning/Memory,FALSE,Verbal/Nonverbal,Sequential/Simultaneous,npsych_test,standard_score,RBANS_14,long-term recall of verbal information
+List Recall,,1,Exceptionally Low,,2,rbans,RBANS,Memory,Verbal Memory,Verbal Delayed Recall,FALSE,Verbal,Sequential,npsych_test,percentile,RBANS_15,long-term recall of a word list
+List Recognition,,1,Exceptionally Low,,15,rbans,RBANS,Memory,Verbal Memory,Verbal Delayed Recognition,FALSE,Verbal,Sequential,npsych_test,percentile,RBANS_16,delayed recognition of a word list
+Story Recall,2,0.01,Exceptionally Low,,3,rbans,RBANS,Memory,Verbal Memory,Verbal Delayed Recall,FALSE,Verbal,Sequential,npsych_test,scaled_score,RBANS_17,long-term recall of a detailed story
+Figure Recall,2,0.01,Exceptionally Low,,7,rbans,RBANS,Memory,Nonverbal Memory,Nonverbal Delayed Recall,FALSE,Nonverbal,Simultaneous,npsych_test,scaled_score,RBANS_18,long-term recall and reconstruction of a complex abstract figure
