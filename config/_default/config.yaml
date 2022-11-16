@@ -1,0 +1,54 @@
+title: "Joey W. Trampush, Ph.D."
+baseURL: https://brainworkup.org
+copyright: Copyright &copy; {year} Joey Trampush
+googleAnalytics: ''
+disqusShortname: ''
+theme: academia-hugo
+enableGitInfo: yes
+defaultContentLanguage: en
+hasCJKLanguage: no
+defaultContentLanguageInSubdir: no
+removePathAccents: yes
+paginate: 10
+enableEmoji: yes
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - \.knit\.md$
+  - \.utf8\.md$
+  - \.qmd$
+  - \.py$
+  - _files$
+  - _cache$
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+blackfriday:
+  angledQuotes: no
+  extensions: backslashLineBreak
+  hrefTargetBlank: yes
+  latexDashes: yes
+imaging:
+  anchor: smart
+  quality: 90
+  resampleFilter: lanczos
+taxonomies:
+  author: authors
+  category: categories
+  publication_type: publication_types
+  tag: tags
+permalinks:
+  post: /:year/:month/:day/:slug/
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
