@@ -17,11 +17,11 @@ hero_media = "jwt.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  # color = "#fff"
 
   # Background gradient.
-  gradient_start = "#8b949e"
-  gradient_end = "#c3cbd3"
+  # gradient_start = "#8b949e"
+  # gradient_end = "#c3cbd3"
 
   # Background image.
   # image = "logo_bwu_banner.png"  # Name of image in `static/img/`.
@@ -34,8 +34,8 @@ hero_media = "jwt.jpg"
 # Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 # Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "#about"
- # url = "/authors/admin"
+  #url = "#about"
+  url = "/authors/admin"
   label = "Learn More"
 
 [btn_alt]
