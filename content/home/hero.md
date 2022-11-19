@@ -17,11 +17,11 @@ hero_media = "jwt.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#fff"
+  color = "#fff"
 
   # Background gradient.
-  # gradient_start = "#8b949e"
-  # gradient_end = "#c3cbd3"
+  gradient_start = "#8b949e"
+  gradient_end = "#c3cbd3"
 
   # Background image.
   # image = "logo_bwu_banner.png"  # Name of image in `static/img/`.
@@ -49,4 +49,4 @@ hero_media = "jwt.jpg"
 _NEW WEBSITE; THIS SITE IS IN BUILD MODE; THIS IS A TEMPLATE_
 ...
 
-I have some expertise in the evaluation and diagnosis of neurodevelopmental disorders including ADHD, autism and learning problems; sports-related brain injury; and neuropsychiatric illness, especially those that emerge during early adulthood. I try to be an active researcher who studies brain and neurocognitive functioning in psychiatric illness as well as trying to figure out the underlying genetic architecture of brain development.
+<!-- I have some expertise in the evaluation and diagnosis of neurodevelopmental disorders including ADHD, autism and learning problems; sports-related brain injury; and neuropsychiatric illness, especially those that emerge during early adulthood. I try to be an active researcher who studies brain and neurocognitive functioning in psychiatric illness as well as trying to figure out the underlying genetic architecture of brain development. -->
