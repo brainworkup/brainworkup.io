@@ -1,5 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,test_type,score_type,timed,verbal,pass,absort,description
-Similarities,10,50,Average,,26,wais4,WAIS-IV,Verbal/Language,Verbal Reasoning,Verbal Reasoning,npsych_test,scaled_score,FALSE,Verbal,Sequential,WAIS-IV_01,abstract word reasoning
-Matrix Reasoning,6,9,Low-Average,,12,wais4,WAIS-IV,Visual Perception/Construction,Nonverbal Reasoning,Nonverbal Reasoning,npsych_test,scaled_score,FALSE,Nonverbal,Simultaneous,WAIS-IV_02,nonverbal/fluid inductive reasoning and problem-solving
-Letter-Number Sequencing,5,5,Below Average,,12,wais4,WAIS-IV,Attention/Executive,Working Memory,Verbal Working Memory,npsych_test,scaled_score,FALSE,Verbal,Attention,WAIS-IV_03,recalling and reordering progressively longer series of digits and letters
-Cancellation,5,5,Below Average,,24,wais4,WAIS-IV,Attention/Executive,Visual Attention,Visual Attention,npsych_test,scaled_score,TRUE,Nonverbal,Planning,WAIS-IV_04,visual attention and rapid information processing

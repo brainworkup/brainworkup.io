@@ -1,96 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joey W. Trampush, Ph.D.</title>
-    <link>https://brainworkup.org/</link>
-    <description>Recent content on Joey W. Trampush, Ph.D.</description>
+    <title>Joey Trampush, PhD</title>
+    <link>https://brainworkup.io/</link>
+    <description>Recent content on Joey Trampush, PhD</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.org/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Slides</title>
-      <link>https://brainworkup.org/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/slides/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://brainworkup.org/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <link>https://brainworkup.io/privacy/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://brainworkup.org/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>https://brainworkup.io/privacy/</guid>
+      <description>&lt;h2 id=&#34;citizen-code-of-conduct&#34;&gt;Citizen Code of Conduct&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Purpose
+A primary goal of brainworkup.io is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.&lt;/p&gt;
+&lt;p&gt;We invite all those who participate in Gwm.Flow to help us create safe and positive experiences for everyone.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Open [Source/Culture/Tech] Citizenship
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.&lt;/p&gt;
+&lt;p&gt;If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Expected Behavior
+The following behaviors are expected and requested of all community members:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+Exercise consideration and respect in your speech and actions.
+Attempt collaboration before conflict.
+Refrain from demeaning, discriminatory, or harassing behavior and speech.
+Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Unacceptable Behavior
+The following behaviors are considered harassment and are unacceptable within our community:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Violence, threats of violence or violent language directed against another person.
+Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+Posting or displaying sexually explicit or violent material.
+Posting or threatening to post other people&amp;rsquo;s personally identifying information (&amp;ldquo;doxing&amp;rdquo;).
+Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+Inappropriate photography or recording.
+Inappropriate physical contact. You should have someone&amp;rsquo;s consent before touching them.
+Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+Deliberate intimidation, stalking or following (online or in person).
+Advocating for, or encouraging, any of the above behavior.
+Sustained disruption of community events, including talks and presentations.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Weapons Policy
+No weapons will be allowed at bwu events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consequences of Unacceptable Behavior
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Anyone asked to stop unacceptable behavior is expected to comply immediately.&lt;/p&gt;
+&lt;p&gt;If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Reporting Guidelines
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. &lt;a href=&#34;mailto:j.trampush@gmail.com&#34;&gt;j.trampush@gmail.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Addressing Grievances
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Strict adherence to USC CoC policies.&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Scope
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues&amp;ndash;online and in-person&amp;ndash;as well as in all one-on-one communications pertaining to community business.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Contact info
+&lt;a href=&#34;mailto:j.trampush@gmail.com&#34;&gt;j.trampush@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;License and attribution
+The Citizen Code of Conduct is distributed by Stumptown Syndicate under a Creative Commons Attribution-ShareAlike license.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.&lt;/p&gt;
+&lt;p&gt;Revision 2.3. Posted 6 March 2017.&lt;/p&gt;
+&lt;p&gt;Revision 2.2. Posted 4 February 2016.&lt;/p&gt;
+&lt;p&gt;Revision 2.1. Posted 23 June 2014.&lt;/p&gt;
+&lt;p&gt;Revision 2.0, adopted by the Stumptown Syndicate board on 10 January 2013. Posted 17 March 2013.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://brainworkup.org/project/</link>
+      <link>https://brainworkup.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/project/</guid>
+      <guid>https://brainworkup.io/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adult Neuropsychology</title>
-      <link>https://brainworkup.org/adultneuro/</link>
+      <title>Clinical Resources</title>
+      <link>https://brainworkup.io/neuropsychology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/adultneuro/</guid>
+      <guid>https://brainworkup.io/neuropsychology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Child Neuropsychology</title>
-      <link>https://brainworkup.org/childneuro/</link>
+      <title>Neuroscience</title>
+      <link>https://brainworkup.io/neuroscience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/childneuro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://brainworkup.org/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/courses/</guid>
+      <guid>https://brainworkup.io/neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://brainworkup.org/post/</link>
+      <link>https://brainworkup.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/post/</guid>
+      <guid>https://brainworkup.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://brainworkup.org/publication/</link>
+      <link>https://brainworkup.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://brainworkup.org/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/talk/</guid>
+      <guid>https://brainworkup.io/publication/</guid>
       <description></description>
     </item>
     

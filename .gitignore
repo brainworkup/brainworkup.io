@@ -15,3 +15,5 @@ private/
 Thumbs.db
 /.quarto/
 x/
+/public/
+/resources/

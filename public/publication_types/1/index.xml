@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Joey W. Trampush, Ph.D.</title>
-    <link>https://brainworkup.org/publication_types/1/</link>
-    <description>Recent content in 1 on Joey W. Trampush, Ph.D.</description>
+    <title>1 on Joey Trampush, PhD</title>
+    <link>https://brainworkup.io/publication_types/1/</link>
+    <description>Recent content in 1 on Joey Trampush, PhD</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example conference paper</title>
-      <link>https://brainworkup.org/publication/conference-paper/</link>
+      <link>https://brainworkup.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/publication/conference-paper/</guid>
+      <guid>https://brainworkup.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

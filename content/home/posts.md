@@ -12,7 +12,7 @@ subtitle = "Blog posts related to my research and clinical work"
 
 [content]
   page_type = "post"
-  count = 4
+  count = 3
   offset = 0
   order = "desc"
 

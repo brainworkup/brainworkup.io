@@ -1,2 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,timed,verbal,pass,test_type,score_type,absort,description
-Raw Score,1,,At-Risk,,18,bdi2,Beck Depression Inventory-II,Behavioral/Emotional/Social,Depression,Depression,,,,rating_scale,raw_score,Beck Depression Inventory-II_1,"a brief, self-report inventory designed to measure the severity of depression symptomatology"

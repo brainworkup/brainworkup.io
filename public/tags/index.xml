@@ -1,131 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Joey W. Trampush, Ph.D.</title>
-    <link>https://brainworkup.org/tags/</link>
-    <description>Recent content in Tags on Joey W. Trampush, Ph.D.</description>
+    <title>Tags on Joey Trampush, PhD</title>
+    <link>https://brainworkup.io/tags/</link>
+    <description>Recent content in Tags on Joey Trampush, PhD</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ggplot2</title>
-      <link>https://brainworkup.org/tags/ggplot2/</link>
+      <link>https://brainworkup.io/tags/ggplot2/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/ggplot2/</guid>
+      <guid>https://brainworkup.io/tags/ggplot2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://brainworkup.org/tags/r/</link>
+      <link>https://brainworkup.io/tags/r/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/r/</guid>
+      <guid>https://brainworkup.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://brainworkup.org/tags/r-markdown/</link>
+      <link>https://brainworkup.io/tags/r-markdown/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/r-markdown/</guid>
+      <guid>https://brainworkup.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shiny</title>
-      <link>https://brainworkup.org/tags/shiny/</link>
+      <link>https://brainworkup.io/tags/shiny/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/shiny/</guid>
+      <guid>https://brainworkup.io/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gganimate</title>
-      <link>https://brainworkup.org/tags/gganimate/</link>
+      <link>https://brainworkup.io/tags/gganimate/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/gganimate/</guid>
+      <guid>https://brainworkup.io/tags/gganimate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://brainworkup.org/tags/plot/</link>
+      <link>https://brainworkup.io/tags/plot/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/plot/</guid>
+      <guid>https://brainworkup.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://brainworkup.org/tags/regression/</link>
+      <link>https://brainworkup.io/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://brainworkup.org/tags/regression/</guid>
+      <guid>https://brainworkup.io/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://brainworkup.org/tags/source-themes/</link>
+      <link>https://brainworkup.io/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/source-themes/</guid>
+      <guid>https://brainworkup.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://brainworkup.org/tags/deep-learning/</link>
+      <link>https://brainworkup.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/deep-learning/</guid>
+      <guid>https://brainworkup.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://brainworkup.org/tags/demo/</link>
+      <link>https://brainworkup.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/demo/</guid>
+      <guid>https://brainworkup.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human</title>
-      <link>https://brainworkup.org/tags/human/</link>
+      <link>https://brainworkup.io/tags/human/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/human/</guid>
+      <guid>https://brainworkup.io/tags/human/</guid>
       <description></description>
     </item>
     
     <item>
       <title>robotics</title>
-      <link>https://brainworkup.org/tags/robotics/</link>
+      <link>https://brainworkup.io/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academia</title>
-      <link>https://brainworkup.org/tags/academia/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/academia/</guid>
+      <guid>https://brainworkup.io/tags/robotics/</guid>
       <description></description>
     </item>
     

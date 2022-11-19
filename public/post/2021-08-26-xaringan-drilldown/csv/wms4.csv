@@ -1,2 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,timed,verbal,pass,test_type,score_type,absort,description
-Symbol Span,5,5,Below Average,,11,wms4,WMS-IV,Attention/Executive,Working Memory,Nonverbal Working Memory,FALSE,Nonverbal,Simultaneous,npsych_test,scaled_score,WMS-IV_1,visual/nonverbal working memory

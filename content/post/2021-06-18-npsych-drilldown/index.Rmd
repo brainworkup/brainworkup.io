@@ -1,14 +1,14 @@
 ---
 title: "Drilldown on Neuropsych Data with R"
-subtitle: drilldown plot in highcharter
-summary: "drilldown plot in highcharter trying to post"
+subtitle: "drilldown plot in highcharter"
+summary: "Drilldown plot in highcharter trying to post"
 slug: npsych-drilldown
 authors:
 - admin
 categories: [R]
 date: '2021-06-18'
 draft: false
-featured: true
+featured: false
 projects: []
 tags: []
 lastmod: '2021-06-18T18:11:39-07:00'
@@ -34,9 +34,6 @@ library(crosstalk)
 library(manipulateWidget)
 # Chunk options
 knitr::opts_chunk$set(collapse = TRUE, class.source = c("aside", "img", "drilld", "rect"))
-print(getwd())
-print(here::here())
-readRenviron("./Renviron")
 ```
 
 ### Load libraries
@@ -73,7 +70,7 @@ rect[Attributes Style] {
 # patient
 patient <- "Biggie"
 # path to files
-data_path <- ("~/cortex/bwu/brainworkup.io/content/post/2021-06-18-npsych-drilldown/csv")
+data_path <- ("csv")
 # get file names of .csv files
 files <- dir(data_path, pattern = "*.csv")
 # read into env
@@ -93,7 +90,6 @@ neuropsych <- neuropsych %>%
   dplyr::mutate(domain = forcats::as_factor(domain)) %>%
   dplyr::mutate(subdomain = forcats::as_factor(subdomain)) %>%
   dplyr::mutate(narrow = forcats::as_factor(narrow)) %>%
-  dplyr::mutate(verbal = forcats::as_factor(verbal)) %>%
   dplyr::mutate(pass = forcats::as_factor(pass)) %>%
   dplyr::mutate(timed = forcats::as_factor(timed))
 ```

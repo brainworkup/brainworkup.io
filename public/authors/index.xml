@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Joey W. Trampush, Ph.D.</title>
-    <link>https://brainworkup.org/authors/</link>
-    <description>Recent content in Authors on Joey W. Trampush, Ph.D.</description>
+    <title>Authors on Joey Trampush, PhD</title>
+    <link>https://brainworkup.io/authors/</link>
+    <description>Recent content in Authors on Joey Trampush, PhD</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.org/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Joey Trampush</title>
-      <link>https://brainworkup.org/authors/joey-trampush/</link>
+      <link>https://brainworkup.io/authors/joey-trampush/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/authors/joey-trampush/</guid>
+      <guid>https://brainworkup.io/authors/joey-trampush/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://brainworkup.org/authors/robert-ford/</link>
+      <link>https://brainworkup.io/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/authors/robert-ford/</guid>
+      <guid>https://brainworkup.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://brainworkup.org/authors/admin/</link>
+      <link>https://brainworkup.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/authors/admin/</guid>
+      <guid>https://brainworkup.io/authors/admin/</guid>
       <description>&lt;p&gt;I study how molecular genetics shape our behavior and risk for psychiatric illness using tools based on open-source data science. As a clinician and developmental neuropsychologist, I specialize in the evaluation of cognitive/learning/emotional difficulties and provide diagnostic clarification in children and young adults.&lt;/p&gt;
 </description>
     </item>

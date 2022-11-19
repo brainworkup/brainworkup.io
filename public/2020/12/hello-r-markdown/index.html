@@ -29,22 +29,22 @@
   
     
   
-  <meta name="description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+  <meta name="description" content="R Markdown Including Plots   R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.: 26.00  ## Median :15.0 Median : 36.00  ## Mean :15.4 Mean : 42.">
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://brainworkup.org/2020/12/hello-r-markdown/">
-
-  
-
+  <link rel="alternate" hreflang="en-us" href="https://brainworkup.io/2020/12/hello-r-markdown/">
 
   
 
+
+  
+
   
   
   
-  <meta name="theme-color" content="#fc6f5c">
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
   
 
   
@@ -64,10 +64,8 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
     
       
       
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
       
     
 
@@ -75,6 +73,9 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
     
 
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.9.0/instantsearch.min.css" integrity="sha256-ZtmLe16p4jS4/2wPwwH6NzJt460SJzgLmhKrYo5yn7g=" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch-theme-algolia.min.css" integrity="sha256-uL8LUd3zkI/lXvc/Hv/oOu8ld6RJcOZiUY/8c+I+3/o=" crossorigin="anonymous">
     
 
   
@@ -87,7 +88,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
   
   
   
-  <link rel="stylesheet" href="/css/academia.min.2a8c04ab82b06c7d50e71966f2490341.css">
+  <link rel="stylesheet" href="/css/academia.min.2db51bf82ac7ca66ec67b2170e9987a0.css">
 
   
 
@@ -102,28 +103,30 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://brainworkup.org/2020/12/hello-r-markdown/">
+  <link rel="canonical" href="https://brainworkup.io/2020/12/hello-r-markdown/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Joey W. Trampush, Ph.D.">
-  <meta property="og:url" content="https://brainworkup.org/2020/12/hello-r-markdown/">
-  <meta property="og:title" content="Hello R Markdown | Joey W. Trampush, Ph.D.">
-  <meta property="og:description" content="R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+  <meta property="twitter:site" content="@brainworkup">
+  <meta property="twitter:creator" content="@brainworkup">
+  
+  <meta property="og:site_name" content="Joey Trampush, PhD">
+  <meta property="og:url" content="https://brainworkup.io/2020/12/hello-r-markdown/">
+  <meta property="og:title" content="Hello R Markdown | Joey Trampush, PhD">
+  <meta property="og:description" content="R Markdown Including Plots   R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.: 26.00  ## Median :15.0 Median : 36.00  ## Mean :15.4 Mean : 42."><meta property="og:image" content="https://brainworkup.org/img/icon-192.png">
-  <meta property="twitter:image" content="https://brainworkup.org/img/icon-192.png"><meta property="og:locale" content="en-us">
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36."><meta property="og:image" content="https://brainworkup.io/img/logo_bwu.png">
+  <meta property="twitter:image" content="https://brainworkup.io/img/logo_bwu.png"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2020-12-01T21:13:14-05:00">
   
-  <meta property="article:modified_time" content="2022-11-16T10:39:22-08:00">
+  <meta property="article:modified_time" content="2022-11-19T14:09:10-08:00">
   
 
   
@@ -135,12 +138,12 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
 
 
 
-  <title>Hello R Markdown | Joey W. Trampush, Ph.D.</title>
+  <title>Hello R Markdown | Joey Trampush, PhD</title>
 
 </head>
 
 
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -178,7 +181,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Joey W. Trampush, Ph.D.</a>
+      <a class="navbar-brand" href="/">Joey Trampush, PhD</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
       </button>
@@ -243,7 +246,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Articles</span></a>
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
         </li>
 
         
@@ -308,93 +311,20 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
-        </li>
-
-        
-        
-
-        
         <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Clinical</span><span class="caret"></span>
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Resources</span><span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
             
             <li class="dropdown-item my-0 py-0 mx-0 px-0">
-              <a href="/childneuro/"><span>Child Neuropsychology</span></a>
+              <a href="/neuropsychology/"><span>Neuropsychology</span></a>
             </li>
             
             <li class="dropdown-item my-0 py-0 mx-0 px-0">
-              <a href="/adultneuro/"><span>Adult Neuropsychology</span></a>
+              <a href="/neuroscience/"><span>Neuroscience</span></a>
             </li>
             
           </ul>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -404,6 +334,10 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
 
         
 
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
         
 
         
@@ -451,7 +385,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
 
 
 <meta content="2020-12-01 21:13:14 -0500 -0500" itemprop="datePublished">
-<meta content="2022-11-16 10:39:22 -0800 PST" itemprop="dateModified">
+<meta content="2022-11-19 14:09:10 -0800 PST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -466,7 +400,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
           Last updated on
       
     
-    <time>Nov 16, 2022</time>
+    <time>Nov 19, 2022</time>
   </span>
   
 
@@ -503,7 +437,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://brainworkup.org/2020/12/hello-r-markdown/&amp;text=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://brainworkup.io/2020/12/hello-r-markdown/&amp;text=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -516,7 +450,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://brainworkup.org/2020/12/hello-r-markdown/&amp;t=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://brainworkup.io/2020/12/hello-r-markdown/&amp;t=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -529,7 +463,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="mailto:?subject=Hello%20R%20Markdown&amp;body=https://brainworkup.org/2020/12/hello-r-markdown/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Hello%20R%20Markdown&amp;body=https://brainworkup.io/2020/12/hello-r-markdown/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -542,7 +476,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://brainworkup.org/2020/12/hello-r-markdown/&amp;title=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://brainworkup.io/2020/12/hello-r-markdown/&amp;title=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -555,7 +489,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Hello%20R%20Markdown%20https://brainworkup.org/2020/12/hello-r-markdown/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Hello%20R%20Markdown%20https://brainworkup.io/2020/12/hello-r-markdown/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -568,7 +502,7 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://brainworkup.org/2020/12/hello-r-markdown/&amp;title=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://brainworkup.io/2020/12/hello-r-markdown/&amp;title=Hello%20R%20Markdown" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -605,38 +539,53 @@ summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.:
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <h1 id="r-markdown">R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
+      
+
+<div id="TOC">
+<ul>
+<li><a href="#r-markdown" id="toc-r-markdown">R Markdown</a></li>
+<li><a href="#including-plots" id="toc-including-plots">Including Plots</a></li>
+</ul>
+</div>
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
 <p>You can embed an R code chunk like this:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#a6e22e">summary</span>(cars)
-<span style="color:#75715e">##      speed           dist       </span>
-<span style="color:#75715e">##  Min.   : 4.0   Min.   :  2.00  </span>
-<span style="color:#75715e">##  1st Qu.:12.0   1st Qu.: 26.00  </span>
-<span style="color:#75715e">##  Median :15.0   Median : 36.00  </span>
-<span style="color:#75715e">##  Mean   :15.4   Mean   : 42.98  </span>
-<span style="color:#75715e">##  3rd Qu.:19.0   3rd Qu.: 56.00  </span>
-<span style="color:#75715e">##  Max.   :25.0   Max.   :120.00</span>
-fit <span style="color:#f92672">&lt;-</span> <span style="color:#a6e22e">lm</span>(dist <span style="color:#f92672">~</span> speed, data <span style="color:#f92672">=</span> cars)
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
 fit
-<span style="color:#75715e">## </span>
-<span style="color:#75715e">## Call:</span>
-<span style="color:#75715e">## lm(formula = dist ~ speed, data = cars)</span>
-<span style="color:#75715e">## </span>
-<span style="color:#75715e">## Coefficients:</span>
-<span style="color:#75715e">## (Intercept)        speed  </span>
-<span style="color:#75715e">##     -17.579        3.932</span>
-</code></pre></div><h1 id="including-plots">Including Plots</h1>
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
 <p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-r" data-lang="r"><span style="color:#a6e22e">par</span>(mar <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>))
-<span style="color:#a6e22e">pie</span>(
-  <span style="color:#a6e22e">c</span>(<span style="color:#ae81ff">280</span>, <span style="color:#ae81ff">60</span>, <span style="color:#ae81ff">20</span>),
-  <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#39;Sky&#39;</span>, <span style="color:#e6db74">&#39;Sunny side of pyramid&#39;</span>, <span style="color:#e6db74">&#39;Shady side of pyramid&#39;</span>),
-  col <span style="color:#f92672">=</span> <span style="color:#a6e22e">c</span>(<span style="color:#e6db74">&#39;#0292D8&#39;</span>, <span style="color:#e6db74">&#39;#F7EA39&#39;</span>, <span style="color:#e6db74">&#39;#C4B632&#39;</span>),
-  init.angle <span style="color:#f92672">=</span> <span style="color:#ae81ff">-50</span>, border <span style="color:#f92672">=</span> <span style="color:#66d9ef">NA</span>
-)
-</code></pre></div><div class="figure">
-<img src="https://brainworkup.org/2020/12/hello-r-markdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">Figure 1: A fancy pie chart.</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
+<img src="https://brainworkup.io/2020/12/hello-r-markdown/index_files/figure-html/pie-1.svg" alt="A fancy pie chart." width="768" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
 </div>
 
     </div>
@@ -681,7 +630,7 @@ fit
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://brainworkup.org">Joey W. Trampush, Ph.D.</a></h5>
+      <h5 class="card-title" itemprop="name"><a href="https://brainworkup.io">Joey W. Trampush, Ph.D.</a></h5>
       <h6 class="card-subtitle">Della Martin Assistant Professor of Psychiatry and the Behavioral Sciences</h6>
       <p class="card-text" itemprop="description">Developmental Neuropsychologist &amp; Geneticist | Psychiatry &amp; Behavioral Sciences | Keck Medicine of USC</p>
       <ul class="network-icon" aria-hidden="true">
@@ -774,6 +723,9 @@ fit
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -789,9 +741,19 @@ fit
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/rmd.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/markdown.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/quarto.min.js"></script>
+        
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
@@ -810,17 +772,58 @@ fit
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-algolia-template" type="text/html">
+      <div class="search-hit">
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
+          </div>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
+        </div>
+      </div>
+    </script>
+    
 
     
     
 
     
     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch.min.js" integrity="sha256-gFCtPk/sonctyfwYOgjrPoWApQ0rqB6ezBBZ7p32yGc=" crossorigin="anonymous"></script>
+    
+    <script>
+      const algoliaConfig = {
+        appId: "",
+        apiKey: "",
+        indexName: "",
+        poweredBy:  false 
+      };
+    </script>
+    
 
     
     
@@ -831,10 +834,12 @@ fit
     
     
     
+      
     
     
     
-    <script src="/js/academia.min.e40e230d9b3dfeac86994156b6388764.js"></script>
+    
+    <script src="/js/academia.min.787a8f851f4926d15dd2e703fda3094a.js"></script>
 
     
 
@@ -876,20 +881,7 @@ fit
           
           
           <li class="list-inline-item">
-            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <li class="list-inline-item">
-            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/brainworkup" target="_blank" rel="noopener" title="twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
           </li>
           
           
@@ -904,7 +896,7 @@ fit
           
           
           <li class="list-inline-item">
-            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+            <a href="https://www.instagram.com/brainworkup" target="_blank" rel="noopener" title="gram"><i class="fab fa-instagram" aria-hidden="true"></i></a>
           </li>
           
           
@@ -919,7 +911,7 @@ fit
           
           
           <li class="list-inline-item">
-            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+            <a href="https://github.com/brainworkup" target="_blank" rel="noopener" title="github"><i class="fab fa-github" aria-hidden="true"></i></a>
           </li>
           
         </ul>

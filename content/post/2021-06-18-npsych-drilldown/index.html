@@ -1,0 +1,94 @@
+---
+title: "Drilldown on Neuropsych Data with R"
+subtitle: "drilldown plot in highcharter"
+summary: "Drilldown plot in highcharter trying to post"
+slug: npsych-drilldown
+authors:
+- admin
+categories: [R]
+date: '2021-06-18'
+draft: false
+featured: false
+projects: []
+tags: []
+lastmod: '2021-06-18T18:11:39-07:00'
+---
+
+<script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="{{< blogdown/postref >}}index_files/pymjs/pym.v1.js"></script>
+<script src="{{< blogdown/postref >}}index_files/widgetframe-binding/widgetframe.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#highcharter-drilldown-setup" id="toc-highcharter-drilldown-setup">Highcharter Drilldown Setup</a>
+<ul>
+<li><a href="#r-markdown-chunk-options" id="toc-r-markdown-chunk-options">R Markdown chunk options</a></li>
+<li><a href="#load-libraries" id="toc-load-libraries">Load libraries</a></li>
+<li><a href="#import-data" id="toc-import-data">Import data</a></li>
+</ul></li>
+<li><a href="#drilldown-using-percentiles" id="toc-drilldown-using-percentiles">Drilldown using percentiles</a></li>
+<li><a href="#drilldown-using-zscores" id="toc-drilldown-using-zscores">Drilldown using zScores</a></li>
+</ul>
+</div>
+
+<div id="highcharter-drilldown-setup" class="section level2">
+<h2>Highcharter Drilldown Setup</h2>
+<div id="r-markdown-chunk-options" class="section level3">
+<h3>R Markdown chunk options</h3>
+</div>
+<div id="load-libraries" class="section level3">
+<h3>Load libraries</h3>
+<style type="text/css">
+aside {
+  margin-left: 100%;
+  position: absolute;
+}
+</style>
+<style type="text/css">
+img {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+</style>
+<style type="text/css">
+rect[Attributes Style] {
+    fill: transparent;
+    x: 0;
+    y: 0;
+    width: 800;
+    height: 500;
+    rx: 0;
+    ry: 0;
+}
+</style>
+</div>
+<div id="import-data" class="section level3">
+<h3>Import data</h3>
+</div>
+</div>
+<div id="drilldown-using-percentiles" class="section level2">
+<h2>Drilldown using percentiles</h2>
+<style type="text/css">
+.drilld {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+}
+</style>
+<div class="figure"><span style="display:block;" id="fig:drillp"></span>
+<div id="htmlwidget-1" style="width:100%;height:480px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"url":"index_files/figure-html//widgets/widget_drillp.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figure 1: Drilldown Neuropsych Pct
+</p>
+</div>
+</div>
+<div id="drilldown-using-zscores" class="section level2">
+<h2>Drilldown using zScores</h2>
+<div class="figure"><span style="display:block;" id="fig:drillz"></span>
+<div id="htmlwidget-2" style="width:100%;height:480px;" class="widgetframe html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"url":"index_files/figure-html//widgets/widget_drillz.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figure 2: Drilldown Neuropsych zScores
+</p>
+</div>
+</div>
