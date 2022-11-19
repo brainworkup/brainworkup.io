@@ -43,8 +43,10 @@ hero_media = "jwt.jpg"
   label = "Contact Me"
 
 +++
+
 ## My name is **Joey** and I am an **Assistant Professor of Psychiatry & Behavioral Sciences** @ USC specializing in **Neuropsychology** and **Genetics**.
 
-*new website; this site is in build mode; this is a template*
+_NEW WEBSITE; THIS SITE IS IN BUILD MODE; THIS IS A TEMPLATE_
 ...
-<!-- I have some expertise in the evaluation and diagnosis of neurodevelopmental disorders including ADHD, autism and learning problems; sports-related brain injury; and neuropsychiatric illness, especially those that emerge during early adulthood. I try to be an active researcher who studies brain and neurocognitive functioning in psychiatric illness as well as trying to figure out the underlying genetic architecture of brain development. -->
+
+I have some expertise in the evaluation and diagnosis of neurodevelopmental disorders including ADHD, autism and learning problems; sports-related brain injury; and neuropsychiatric illness, especially those that emerge during early adulthood. I try to be an active researcher who studies brain and neurocognitive functioning in psychiatric illness as well as trying to figure out the underlying genetic architecture of brain development.

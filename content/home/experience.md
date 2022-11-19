@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-03-01"
   date_end = ""
-  description = """Description of position."""
+  description = """Assistant Professor in the Department of Psychiatry and the Behavioral Sciences"""
 
 [[experience]]
   title = "Assistant Professor"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Queens, NY"
   date_start = "2012-12-01"
   date_end = "2016-06-30"
-  description = """Description of position."""
+  description = """Director, Laboratory of Cognitive Genomics"""
 
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2010-08-01"
   date_end = "2012-11-30"
-  description = """Description of position."""
+  description = """Postdoctoral fellow in the Clinical Brain Disorders Branch and Genes, Cognition, and Psychosis Program (CBDB/GCAP)"""
 
 # [[experience]]
  # title = "Being born"
