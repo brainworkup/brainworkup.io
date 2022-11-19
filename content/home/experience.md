@@ -20,12 +20,13 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Della Martin Assistant Professor of Psychiatry"
   company = "Keck School of Medicine of USC"
-  #department = "Department of Psychiatry and the Behavioral Sciences"
+  department = "Department of Psychiatry and the Behavioral Sciences"
   company_url = "https://usc.edu"
   location = "Los Angeles, CA"
   date_start = "Mar 2018"
   date_end = ""
   description = """
+  Description of position
   """
 
 [[experience]]
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2012-12-01"
   date_end = "2016-06-30"
   description = """
+  Description of position
   """
 
 [[experience]]
@@ -46,6 +48,7 @@ date_format = "Jan 2006"
   date_start = "2010-08-01"
   date_end = "2012-11-30"
   description = """
+  Description of position
   """
 
 # [[experience]]
