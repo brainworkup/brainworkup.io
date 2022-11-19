@@ -6,7 +6,7 @@ microsoft_clarity = ""
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "ocean"
+color_theme = "dark"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -62,7 +62,7 @@ office_hours = """Monday 10:00 to 13:00<br>
                   Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://usemotion.com/meet/joey/meeting"
+#appointment_url = "https://usemotion.com/meet/joey/meeting"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
