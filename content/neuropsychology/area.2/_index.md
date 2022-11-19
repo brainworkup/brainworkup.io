@@ -8,7 +8,7 @@ summary: Learn about Dyslexia
 title: Overview
 toc: true
 type: docs
-weight: 2
+weight: 1
 ---
 
 ## Prevalence of Dyslexia

@@ -6,7 +6,7 @@ menu: area.2
 title: Dyslexia in Adulthood
 toc: true
 type: docs
-weight: 2
+weight: 3
 ---
 
 ## Undiagnosed Dyslexia in College Students
