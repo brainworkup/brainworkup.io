@@ -13,12 +13,15 @@ if (file.exists("~/.Rprofile")) {
 # https://bookdown.org/yihui/blogdown/global-options.html
 options(
   # to automatically serve the site on RStudio startup, set this option to TRUE
-  blogdown.serve_site.startup = FALSE,
+  blogdown.serve_site.startup = TRUE,
   # to disable knitting Rmd files on save, set this option to FALSE
   blogdown.knit.on_save = TRUE,
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'
-  blogdown.method = 'markdown'
+  blogdown.method = 'html'
 )
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.83.1")
+
+# me
+.libPaths(c("/Users/joey/.Rlibrary", "/Library/Frameworks/R.framework/Versions/4.2/Resources/library"))
