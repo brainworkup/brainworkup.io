@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Articles"
+  name = "Blog"
   url = "#posts"
   weight = 20
 
@@ -24,36 +24,31 @@
   weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-
-[[main]]
-  name = "Clinical"
+  name = "Resources"
   url = "#"
-  weight = 60
+  weight = 50
   hasChildren = true
 
 [[main]]
-  parent = "Clinical"
+  parent = "Resources"
   name = "Child Neuropsychology"
   url = "childneuro/"
-  weight = 65
+  weight = 55
 
 [[main]]
-  parent = "Clinical"
+  parent = "Resources"
   name = "Adult Neuropsychology"
   url = "adultneuro/"
-  weight = 70
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 90
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
    url = "files/cv.pdf"
-   weight = 80
+   weight = 70
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 80
