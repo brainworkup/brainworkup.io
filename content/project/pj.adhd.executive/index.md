@@ -6,6 +6,13 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-- Robotics
-title: Robotics
+  - executive function
+  - ADHD
+title: ADHD and Executive Functioning in College Students
 ---
+
+## Abstract
+
+## Background
+
+## Design

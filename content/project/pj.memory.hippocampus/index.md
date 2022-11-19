@@ -6,6 +6,9 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-- human
-title: Skin Cancer AI
+  - memory
+  - neurosurgery
+title: Hippocampal Memory SEEG
 ---
+
+TODO:
