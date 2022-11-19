@@ -5,7 +5,7 @@ lastmod: "2022-11-17T00:00:00Z"
 linktitle: ADHD
 menu:
   example:
-    name: Preview
+    name: area
     weight: 1
 summary: Learn about child and adolescent ADHD
 title: Preview

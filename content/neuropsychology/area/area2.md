@@ -4,7 +4,7 @@ draft: false
 linktitle: Areas 3-4
 menu:
   example:
-    parent: Example Area
+    parent: area
     weight: 2
 title: Area Page 2
 toc: true
