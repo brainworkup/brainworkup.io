@@ -6,7 +6,7 @@ active = true
 weight = 40
 
 title = "Experience"
-subtitle = "Online version of CV"
+subtitle = "Academic CV"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -23,11 +23,9 @@ date_format = "Jan 2006"
   department = "Department of Psychiatry and the Behavioral Sciences"
   company_url = "https://usc.edu"
   location = "Los Angeles, CA"
-  date_start = "Mar 2018"
+  date_start = "2018-03-01"
   date_end = ""
-  description = """
-  Description of position
-  """
+  description = """Description of position."""
 
 [[experience]]
   title = "Assistant Professor"
@@ -36,9 +34,7 @@ date_format = "Jan 2006"
   location = "Queens, NY"
   date_start = "2012-12-01"
   date_end = "2016-06-30"
-  description = """
-  Description of position
-  """
+  description = """Description of position."""
 
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -47,9 +43,7 @@ date_format = "Jan 2006"
   location = "Washington, DC"
   date_start = "2010-08-01"
   date_end = "2012-11-30"
-  description = """
-  Description of position
-  """
+  description = """Description of position."""
 
 # [[experience]]
  # title = "Being born"
