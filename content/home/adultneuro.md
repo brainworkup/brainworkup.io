@@ -1,10 +1,10 @@
 +++
-# Trying to create Child Neuropsychology page.
+# Trying to create Adult Neuropsychology page.
 
 widget = "pages"
 headless = false
 active = false
-weight = 65
+weight = 60
 
 title = "Adult Neuropsychology"
 subtitle = "Info related to adult neuropsycology"
@@ -44,18 +44,18 @@ subtitle = "Info related to adult neuropsycology"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  image = "logo.basic.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  text_color_light = true
 
 [advanced]
  # Custom CSS.
