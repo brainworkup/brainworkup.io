@@ -36,7 +36,7 @@ hero_media = "jwt.jpg"
 [btn]
   #url = "#about"
   url = "/authors/admin"
-  label = "Learn More"
+  label = "About Me"
 
 [btn_alt]
   url = "#contact"

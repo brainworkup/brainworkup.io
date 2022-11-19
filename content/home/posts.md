@@ -8,7 +8,7 @@ active = true
 weight = 60
 
 title = "Recent Posts"
-subtitle = "RESEARCH/CLINICAL/DATA SCIENCE"
+subtitle = "Blog posts related to my research and clinical work"
 
 [content]
   page_type = "post"
@@ -29,7 +29,7 @@ subtitle = "RESEARCH/CLINICAL/DATA SCIENCE"
   # 2 = Compact
   # 3 = Card
   # 4 = Citation (publication only)
-  view = 1
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.
