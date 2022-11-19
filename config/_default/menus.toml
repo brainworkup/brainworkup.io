@@ -31,14 +31,14 @@
 
 [[main]]
   parent = "Resources"
-  name = "Child Neuropsychology"
-  url = "childneuro/"
+  name = "Neuropsychology"
+  url = "neuropsychology/"
   weight = 55
 
 [[main]]
   parent = "Resources"
-  name = "Adult Neuropsychology"
-  url = "adultneuro/"
+  name = "Neuroscience"
+  url = "neuroscience/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
