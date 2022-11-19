@@ -1,15 +1,15 @@
 ---
-date: "2022-11-19 T00:00:00+01:00"
+date: "2022-11-19"
 draft: false
-linktitle: Child ADHD
-menu: area
-title: ADHD in Childred and Adolescents
+linktitle: Adult Dyslexia
+menu: area.2
+title: Dyslexia in Adulthood
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
-## Preschoolers
+## Undiagnosed Dyslexia in College Students
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -22,7 +22,7 @@ Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
 
-## School-Age Children
+## Dyslexia in Full-Grown Adults 😲
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -34,7 +34,3 @@ Sed ac tempus magna.
 Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
-
-## Adolescents
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.

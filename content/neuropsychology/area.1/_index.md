@@ -1,17 +1,17 @@
 ---
-date: "2022-11-19"
+date: "2022-04-03T00:00:00Z"
 draft: false
-lastmod: "2022-11-19"
-linktitle: Dyslexia
+lastmod: "2022-11-17T00:00:00Z"
+linktitle: ADHD
 menu: area.1
-summary: Learn about Dyslexia
+summary: Learn about child and adolescent ADHD
 title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-## Prevalence of Dyslexia
+## Prevalence of ADHD
 
 This feature can be used for publishing content such as:
 

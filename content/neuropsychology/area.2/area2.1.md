@@ -1,15 +1,15 @@
 ---
-date: "2022-11-17 T00:00:00+01:00"
+date: "2022-11-19"
 draft: false
-linktitle: Adult ADHD
-menu: area
-title: ADHD in Adulthood
+linktitle: Childhood Dyslexia
+menu: area.2
+title: Dyslexia in Childred and Adolescents
 toc: true
 type: docs
-weight: 2
+weight: 1
 ---
 
-## College-Onset ADHD
+## Preschoolers
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -22,7 +22,7 @@ Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
 
-## Adult-Onset ADHD
+## School-Age Children
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -35,4 +35,6 @@ Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
 
-## ADHD in Older Adults
+## Adolescents
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
