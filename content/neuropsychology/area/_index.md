@@ -5,10 +5,10 @@ lastmod: "2022-11-17T00:00:00Z"
 linktitle: ADHD
 menu:
   example:
-    name: Overview
+    name: Preview
     weight: 1
-summary: Learn about child and adolescent ADHD.
-title: Overview
+summary: Learn about child and adolescent ADHD
+title: Preview
 toc: true
 type: docs
 weight: 1
