@@ -3,9 +3,8 @@ date: "2022-11-17T00:00:00+01:00"
 draft: false
 linktitle: Areas 3-4
 menu:
-  example:
-    parent: area
-    weight: 2
+  area:
+    weight: 1
 title: Area Page 2
 toc: true
 type: docs

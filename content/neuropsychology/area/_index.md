@@ -3,10 +3,7 @@ date: "2022-04-03T00:00:00Z"
 draft: false
 lastmod: "2022-11-17T00:00:00Z"
 linktitle: ADHD
-menu:
-  example:
-    name: area
-    weight: 1
+menu: area
 summary: Learn about child and adolescent ADHD
 title: Preview
 toc: true
