@@ -2,9 +2,7 @@
 date: "2022-11-17 T00:00:00+01:00"
 draft: false
 linktitle: Adult ADHD
-menu:
-  area:
-    weight: 1
+menu: area
 title: ADHD in Adulthood
 toc: true
 type: docs

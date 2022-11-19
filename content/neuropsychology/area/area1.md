@@ -2,10 +2,8 @@
 date: "2022-11-19 T00:00:00+01:00"
 draft: false
 linktitle: Child ADHD
-menu:
-  area:
-    weight: 1
-title: Child and Adolescent ADHD
+menu: area
+title: ADHD in Childred and Adolescents
 toc: true
 type: docs
 weight: 1
