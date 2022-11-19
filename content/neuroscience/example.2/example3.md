@@ -1,14 +1,16 @@
 ---
+title: Example Page 1
+linktitle: Tips 9-10
+toc: true
+type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Tips 9-10
 menu:
   example.2:
     parent: Example Topic
     weight: 1
-title: Example Page 1
-toc: true
-type: docs
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
 

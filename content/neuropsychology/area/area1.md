@@ -1,20 +1,20 @@
 ---
-date: "2022-11-17T00:00:00+01:00"
+date: "2022-11-19 T00:00:00+01:00"
 draft: false
-linktitle: Tips 3-4
+linktitle: Areas 1-2
 menu:
   example:
-    parent: Example Topic 2
-    weight: 2
-title: Example Page 2
+    parent: Example Area
+    weight: 1
+title: Area Page 1
 toc: true
 type: docs
-weight: 2
+weight: 1
 ---
 
-Here are some more tips for getting started with academia:
+In this tutorial, I'll share my top 10 tips for getting started with Academia:
 
-## Tip 3
+## Area 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -27,7 +27,7 @@ Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
 
-## Tip 4
+## Area 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.

@@ -1,18 +1,24 @@
 ---
+# Course title, summary, and position.
+linktitle: An Example Course
+summary: Learn how to use Academia's docs layout for publishing online courses, software documentation, and tutorials.
+weight: 1
+
+# Page metadata.
+title: Overview 3
 date: "2018-09-09T00:00:00Z"
-draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course 2
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
   example:
     name: Overview 3
     weight: 3
-summary: Learn how to use Academia's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview 3
-toc: true
-type: docs
-weight: 1
 ---
 
 ## Flexibility
