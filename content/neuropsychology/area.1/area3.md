@@ -2,7 +2,7 @@
 date: "2022-11-19"
 draft: false
 linktitle: Childhood Dyslexia
-menu: area
+menu: area.1
 title: Dyslexia in Childred and Adolescents
 toc: true
 type: docs

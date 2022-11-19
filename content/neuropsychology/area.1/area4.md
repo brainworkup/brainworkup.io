@@ -2,7 +2,7 @@
 date: "2022-11-19"
 draft: false
 linktitle: Adult Dyslexia
-menu: area
+menu: area.1
 title: Dyslexia in Adulthood
 toc: true
 type: docs

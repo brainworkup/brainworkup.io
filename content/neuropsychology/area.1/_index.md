@@ -3,7 +3,7 @@ date: "2022-11-19"
 draft: false
 lastmod: "2022-11-19"
 linktitle: Dyslexia
-menu: area
+menu: area.1
 summary: Learn about Dyslexia
 title: Overview
 toc: true
