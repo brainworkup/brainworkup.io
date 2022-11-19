@@ -1,19 +1,17 @@
 ---
-date: "2022-11-17T00:00:00+01:00"
+date: "2022-11-17 T00:00:00+01:00"
 draft: false
-linktitle: Areas 3-4
+linktitle: Adult ADHD
 menu:
   area:
     weight: 1
-title: Area Page 2
+title: ADHD in Adulthood
 toc: true
 type: docs
 weight: 2
 ---
 
-Here are some more tips for getting started with academia:
-
-## Area 3
+## College-Onset ADHD
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -26,7 +24,7 @@ Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
 
-## Area 4
+## Adult-Onset ADHD
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Duis posuere tellus ac convallis placerat.
@@ -38,3 +36,5 @@ Sed ac tempus magna.
 Proin in dui enim.
 Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 Vestibulum sit amet erat at nulla eleifend gravida.
+
+## ADHD in Older Adults

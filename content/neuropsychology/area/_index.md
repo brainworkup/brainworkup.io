@@ -5,13 +5,13 @@ lastmod: "2022-11-17T00:00:00Z"
 linktitle: ADHD
 menu: area
 summary: Learn about child and adolescent ADHD
-title: Preview
+title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-## Flexibility
+## Prevalence of ADHD
 
 This feature can be used for publishing content such as:
 
@@ -28,25 +28,7 @@ For example, we can rename it to `docs` for software/project documentation or `t
 
 ## Update site menu
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
 For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated _Courses_ menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
 
 ## Update the docs menu
 
