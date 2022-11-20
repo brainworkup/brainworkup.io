@@ -7,68 +7,119 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://brainworkup.io/project/artificial-intelligence/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>CHLA Brain Development Cancer</title>
+      <link>https://brainworkup.io/project/chla-car-tcell-neurodev/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://brainworkup.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/project/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://brainworkup.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://brainworkup.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/project/internal-project/</guid>
+      <guid>https://brainworkup.io/project/chla-car-tcell-neurodev/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://brainworkup.io/project/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>GWAS of Working Memory</title>
+      <link>https://brainworkup.io/project/gwm/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/robotics/</guid>
-      <description></description>
+      <guid>https://brainworkup.io/project/gwm/</guid>
+      <description>&lt;h2 id=&#34;grant-no-pi-r03-mh123787-01&#34;&gt;Grant No. (PI): R03 MH123787-01&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dates of Award: 06/10/2020-06/09/2022&lt;/li&gt;
+&lt;li&gt;Agency: National Institute of Mental Health (NIMH)&lt;/li&gt;
+&lt;li&gt;Percent Effort: 40&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;GWAS of the RDoC Cognitive Systems Domain: Modeling the Latent Genetic Architecture of Working Memory&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This two-year study will use existing GWAS data from COGENT to investigate the latent molecular genetic architecture of working memory. Working memory is a core Construct of the RDoC Cognitive Systems Domain, defined as the active maintenance and flexible updating of goal/task relevant information in a form that has limited capacity and resists interference. Limited working memory capacity is a fundamental aspect of the cognitive impairments prevalent in many neuropsychiatric disorders. Most of the variability underlying differences in general working memory capacity can be traced back to inherited genetic factors. However, exactly how our DNA shapes the working memory system has yet to be established. As such, our objective is to identify the spectrum of genome-wide allelic variation underlying working memory – from individual loci to genes to polygenic risk scores to functional biological pathways – determined to be causal, not merely correlational, in relation to working memory performance.
+Role: PI
+Total Direct Costs: $165,000&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Skin Cancer AI</title>
-      <link>https://brainworkup.io/project/skin-cancer-ai/</link>
+      <title>Impact of early feeding and human milk oligosaccharides on obesity and brain development</title>
+      <link>https://brainworkup.io/project/chla-mothers-milk-neurodev/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/project/chla-mothers-milk-neurodev/</guid>
+      <description>&lt;p&gt;Grant No. R01 DK110793 Goran (multi-PI) Dates of Award: 09/21/21-05/31/25 Agency: NIH/NIDDK Percent Effort: 5
+Title: Impact of early feeding and human milk oligosaccharides on obesity and brain development
+Description: The goal of this competing renewal project is to examine the role of early-life dietary sugars and breast milk oligosaccharides on development of obesity and brain development by age 5 years in a longitudinal cohort study.
+Role: Co-Investigator
+Total Direct Costs: $2,836,218&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple and Choice Reaction Time in Schizophrenia</title>
+      <link>https://brainworkup.io/project/srt/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/project/srt/</guid>
+      <description>&lt;p&gt;TODO:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Amygdala SEEG</title>
+      <link>https://brainworkup.io/project/uncertainty-amygdala/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/project/uncertainty-amygdala/</guid>
+      <description>&lt;p&gt;TODO:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADHD and Executive Functioning in College Students</title>
+      <link>https://brainworkup.io/project/adhd-executive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/skin-cancer-ai/</guid>
-      <description></description>
+      <guid>https://brainworkup.io/project/adhd-executive/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADHD: Diagnosis and Treatment in Children and Adolescents</title>
+      <link>https://brainworkup.io/project/adhd-ahrq/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/project/adhd-ahrq/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Grant No. 75Q80120D00009&lt;/li&gt;
+&lt;li&gt;Dates of Award: 09/30/21-12/31/22&lt;/li&gt;
+&lt;li&gt;Agency: Agency for Healthcare Research and Quality (AHRQ)&lt;/li&gt;
+&lt;li&gt;Percent Effort: 27&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;title-update-to-2018-ahrq-review-adhd-diagnosis-and-treatment-in-children-and-adolescents&#34;&gt;Title: Update to 2018 AHRQ Review: ADHD: Diagnosis and Treatment in Children and Adolescents&lt;/h2&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;The Southern California Evidence-based Practice Center in collaboration with CHLA will be updating an evidence review on the diagnosis, treatment, and monitoring strategies of ADHD. The synthesis aims to support an update of the AAP clinical practice guidelines. The project is funded by AHRQ and commissioned by the Patient Centered Outcomes Research Institute (PCORI). The first phase of the project will be to conduct interviews with Key Informants as part of refining the topic. The second phase is to conduct the update review.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Role: Co-Investigator&lt;/li&gt;
+&lt;li&gt;Total Direct Costs: $100,000 (Base); Optional task is expected to be awarded with a duration from November 26, 2021-December 23, 2022 for $402,000&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hippocampal Memory SEEG</title>
+      <link>https://brainworkup.io/project/memory-hippocampus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/project/memory-hippocampus/</guid>
+      <description>&lt;p&gt;TODO:&lt;/p&gt;
+</description>
     </item>
     
   </channel>

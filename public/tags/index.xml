@@ -7,10 +7,82 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>anxiety</title>
+      <link>https://brainworkup.io/tags/anxiety/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Development</title>
+      <link>https://brainworkup.io/tags/brain-development/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/brain-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetics</title>
+      <link>https://brainworkup.io/tags/genetics/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gwas</title>
+      <link>https://brainworkup.io/tags/gwas/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurosurgery</title>
+      <link>https://brainworkup.io/tags/neurosurgery/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/neurosurgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schizophrenia</title>
+      <link>https://brainworkup.io/tags/schizophrenia/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/schizophrenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEEG</title>
+      <link>https://brainworkup.io/tags/seeg/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/seeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working memory</title>
+      <link>https://brainworkup.io/tags/working-memory/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/working-memory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ggplot2</title>
@@ -85,38 +157,29 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://brainworkup.io/tags/deep-learning/</link>
+      <title>ADHD</title>
+      <link>https://brainworkup.io/tags/adhd/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/tags/deep-learning/</guid>
+      <guid>https://brainworkup.io/tags/adhd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://brainworkup.io/tags/demo/</link>
+      <title>executive function</title>
+      <link>https://brainworkup.io/tags/executive-function/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/tags/demo/</guid>
+      <guid>https://brainworkup.io/tags/executive-function/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>human</title>
-      <link>https://brainworkup.io/tags/human/</link>
+      <title>memory</title>
+      <link>https://brainworkup.io/tags/memory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/tags/human/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://brainworkup.io/tags/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/tags/robotics/</guid>
+      <guid>https://brainworkup.io/tags/memory/</guid>
       <description></description>
     </item>
     

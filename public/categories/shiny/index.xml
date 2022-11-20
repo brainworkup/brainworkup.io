@@ -64,13 +64,13 @@ The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;oute1d1d38ed20528d7&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;outa20730549e86ce03&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Embedded Application&lt;/h2&gt;
 &lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
 This example embeds a Shiny application located in another directory:&lt;/p&gt;
-&lt;iframe data-deferred-src=&#34;appab51b24fc33390262d57e32b9673796e/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;iframe data-deferred-src=&#34;appba07d34b5cd679e86ff2e0476fa46fdb/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
 &lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
 &lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
