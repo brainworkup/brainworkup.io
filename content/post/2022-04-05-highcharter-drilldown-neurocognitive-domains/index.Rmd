@@ -1,9 +1,9 @@
 ---
-title: Highcharter Drilldown on Neuropsychological Domains and Test Scores
-subtitle: Subtitle
-summary: Summary
+title: Highcharter Drilldown on Neuropsychological Domains
+subtitle: No subtitle yet
+summary: Summary not written yet
 authors:
-  - Joey Trampush
+  - admin
 patient: "Biggie"
 date: '2022-04-05'
 slug: highcharter-drilldown-neurocognitive-domains
@@ -18,14 +18,6 @@ lastmod: '2022-04-05T13:50:26-07:00'
 featured: yes
 draft: no
 projects: []
-output:
-  blogdown::html_page:
-    toc: false
-    fig_width: 12
-    fig_height: 8
-    fig_retina: 3
-    dev: "svg"
-rmd_hash: ad12fe1c1b68566d
 ---
 
 ```{r patient, include=FALSE}
@@ -56,10 +48,6 @@ library(bwu)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
   fig.path = "figs/",
-  fig.width = 12,
-  fig.height = 8,
-  fig.asp = .5,
-  fig.retina = 3,
   out.width = "100%",
   fig.showtext = TRUE,
   comment = NULL,
@@ -78,7 +66,8 @@ knitr::opts_chunk$set(collapse = TRUE, class.source = c("aside", "img", ".drilld
 
 ```{r, read-data}
 neurocog <-
-  readr::read_csv(here::here("static", "data", "neurocog.csv"), show_col_types = FALSE)
+  readr::read_csv("/Users/joey/cortex/bwu/brainworkup.io/content/post/2022-04-05-highcharter-drilldown-neurocognitive-domains/neurocog.csv")
+
 ```
 
 ```{css, echo=FALSE}

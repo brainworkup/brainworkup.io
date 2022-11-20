@@ -12,6 +12,104 @@
     
     
     <item>
+      <title>An example conference paper</title>
+      <link>https://brainworkup.io/publication/conference-paper/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://brainworkup.io/publication/journal-article/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable
+visitors to import publication metadata into their reference management
+software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo academia&amp;rsquo;s Markdown
+slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Highcharter Drilldown on Neuropsychological Domains</title>
+      <link>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
+      <description>
+&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#neuropsychological-testing-results&#34; id=&#34;toc-neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Neuropsychological Testing Results&lt;/h2&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+aside {
+  margin-left: 100%;
+  position: absolute;
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+img {
+  width: 200vw;
+  margin-left: calc(50% - 50vw);
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+rect[Attributes Style] {
+    fill: transparent;
+    x: 0;
+    y: 0;
+    width: 1200;
+    height: 800;
+    rx: 0;
+    ry: 0;
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.drilld {
+  width: 300vw;
+  margin-left: calc(50% - 50vw);
+}
+&lt;/style&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:768px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: HighchartR Drilldown
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Shiny Document</title>
       <link>https://brainworkup.io/2021/06/shiny-document/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
@@ -173,46 +271,6 @@ Figure 2: Drilldown Neuropsych zScores
       
       <guid>https://brainworkup.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo academia&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://brainworkup.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo academia&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://brainworkup.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo academia&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;

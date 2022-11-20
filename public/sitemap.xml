@@ -47,8 +47,26 @@
     <loc>https://brainworkup.io/neuropsychology/area.2/area2.2/</loc>
     <lastmod>2022-11-19T14:04:09-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.io/publication_types/1/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/publication_types/2/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/tags/adhd/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/publication/conference-paper/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/publication/journal-article/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.io/tags/anxiety/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/authors/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/brain-development/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -57,7 +75,7 @@
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/genetics/</loc>
-    <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/gwas/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -69,13 +87,16 @@
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/</loc>
-    <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/neurosurgery/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/project/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/publication_types/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/schizophrenia/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -86,8 +107,11 @@
     <loc>https://brainworkup.io/project/srt/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.io/tags/source-themes/</loc>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.io/tags/</loc>
-    <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/project/uncertainty-amygdala/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -97,9 +121,6 @@
   </url><url>
     <loc>https://brainworkup.io/privacy/</loc>
     <lastmod>2022-11-19T15:30:24-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/authors/</loc>
-    <lastmod>2022-11-19T14:55:58-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/categories/</loc>
     <lastmod>2022-11-19T14:55:58-08:00</lastmod>
@@ -113,9 +134,6 @@
     <loc>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</loc>
     <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
-    <loc>https://brainworkup.io/authors/joey-trampush/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
-  </url><url>
     <loc>https://brainworkup.io/tags/r/</loc>
     <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
@@ -123,6 +141,9 @@
     <lastmod>2022-11-19T14:55:58-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/r-markdown/</loc>
+    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/authors/joey-trampush/</loc>
     <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/categories/xaringan/</loc>
@@ -159,19 +180,10 @@
     <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/publication_types/3/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/publication/preprint/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/publication_types/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/tags/source-themes/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/tags/adhd/</loc>
-    <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/project/adhd-executive/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -187,21 +199,6 @@
   </url><url>
     <loc>https://brainworkup.io/tags/memory/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/publication_types/2/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/publication/journal-article/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/authors/robert-ford/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/publication_types/1/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/publication/conference-paper/</loc>
-    <lastmod>2022-11-16T10:39:22-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/authors/admin/</loc>
     <lastmod>2022-11-16T11:16:41-08:00</lastmod>

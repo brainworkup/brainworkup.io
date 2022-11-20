@@ -72,22 +72,29 @@
     
 
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.9.0/instantsearch.min.css" integrity="sha256-ZtmLe16p4jS4/2wPwwH6NzJt460SJzgLmhKrYo5yn7g=" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch-theme-algolia.min.css" integrity="sha256-uL8LUd3zkI/lXvc/Hv/oOu8ld6RJcOZiUY/8c+I+3/o=" crossorigin="anonymous">
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.2db51bf82ac7ca66ec67b2170e9987a0.css">
+
+  
     
-
-  
-
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="/css/academia.min.9c44545b620585c452d798eea751e82e.css">
-
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academia.60c03b3d3ab3cb09b00aa9796678765b.css">
   
 
   
@@ -157,7 +164,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -476,35 +484,26 @@
 
     
     
-    <script id="search-hit-algolia-template" type="text/html">
-      <div class="search-hit">
-        <div class="search-hit-content">
-          <div class="search-hit-name">
-            <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
-          </div>
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
           <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
+          <p class="search-hit-description">{{snippet}}</p>
         </div>
+      </div>
       </div>
     </script>
     
 
     
     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch.min.js" integrity="sha256-gFCtPk/sonctyfwYOgjrPoWApQ0rqB6ezBBZ7p32yGc=" crossorigin="anonymous"></script>
-    
-    <script>
-      const algoliaConfig = {
-        appId: "",
-        apiKey: "",
-        indexName: "",
-        poweredBy:  false 
-      };
-    </script>
     
 
     
@@ -521,7 +520,7 @@
     
     
     
-    <script src="/js/academia.min.787a8f851f4926d15dd2e703fda3094a.js"></script>
+    <script src="/js/academia.min.1864145399ae9e7997bb63a7a7dd152c.js"></script>
 
     
 
