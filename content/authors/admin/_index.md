@@ -27,7 +27,7 @@ interests:
   - Neuropsychology
   - Neurodevelopment
   - Data Science
-name: Joey W Trampush, PhD
+name: Joey Trampush, PhD
 organizations:
   - name: USC University of Southern California |
     url: "https://usc.edu"
