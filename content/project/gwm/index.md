@@ -1,6 +1,6 @@
 ---
 date: "2022-11-19"
-external_link: "https://github.com/brainworkup/gwm.flow"
+#external_link: "https://github.com/brainworkup/gwm.flow"
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
