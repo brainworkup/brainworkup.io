@@ -336,7 +336,7 @@ header a {
   width: 110px;
 }
 
-/* .exploding-nav::before {
+.exploding-nav::before {
   background-image: url("https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/v1593477791/jason.af/click-my-head.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -355,9 +355,8 @@ header a {
 
 .exploding-nav.first-run::before {
   opacity: 1;
-} */
-
-/* .exploding-nav::after {
+}
+*/ .exploding-nav::after {
   content: "";
   background-image: url("https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/jason.af/dome-top.png");
   background-position: top right;
@@ -405,9 +404,8 @@ header a {
   border-color: var(--color-pink-500);
   border-radius: 0 0 50% 50%;
   outline: 0;
-} */
-
-.home-page-nav {
+}
+*/ .home-page-nav {
   margin-top: 0;
   right: 30px;
   position: absolute;
@@ -653,7 +651,8 @@ main.home {
   transform-origin: center;
   width: 1.6em;
 }
-*/ .hero-cycle {
+
+.hero-cycle {
   background-color: transparent;
   background-image: url(https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/v1593806090/jason.af/rotate-off.png);
   background-size: contain;
