@@ -13,7 +13,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "academic site for dr joey trampush @ usc brainworkup.io"
@@ -103,7 +103,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = ["global"]
+plugins_css = []
 plugins_js  = []
 
 ############################
