@@ -6,7 +6,8 @@ image:
   focal_point: Smart
 summary: An example of linking directly to an external project website using "external_link".
 tags:
-  - ADHD
+  - neuropsychology
+  - adhd
 title: "ADHD: Diagnosis and Treatment in Children and Adolescents"
 ---
 

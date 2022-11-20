@@ -7,6 +7,7 @@ image:
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
   - schizophrenia
+  - neuropsychology
 title: Simple and Choice Reaction Time in Schizophrenia
 ---
 

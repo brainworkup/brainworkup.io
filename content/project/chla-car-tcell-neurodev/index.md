@@ -12,7 +12,8 @@ links:
 slides: example
 summary: An example of using the in-built project page.
 tags:
-  - brain development
+  - neurodevelopment
+  - neuropsychology
 title: CHLA Brain Development Cancer
 url_code: ""
 url_pdf: ""

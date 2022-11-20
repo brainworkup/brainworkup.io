@@ -6,9 +6,10 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-  - anxiety
-  - SEEG
+  - neuropsychology
+  - amygdala
   - neurosurgery
+  - seeg
 title: Uncertainty Amygdala SEEG
 ---
 

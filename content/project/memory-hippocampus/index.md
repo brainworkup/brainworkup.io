@@ -6,8 +6,10 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
+  - neuropsychology
   - memory
   - neurosurgery
+  - seeg
 title: Hippocampal Memory SEEG
 ---
 

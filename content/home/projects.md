@@ -26,20 +26,20 @@ subtitle = "One of the unfortunate things about reality is that it often poses c
     tag = "*"
 
   [[content.filter_button]]
-    name = "Genomics"
-    tag = "genomics"
+    name = "Genetics"
+    tag = "genetics"
 
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Brain Development"
+    tag = "neurodevelopment"
+
+  [[content.filter_button]]
+    name = "Neuropsychology"
+    tag = "neuropsychology"
 
   [[content.filter_button]]
     name = "ADHD"
     tag = "adhd"
-
-  [[content.filter_button]]
-    name = "Neurogenetics"
-    tag = "Deep Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,7 +52,7 @@ subtitle = "One of the unfortunate things about reality is that it often poses c
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -81,4 +81,3 @@ subtitle = "One of the unfortunate things about reality is that it often poses c
  # CSS class.
  css_class = ""
 +++
-

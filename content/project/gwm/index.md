@@ -9,6 +9,7 @@ tags:
   - genetics
   - working memory
   - gwas
+  - neuropsychology
 title: GWAS of Working Memory
 ---
 

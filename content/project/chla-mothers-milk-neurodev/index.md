@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-  - brain development
+  - neurodevelopment
 title: Impact of early feeding and human milk oligosaccharides on obesity and brain development
 ---
 
