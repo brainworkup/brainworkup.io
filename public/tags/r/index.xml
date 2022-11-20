@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Joey Trampush, PhD</title>
-    <link>https://brainworkup.io/tags/r/</link>
-    <description>Recent content in R on Joey Trampush, PhD</description>
+    <title>R on joey trampush phd</title>
+    <link>https://brainworkup.org/tags/r/</link>
+    <description>Recent content in R on joey trampush phd</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.org/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Highcharter Drilldown on Neuropsychological Domains</title>
-      <link>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</link>
+      <link>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
+      <guid>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -73,21 +73,21 @@ Figure 1: HighchartR Drilldown
     
     <item>
       <title>Xaringan Drilldown</title>
-      <link>https://brainworkup.io/2021/08/xaringan-drilldown/</link>
+      <link>https://brainworkup.org/2021/08/26/xaringan-drilldown/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2021/08/xaringan-drilldown/</guid>
+      <guid>https://brainworkup.org/2021/08/26/xaringan-drilldown/</guid>
       <description>
-&lt;link href=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/panelset/panelset.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/js-cookie/js.cookie.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/peerjs/peerjs.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/tiny.toast/toast.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/08/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/panelset/panelset.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/js-cookie/js.cookie.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/peerjs/peerjs.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/tiny.toast/toast.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/xaringanExtra-broadcast/broadcast.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;hr /&gt;

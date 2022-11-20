@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Joey Trampush, PhD</title>
-    <link>https://brainworkup.io/categories/</link>
-    <description>Recent content in Categories on Joey Trampush, PhD</description>
+    <title>Categories on joey trampush phd</title>
+    <link>https://brainworkup.org/categories/</link>
+    <description>Recent content in Categories on joey trampush phd</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>personal</title>
-      <link>https://brainworkup.io/categories/personal/</link>
+      <link>https://brainworkup.org/categories/personal/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/personal/</guid>
+      <guid>https://brainworkup.org/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highcharter</title>
-      <link>https://brainworkup.io/categories/highcharter/</link>
+      <link>https://brainworkup.org/categories/highcharter/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/highcharter/</guid>
+      <guid>https://brainworkup.org/categories/highcharter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://brainworkup.io/categories/r/</link>
+      <link>https://brainworkup.org/categories/r/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/r/</guid>
+      <guid>https://brainworkup.org/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data visualization</title>
-      <link>https://brainworkup.io/categories/data-visualization/</link>
+      <link>https://brainworkup.org/categories/data-visualization/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/data-visualization/</guid>
+      <guid>https://brainworkup.org/categories/data-visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xaringan</title>
-      <link>https://brainworkup.io/categories/xaringan/</link>
+      <link>https://brainworkup.org/categories/xaringan/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/xaringan/</guid>
+      <guid>https://brainworkup.org/categories/xaringan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shiny</title>
-      <link>https://brainworkup.io/categories/shiny/</link>
+      <link>https://brainworkup.org/categories/shiny/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/categories/shiny/</guid>
+      <guid>https://brainworkup.org/categories/shiny/</guid>
       <description></description>
     </item>
     

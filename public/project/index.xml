@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Joey Trampush, PhD</title>
-    <link>https://brainworkup.io/project/</link>
-    <description>Recent content in Projects on Joey Trampush, PhD</description>
+    <title>Projects on joey trampush phd</title>
+    <link>https://brainworkup.org/project/</link>
+    <description>Recent content in Projects on joey trampush phd</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.io/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.org/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CHLA Brain Development Cancer</title>
-      <link>https://brainworkup.io/project/chla-car-tcell-neurodev/</link>
+      <link>https://brainworkup.org/project/chla-car-tcell-neurodev/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/chla-car-tcell-neurodev/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>https://brainworkup.org/project/chla-car-tcell-neurodev/</guid>
+      <description>&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GWAS of Working Memory</title>
-      <link>https://brainworkup.io/project/gwm/</link>
+      <link>https://brainworkup.org/project/gwm/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/gwm/</guid>
+      <guid>https://brainworkup.org/project/gwm/</guid>
       <description>&lt;h2 id=&#34;grant-no-pi-r03-mh123787-01&#34;&gt;Grant No. (PI): R03 MH123787-01&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Dates of Award: 06/10/2020-06/09/2022&lt;/li&gt;
@@ -46,10 +47,10 @@ Total Direct Costs: $165,000&lt;/p&gt;
     
     <item>
       <title>Impact of early feeding and human milk oligosaccharides on obesity and brain development</title>
-      <link>https://brainworkup.io/project/chla-mothers-milk-neurodev/</link>
+      <link>https://brainworkup.org/project/chla-mothers-milk-neurodev/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/chla-mothers-milk-neurodev/</guid>
+      <guid>https://brainworkup.org/project/chla-mothers-milk-neurodev/</guid>
       <description>&lt;p&gt;Grant No. R01 DK110793 Goran (multi-PI) Dates of Award: 09/21/21-05/31/25 Agency: NIH/NIDDK Percent Effort: 5
 Title: Impact of early feeding and human milk oligosaccharides on obesity and brain development
 Description: The goal of this competing renewal project is to examine the role of early-life dietary sugars and breast milk oligosaccharides on development of obesity and brain development by age 5 years in a longitudinal cohort study.
@@ -60,30 +61,30 @@ Total Direct Costs: $2,836,218&lt;/p&gt;
     
     <item>
       <title>Simple and Choice Reaction Time in Schizophrenia</title>
-      <link>https://brainworkup.io/project/srt/</link>
+      <link>https://brainworkup.org/project/srt/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/srt/</guid>
+      <guid>https://brainworkup.org/project/srt/</guid>
       <description>&lt;p&gt;TODO:&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Uncertainty Amygdala SEEG</title>
-      <link>https://brainworkup.io/project/uncertainty-amygdala/</link>
+      <link>https://brainworkup.org/project/uncertainty-amygdala/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/uncertainty-amygdala/</guid>
+      <guid>https://brainworkup.org/project/uncertainty-amygdala/</guid>
       <description>&lt;p&gt;TODO:&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ADHD and Executive Functioning in College Students</title>
-      <link>https://brainworkup.io/project/adhd-executive/</link>
+      <link>https://brainworkup.org/project/adhd-executive/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/adhd-executive/</guid>
+      <guid>https://brainworkup.org/project/adhd-executive/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
@@ -92,10 +93,10 @@ Total Direct Costs: $2,836,218&lt;/p&gt;
     
     <item>
       <title>ADHD: Diagnosis and Treatment in Children and Adolescents</title>
-      <link>https://brainworkup.io/project/adhd-ahrq/</link>
+      <link>https://brainworkup.org/project/adhd-ahrq/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/adhd-ahrq/</guid>
+      <guid>https://brainworkup.org/project/adhd-ahrq/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Grant No. 75Q80120D00009&lt;/li&gt;
 &lt;li&gt;Dates of Award: 09/30/21-12/31/22&lt;/li&gt;
@@ -114,10 +115,10 @@ Total Direct Costs: $2,836,218&lt;/p&gt;
     
     <item>
       <title>Hippocampal Memory SEEG</title>
-      <link>https://brainworkup.io/project/memory-hippocampus/</link>
+      <link>https://brainworkup.org/project/memory-hippocampus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/project/memory-hippocampus/</guid>
+      <guid>https://brainworkup.org/project/memory-hippocampus/</guid>
       <description>&lt;p&gt;TODO:&lt;/p&gt;
 </description>
     </item>

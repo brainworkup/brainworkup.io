@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Joey Trampush, PhD</title>
-    <link>https://brainworkup.io/categories/r/</link>
-    <description>Recent content in R on Joey Trampush, PhD</description>
+    <title>R on joey trampush phd</title>
+    <link>https://brainworkup.org/categories/r/</link>
+    <description>Recent content in R on joey trampush phd</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://brainworkup.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.org/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Highcharter Drilldown on Neuropsychological Domains</title>
-      <link>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</link>
+      <link>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
+      <guid>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -73,14 +73,14 @@ Figure 1: HighchartR Drilldown
     
     <item>
       <title>Drilldown on Neuropsych Data with R</title>
-      <link>https://brainworkup.io/2021/06/npsych-drilldown/</link>
+      <link>https://brainworkup.org/2021/06/18/npsych-drilldown/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2021/06/npsych-drilldown/</guid>
+      <guid>https://brainworkup.org/2021/06/18/npsych-drilldown/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -161,10 +161,10 @@ Figure 2: Drilldown Neuropsych zScores
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://brainworkup.io/2020/12/hello-r-markdown/</link>
+      <link>https://brainworkup.org/2020/12/01/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://brainworkup.io/2020/12/hello-r-markdown/</guid>
+      <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -207,7 +207,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://brainworkup.io/2020/12/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;768&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;768&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

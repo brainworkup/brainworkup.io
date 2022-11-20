@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joey Trampush, PhD</title>
-    <link>https://brainworkup.io/authors/admin/</link>
-    <description>Recent content on Joey Trampush, PhD</description>
+    <title>joey trampush phd</title>
+    <link>https://brainworkup.org/authors/admin/</link>
+    <description>Recent content on joey trampush phd</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     
-	    <atom:link href="https://brainworkup.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://brainworkup.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example conference paper</title>
-      <link>https://brainworkup.io/publication/conference-paper/</link>
+      <link>https://brainworkup.org/publication/conference-paper/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/publication/conference-paper/</guid>
+      <guid>https://brainworkup.org/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -28,10 +28,10 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://brainworkup.io/publication/journal-article/</link>
+      <link>https://brainworkup.org/publication/journal-article/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/publication/journal-article/</guid>
+      <guid>https://brainworkup.org/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable
@@ -52,10 +52,10 @@ slides feature.
     
     <item>
       <title>Day One</title>
-      <link>https://brainworkup.io/2022/11/day-one/</link>
+      <link>https://brainworkup.org/2022/11/19/day-one/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2022/11/day-one/</guid>
+      <guid>https://brainworkup.org/2022/11/19/day-one/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -142,14 +142,14 @@ This part ends with a gentle introduction to CSS (Cascading Style Sheets).&lt;/p
     
     <item>
       <title>Highcharter Drilldown on Neuropsychological Domains</title>
-      <link>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</link>
+      <link>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</guid>
+      <guid>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -201,17 +201,17 @@ Figure 1: HighchartR Drilldown
     
     <item>
       <title>Shiny Document</title>
-      <link>https://brainworkup.io/2021/06/shiny-document/</link>
+      <link>https://brainworkup.org/2021/06/27/shiny-document/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2021/06/shiny-document/</guid>
+      <guid>https://brainworkup.org/2021/06/27/shiny-document/</guid>
       <description>
-&lt;link href=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/selectize/js/selectize.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/selectize/accessibility/js/selectize-plugin-a11y.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/ionrangeslider-javascript/js/ion.rangeSlider.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://brainworkup.io/2021/06/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/selectize/css/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/selectize/js/selectize.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/selectize/accessibility/js/selectize-plugin-a11y.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/ionrangeslider-javascript/js/ion.rangeSlider.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -268,14 +268,14 @@ This is to prevent the R code within the chunk from rendering in the document al
     
     <item>
       <title>Drilldown on Neuropsych Data with R</title>
-      <link>https://brainworkup.io/2021/06/npsych-drilldown/</link>
+      <link>https://brainworkup.org/2021/06/18/npsych-drilldown/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2021/06/npsych-drilldown/</guid>
+      <guid>https://brainworkup.org/2021/06/18/npsych-drilldown/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.io/2021/06/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -356,10 +356,10 @@ Figure 2: Drilldown Neuropsych zScores
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://brainworkup.io/publication/preprint/</link>
+      <link>https://brainworkup.org/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/publication/preprint/</guid>
+      <guid>https://brainworkup.org/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo academia&amp;rsquo;s Markdown slides feature.

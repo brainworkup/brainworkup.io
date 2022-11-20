@@ -22,7 +22,7 @@
   
   
 
-  <meta name="author" content="Joey W. Trampush, Ph.D.">
+  <meta name="author" content="Joey Trampush, PhD">
 
   
   
@@ -32,7 +32,7 @@
   <meta name="description" content="academic site for dr joey trampush @ usc brainworkup.io">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://brainworkup.io/publication_types/3/">
+  <link rel="alternate" hreflang="en-us" href="https://brainworkup.org/publication_types/3/">
 
   
 
@@ -72,29 +72,22 @@
     
 
     
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.9.0/instantsearch.min.css" integrity="sha256-ZtmLe16p4jS4/2wPwwH6NzJt460SJzgLmhKrYo5yn7g=" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch-theme-algolia.min.css" integrity="sha256-uL8LUd3zkI/lXvc/Hv/oOu8ld6RJcOZiUY/8c+I+3/o=" crossorigin="anonymous">
+    
 
   
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academia.min.2db51bf82ac7ca66ec67b2170e9987a0.css">
+  <link rel="stylesheet" href="/css/academia.min.9c44545b620585c452d798eea751e82e.css">
 
-  
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academia.b6eb839072fc092b0a5bd9fd67b1693d.css">
   
 
   
@@ -103,15 +96,15 @@
   
 
   
-  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="Joey Trampush, PhD">
-  <link rel="feed" href="/publication_types/3/index.xml" type="application/rss+xml" title="Joey Trampush, PhD">
+  <link rel="alternate" href="/publication_types/3/index.xml" type="application/rss+xml" title="joey trampush phd">
+  <link rel="feed" href="/publication_types/3/index.xml" type="application/rss+xml" title="joey trampush phd">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://brainworkup.io/publication_types/3/">
+  <link rel="canonical" href="https://brainworkup.org/publication_types/3/">
 
   
   
@@ -124,11 +117,11 @@
   <meta property="twitter:site" content="@brainworkup">
   <meta property="twitter:creator" content="@brainworkup">
   
-  <meta property="og:site_name" content="Joey Trampush, PhD">
-  <meta property="og:url" content="https://brainworkup.io/publication_types/3/">
-  <meta property="og:title" content="3 | Joey Trampush, PhD">
-  <meta property="og:description" content="academic site for dr joey trampush @ usc brainworkup.io"><meta property="og:image" content="https://brainworkup.io/img/logo_bwu.png">
-  <meta property="twitter:image" content="https://brainworkup.io/img/logo_bwu.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="joey trampush phd">
+  <meta property="og:url" content="https://brainworkup.org/publication_types/3/">
+  <meta property="og:title" content="3 | joey trampush phd">
+  <meta property="og:description" content="academic site for dr joey trampush @ usc brainworkup.io"><meta property="og:image" content="https://brainworkup.org/img/logo_bwu.png">
+  <meta property="twitter:image" content="https://brainworkup.org/img/logo_bwu.png"><meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00">
   
@@ -142,7 +135,7 @@
 
 
 
-  <title>3 | Joey Trampush, PhD</title>
+  <title>3 | joey trampush phd</title>
 
 </head>
 
@@ -164,8 +157,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -186,7 +178,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Joey Trampush, PhD</a>
+      <a class="navbar-brand" href="/">joey trampush phd</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
       </button>
@@ -222,7 +214,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>About</span></a>
         </li>
 
         
@@ -484,26 +476,35 @@
 
     
     
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
+    <script id="search-hit-algolia-template" type="text/html">
+      <div class="search-hit">
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{{_highlightResult.title.value}}}</a>
+          </div>
           <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+          <p class="search-hit-description">{{{_highlightResult.summary.value}}}</p>
         </div>
-      </div>
       </div>
     </script>
     
 
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
 
     
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/instantsearch.js/2.10.2/instantsearch.min.js" integrity="sha256-gFCtPk/sonctyfwYOgjrPoWApQ0rqB6ezBBZ7p32yGc=" crossorigin="anonymous"></script>
+    
+    <script>
+      const algoliaConfig = {
+        appId: "",
+        apiKey: "",
+        indexName: "",
+        poweredBy:  false 
+      };
+    </script>
     
 
     
@@ -520,7 +521,7 @@
     
     
     
-    <script src="/js/academia.min.1864145399ae9e7997bb63a7a7dd152c.js"></script>
+    <script src="/js/academia.min.787a8f851f4926d15dd2e703fda3094a.js"></script>
 
     
 
@@ -535,10 +536,6 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
-        
-        <p class="powered-by">
-          <a href="/privacy/">Privacy Policy</a>
-        </p>
         
         <p class="mb-0">
           Copyright © 2022 Joey Trampush &middot; 
