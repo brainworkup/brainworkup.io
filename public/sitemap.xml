@@ -66,13 +66,22 @@
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/authors/</loc>
-    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/brain-development/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.io/tags/brain2/</loc>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/categories/</loc>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.io/project/chla-car-tcell-neurodev/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/2022/11/day-one/</loc>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/genetics/</loc>
     <lastmod>2022-11-19T16:16:38-08:00</lastmod>
@@ -87,10 +96,13 @@
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/</loc>
-    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/neurosurgery/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/categories/personal/</loc>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/project/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -111,7 +123,7 @@
     <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/</loc>
-    <lastmod>2022-11-19T16:16:38-08:00</lastmod>
+    <lastmod>2022-11-19T18:15:05-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/project/uncertainty-amygdala/</loc>
     <lastmod>2022-11-19T15:43:38-08:00</lastmod>
@@ -122,25 +134,34 @@
     <loc>https://brainworkup.io/privacy/</loc>
     <lastmod>2022-11-19T15:30:24-08:00</lastmod>
   </url><url>
-    <loc>https://brainworkup.io/categories/</loc>
-    <lastmod>2022-11-19T14:55:58-08:00</lastmod>
-  </url><url>
     <loc>https://brainworkup.io/tags/ggplot2/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/categories/highcharter/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/2022/04/highcharter-drilldown-neurocognitive-domains/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/r/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/categories/r/</loc>
-    <lastmod>2022-11-19T14:55:58-08:00</lastmod>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/tags/r-markdown/</loc>
+    <lastmod>2022-11-19T17:19:29-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/2021/09/animated-plots/</loc>
+    <lastmod>2021-06-25T13:36:25-07:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/categories/data-visualization/</loc>
+    <lastmod>2021-06-25T13:36:25-07:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/tags/gganimate/</loc>
+    <lastmod>2021-06-25T13:36:25-07:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.io/tags/plot/</loc>
     <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/authors/joey-trampush/</loc>
@@ -160,15 +181,6 @@
   </url><url>
     <loc>https://brainworkup.io/2021/06/shiny-document/</loc>
     <lastmod>2022-11-19T14:55:58-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/2021/06/animated-plots/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/tags/gganimate/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.io/tags/plot/</loc>
-    <lastmod>2022-11-19T14:09:10-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.io/2021/06/npsych-drilldown/</loc>
     <lastmod>2022-11-19T14:55:58-08:00</lastmod>

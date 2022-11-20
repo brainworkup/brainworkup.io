@@ -73,10 +73,10 @@ Figure 1: HighchartR Drilldown
     
     <item>
       <title>Animated Plots</title>
-      <link>https://brainworkup.io/2021/06/animated-plots/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <link>https://brainworkup.io/2021/09/animated-plots/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.io/2021/06/animated-plots/</guid>
+      <guid>https://brainworkup.io/2021/09/animated-plots/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -91,7 +91,7 @@ Figure 1: HighchartR Drilldown
 &lt;h2&gt;Ridgeline plots using &lt;code&gt;ggridges&lt;/code&gt;&lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;## Warning: `stat(x)` was deprecated in ggplot2 3.4.0.
 ## ℹ Please use `after_stat(x)` instead.&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://brainworkup.io/2021/06/animated-plots/index_files/figure-html/wm-1.svg&#34; width=&#34;768&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://brainworkup.io/2021/09/animated-plots/index_files/figure-html/wm-1.svg&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;wm-animations-using-gganimate&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;WM animations using &lt;code&gt;gganimate&lt;/code&gt;&lt;/h2&gt;

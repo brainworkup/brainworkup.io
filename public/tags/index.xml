@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>brain2</title>
+      <link>https://brainworkup.io/tags/brain2/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/brain2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>genetics</title>
       <link>https://brainworkup.io/tags/genetics/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
@@ -130,18 +139,9 @@
     </item>
     
     <item>
-      <title>shiny</title>
-      <link>https://brainworkup.io/tags/shiny/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.io/tags/shiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gganimate</title>
       <link>https://brainworkup.io/tags/gganimate/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.io/tags/gganimate/</guid>
       <description></description>
@@ -150,9 +150,18 @@
     <item>
       <title>plot</title>
       <link>https://brainworkup.io/tags/plot/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.io/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>https://brainworkup.io/tags/shiny/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.io/tags/shiny/</guid>
       <description></description>
     </item>
     
