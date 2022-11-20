@@ -28,6 +28,7 @@ twitter = "brainworkup"
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
 
+# Joey added this
 favicon = "favicon.ico"
 
 # Enable global source code highlighting? true/false
