@@ -48,7 +48,7 @@ taxonomies:
   publication_type: publication_types
   tag: tags
 permalinks:
-  post: /:year/:month/:slug/
+  post: /:year/:month/:day/:slug/
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

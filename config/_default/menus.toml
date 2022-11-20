@@ -3,42 +3,42 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
+[[menu.main]]
+  name = "About"
   url = "#about"
   weight = 10
 
-[[main]]
+[[menu.main]]
   name = "Blog"
   url = "#posts"
   weight = 20
 
-[[main]]
+[[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 30
 
-[[main]]
+[[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 40
 
-[[main]]
+[[menu.main]]
   name = "Resources"
   url = "#"
   weight = 50
   hasChildren = true
 
-[[main]]
+[[menu.main]]
   parent = "Resources"
   name = "Neuropsychology"
-  url = "neuropsychology/"
+  url = "/neuropsychology/"
   weight = 55
 
-[[main]]
+[[menu.main]]
   parent = "Resources"
   name = "Neuroscience"
-  url = "neuroscience/"
+  url = "/neuroscience/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
