@@ -6,7 +6,7 @@ active = true
 weight = 130
 
 title = "Contact"
-subtitle = "Connect with me"
+subtitle = "For research inquiries only"
 
 # Automatically link email and phone?
 autolink = true
@@ -17,4 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 1
 +++
-

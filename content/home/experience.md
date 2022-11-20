@@ -6,7 +6,7 @@ active = true
 weight = 40
 
 title = "Experience"
-subtitle = "Academic CV"
+subtitle = "Academic Positions"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
