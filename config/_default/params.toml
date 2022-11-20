@@ -127,7 +127,7 @@ section_pager = true
 docs_section_pager = true
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]

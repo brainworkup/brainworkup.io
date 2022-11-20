@@ -636,7 +636,7 @@ main.home {
   margin: 0.125rem -0.125rem 0;
 }
 
-/* .love {
+.love {
   background-color: transparent;
   background-image: url("https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/v1593755650/jason.af/love.png");
   background-size: contain;
@@ -652,9 +652,8 @@ main.home {
     translateY(0.1em);
   transform-origin: center;
   width: 1.6em;
-} */
-
-/* .hero-cycle {
+}
+*/ .hero-cycle {
   background-color: transparent;
   background-image: url(https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/v1593806090/jason.af/rotate-off.png);
   background-size: contain;
@@ -681,7 +680,7 @@ main.home {
   animation-iteration-count: 1;
   background-image: url(https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto/v1593806090/jason.af/rotate-on.png);
   background-size: contain;
-} */
+}
 
 .boop-drop {
   height: 100%;
