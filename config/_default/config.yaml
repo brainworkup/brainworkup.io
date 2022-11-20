@@ -4,7 +4,6 @@ copyright: Copyright &copy; {year} Joey Trampush
 googleAnalytics: ""
 disqusShortname: ""
 theme: academia-hugo
-favicon: "static/img/favicon.ico"
 enableGitInfo: yes
 defaultContentLanguage: en
 hasCJKLanguage: no
