@@ -13,7 +13,7 @@ subtitle = "Blog posts related to my research and clinical work"
 [content]
   page_type = "post"
   count = 3
-  offset = 0
+  offset = 1
   order = "desc"
 
   # Filter posts by a taxonomy term.
