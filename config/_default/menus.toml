@@ -3,39 +3,39 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[menu.main]]
+[[main]]
   name = "About"
   url = "#about"
   weight = 10
 
-[[menu.main]]
+[[main]]
   name = "Blog"
   url = "#posts"
   weight = 20
 
-[[menu.main]]
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
 
-[[menu.main]]
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
 
-[[menu.main]]
+[[main]]
   name = "Resources"
   url = "#"
   weight = 50
   hasChildren = true
 
-[[menu.main]]
+[[main]]
   parent = "Resources"
   name = "Neuropsychology"
   url = "/neuropsychology/"
   weight = 55
 
-[[menu.main]]
+[[main]]
   parent = "Resources"
   name = "Neuroscience"
   url = "/neuroscience/"
