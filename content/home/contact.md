@@ -6,7 +6,7 @@ active = true
 weight = 130
 
 title = "Contact"
-subtitle = "For research inquiries only"
+subtitle = "For research inquiries only at this time"
 
 # Automatically link email and phone?
 autolink = true
