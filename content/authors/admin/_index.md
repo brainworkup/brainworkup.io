@@ -29,9 +29,9 @@ interests:
   - Data Science
 name: Joey Trampush, PhD
 organizations:
-  - name: USC University of Southern California |
+  - name: University of Southern California |
     url: "https://usc.edu"
-  - name: Keck School of Medicine
+  - name: Keck School of Medicine of USC
     url: "https://keck.usc.edu/"
 role: Della Martin Assistant Professor of Psychiatry and the Behavioral Sciences
 social:

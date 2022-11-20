@@ -11,7 +11,7 @@ authors:
   - admin
 date: "2022-11-19"
 doi: ""
-featured: true
+featured: false
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""

@@ -1,40 +1,39 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Moderator Effects of Working Memory on the Stability of ADHD Symptoms by Dopamine
+title:
+  Moderator Effects of Working Memory on the Stability of ADHD Symptoms by Dopamine
   Receptor Gene Polymorphisms during Development.
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 authors:
-- Joey W Trampush
-- Michelle M Jacobs
-- Yasmin L Hurd
-- Jeffrey H Newcorn
-- Jeffrey M Halperin
+  - Joey W Trampush
+  - Michelle M Jacobs
+  - Yasmin L Hurd
+  - Jeffrey H Newcorn
+  - Jeffrey M Halperin
 tags:
-- ADHD
-- desc
-- development
-- doi
-- dopamine
-- DRD1
-- DRD2
-- elopmental science
-- genetics
-- pp 1
-- working memory
+  - ADHD
+  - development
+  - doi
+  - dopamine
+  - DRD1
+  - DRD2
+  - developmental science
+  - genetics
+  - working memory
 categories: []
-date: '2014-01-01'
+date: "2014-01-01"
 lastmod: 2022-11-20T11:54:55-08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -43,10 +42,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T19:54:55.885867Z'
+publishDate: "2022-11-20T19:54:55.885867Z"
 publication_types:
-- '2'
-abstract: We tested the hypothesis that dopamine D1 and D2 receptor gene (DRD1 and
+  - "2"
+abstract:
+  We tested the hypothesis that dopamine D1 and D2 receptor gene (DRD1 and
   DRD2, respectively) polymorphisms and the development of working memory skills can
   interact to influence symptom change over 10 years in children with attention-deficit/hyperactivity
   disorder (ADHD). Specifically, we examined whether improvements in working memory
@@ -67,6 +67,6 @@ abstract: We tested the hypothesis that dopamine D1 and D2 receptor gene (DRD1 a
   the emergence of symptoms and cognitive difficulties associated with ADHD in childhood,
   but may act as a modifier gene of these clinical features and outcome during later
   development for those with ADHD.
-publication: ''
+publication: ""
 doi: 10.1111/desc.12131
 ---
