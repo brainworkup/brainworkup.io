@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on joey trampush phd</title>
+    <title>Projects on Joey Trampush</title>
     <link>https://brainworkup.org/project/</link>
-    <description>Recent content in Projects on joey trampush phd</description>
+    <description>Recent content in Projects on Joey Trampush</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
     
 	    <atom:link href="https://brainworkup.org/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hippocampal Memory SEEG</title>
+      <link>https://brainworkup.org/project/memory-hippocampus/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/project/memory-hippocampus/</guid>
+      <description>&lt;p&gt;TODO:&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CHLA Brain Development Cancer</title>
@@ -110,16 +120,6 @@ Total Direct Costs: $2,836,218&lt;/p&gt;
 &lt;li&gt;Role: Co-Investigator&lt;/li&gt;
 &lt;li&gt;Total Direct Costs: $100,000 (Base); Optional task is expected to be awarded with a duration from November 26, 2021-December 23, 2022 for $402,000&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hippocampal Memory SEEG</title>
-      <link>https://brainworkup.org/project/memory-hippocampus/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/project/memory-hippocampus/</guid>
-      <description>&lt;p&gt;TODO:&lt;/p&gt;
 </description>
     </item>
     

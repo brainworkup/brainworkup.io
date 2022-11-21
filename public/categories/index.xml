@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on joey trampush phd</title>
+    <title>Categories on Joey Trampush</title>
     <link>https://brainworkup.org/categories/</link>
-    <description>Recent content in Categories on joey trampush phd</description>
+    <description>Recent content in Categories on Joey Trampush</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>personal</title>
-      <link>https://brainworkup.org/categories/personal/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/categories/personal/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>highcharter</title>

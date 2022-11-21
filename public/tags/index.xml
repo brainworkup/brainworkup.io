@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on joey trampush phd</title>
+    <title>Tags on Joey Trampush</title>
     <link>https://brainworkup.org/tags/</link>
-    <description>Recent content in Tags on joey trampush phd</description>
+    <description>Recent content in Tags on Joey Trampush</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>memory</title>
+      <link>https://brainworkup.org/tags/memory/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuropsychology</title>
+      <link>https://brainworkup.org/tags/neuropsychology/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/neuropsychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurosurgery</title>
+      <link>https://brainworkup.org/tags/neurosurgery/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/neurosurgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seeg</title>
+      <link>https://brainworkup.org/tags/seeg/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/seeg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>adhd</title>
@@ -27,15 +63,6 @@
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/amygdala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brain2</title>
-      <link>https://brainworkup.org/tags/brain2/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/brain2/</guid>
       <description></description>
     </item>
     
@@ -67,38 +94,11 @@
     </item>
     
     <item>
-      <title>neuropsychology</title>
-      <link>https://brainworkup.org/tags/neuropsychology/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/neuropsychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurosurgery</title>
-      <link>https://brainworkup.org/tags/neurosurgery/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/neurosurgery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>schizophrenia</title>
       <link>https://brainworkup.org/tags/schizophrenia/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/schizophrenia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seeg</title>
-      <link>https://brainworkup.org/tags/seeg/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/seeg/</guid>
       <description></description>
     </item>
     
@@ -184,11 +184,380 @@
     </item>
     
     <item>
-      <title>memory</title>
-      <link>https://brainworkup.org/tags/memory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>cognitive ability</title>
+      <link>https://brainworkup.org/tags/cognitive-ability/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/memory/</guid>
+      <guid>https://brainworkup.org/tags/cognitive-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educational attainment</title>
+      <link>https://brainworkup.org/tags/educational-attainment/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/educational-attainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic correlation</title>
+      <link>https://brainworkup.org/tags/genetic-correlation/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/genetic-correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pathways</title>
+      <link>https://brainworkup.org/tags/pathways/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pleiotropy</title>
+      <link>https://brainworkup.org/tags/pleiotropy/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/pleiotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calcium channel</title>
+      <link>https://brainworkup.org/tags/calcium-channel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/calcium-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cerebellum</title>
+      <link>https://brainworkup.org/tags/cerebellum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/cerebellum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene expression</title>
+      <link>https://brainworkup.org/tags/gene-expression/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general cognitive ability</title>
+      <link>https://brainworkup.org/tags/general-cognitive-ability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/general-cognitive-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nootropics</title>
+      <link>https://brainworkup.org/tags/nootropics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/nootropics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potassium channel</title>
+      <link>https://brainworkup.org/tags/potassium-channel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/potassium-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synapse</title>
+      <link>https://brainworkup.org/tags/synapse/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/synapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescent</title>
+      <link>https://brainworkup.org/tags/adolescent/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/adolescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adult</title>
+      <link>https://brainworkup.org/tags/adult/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/adult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antipsychotic Agents</title>
+      <link>https://brainworkup.org/tags/antipsychotic-agents/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/antipsychotic-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aripiprazole</title>
+      <link>https://brainworkup.org/tags/aripiprazole/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/aripiprazole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognition</title>
+      <link>https://brainworkup.org/tags/cognition/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognition Disorders</title>
+      <link>https://brainworkup.org/tags/cognition-disorders/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/cognition-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Female</title>
+      <link>https://brainworkup.org/tags/female/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/female/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general cognitive function</title>
+      <link>https://brainworkup.org/tags/general-cognitive-function/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/general-cognitive-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humans</title>
+      <link>https://brainworkup.org/tags/humans/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/humans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Male</title>
+      <link>https://brainworkup.org/tags/male/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/male/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcome Assessment; Health Care</title>
+      <link>https://brainworkup.org/tags/outcome-assessment-health-care/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/outcome-assessment-health-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>https://brainworkup.org/tags/planning/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychosis</title>
+      <link>https://brainworkup.org/tags/psychosis/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/psychosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychotic Disorders</title>
+      <link>https://brainworkup.org/tags/psychotic-disorders/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/psychotic-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remission Induction</title>
+      <link>https://brainworkup.org/tags/remission-induction/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/remission-induction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risperidone</title>
+      <link>https://brainworkup.org/tags/risperidone/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/risperidone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Adult</title>
+      <link>https://brainworkup.org/tags/young-adult/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/young-adult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurocognition</title>
+      <link>https://brainworkup.org/tags/neurocognition/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/neurocognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proxy phenotype</title>
+      <link>https://brainworkup.org/tags/proxy-phenotype/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/proxy-phenotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://brainworkup.org/tags/development/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developmental science</title>
+      <link>https://brainworkup.org/tags/developmental-science/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/developmental-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doi</title>
+      <link>https://brainworkup.org/tags/doi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/doi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dopamine</title>
+      <link>https://brainworkup.org/tags/dopamine/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/dopamine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRD1</title>
+      <link>https://brainworkup.org/tags/drd1/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/drd1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRD2</title>
+      <link>https://brainworkup.org/tags/drd2/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/drd2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity level</title>
+      <link>https://brainworkup.org/tags/activity-level/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/activity-level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adolescence</title>
+      <link>https://brainworkup.org/tags/adolescence/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/adolescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>executive function</title>
+      <link>https://brainworkup.org/tags/executive-function/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/executive-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longitudinal studies</title>
+      <link>https://brainworkup.org/tags/longitudinal-studies/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/longitudinal-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADD/ADHD</title>
+      <link>https://brainworkup.org/tags/add/adhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/add/adhd/</guid>
       <description></description>
     </item>
     
