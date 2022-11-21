@@ -7,8 +7,8 @@ headless = true
 active = true
 weight = 80
 
-title = "Recent Publications"
-subtitle = "Recent research studies we have published"
+title = "Publications"
+subtitle = "Published research studies"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
