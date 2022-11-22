@@ -42,6 +42,11 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     }
@@ -49,14 +54,6 @@
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [
-    {
-      "path": "[[workspace]]/public/shiny/01_hello",
-      "title": "01_hello"
-    },
-    {
-      "path": "[[workspace]]/renv/library/R-4.2/x86_64-apple-darwin17.0/bslib",
-      "title": "bslib"
-    },
     {
       "title": "content",
       "path": "[[workspace]]/content"
@@ -102,10 +99,6 @@
       "path": "[[workspace]]/content/project/gwm"
     },
     {
-      "title": "01_hello",
-      "path": "[[workspace]]/static/shiny/01_hello"
-    },
-    {
       "title": "example.1",
       "path": "[[workspace]]/content/neuroscience/example.1"
     },
@@ -116,9 +109,6 @@
     {
       "path": "[[workspace]]/content/project/adhd-ahrq",
       "title": "adhd-ahrq"
-    },
-    {
-      "path": "[[workspace]]/content/project/adhd-executive"
     }
   ],
   "frontMatter.taxonomy.tags": [
@@ -183,6 +173,7 @@
     "working memory"
   ],
   "frontMatter.taxonomy.categories": [
-    "research"
+    "Clinical",
+    "Data Analysis"
   ]
 }

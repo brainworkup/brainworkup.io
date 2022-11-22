@@ -16,14 +16,10 @@ keywords:
 description: Grant to submit to study EF in college students
 categories:
   - Research
-lastmod: 2022-11-22T22:13:56.061Z
+lastmod: 2022-11-22T22:26:04.428Z
 ---
 
 ## Abstract
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
 
 ## Background
 

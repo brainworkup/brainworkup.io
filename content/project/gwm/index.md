@@ -10,20 +10,18 @@ tags:
   - Executive Functions
   - Neuropsychology
 title: GWAS of Working Memory
-lastmod: 2022-11-22T22:13:02.638Z
+lastmod: 2022-11-22T22:18:49.025Z
 categories:
   - Research
 ---
+
+# GWAS of the RDoC Cognitive Systems Domain: Modeling the Latent Genetic Architecture of Working Memory
 
 ## Grant No. (PI): R03 MH123787-01
 
 - Dates of Award: 06/10/2020-06/09/2022
 - Agency: National Institute of Mental Health (NIMH)
 - Percent Effort: 40
-
-## Title
-
-**GWAS of the RDoC Cognitive Systems Domain: Modeling the Latent Genetic Architecture of Working Memory**
 
 ## Description
 
