@@ -15,4 +15,10 @@ title: ADHD and Executive Functioning in College Students
 
 ## Background
 
+## Methods
+
+## Results
+
+{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
+
 ## Design
