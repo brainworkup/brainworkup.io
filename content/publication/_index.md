@@ -9,7 +9,7 @@ pagetitle: "Publications | brainworkup.io"
 toc: false
 listing:
   - id: articles
-    contents: "publications/*/**.qmd"
+    contents: "publication/*/**.md"
     template: ./ejs/article.ejs
     categories: true
     sort:
@@ -22,15 +22,3 @@ listing:
       publication: "Publication"
       year: "Year"
 ---
-
-```{=html}
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Publications</li>
-  </ol>
-</nav>
-```
-
-:::{#articles}
-:::
