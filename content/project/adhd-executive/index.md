@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: 2022-11-22T21:55:01.000Z
 external_link: null
 image:
   caption: Photo by Toa Heftiba on Unsplash
@@ -9,6 +9,12 @@ tags:
   - neuropsychology
   - adhd
 title: ADHD and Executive Functioning in College Students
+keywords:
+  - adhd
+description: Grant to submit to study EF in college students
+categories:
+  - research
+lastmod: 2022-11-22T21:55:28.102Z
 ---
 
 ## Abstract

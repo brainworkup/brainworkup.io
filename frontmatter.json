@@ -1,0 +1,188 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/public/shiny/01_hello",
+      "title": "01_hello"
+    },
+    {
+      "path": "[[workspace]]/renv/library/R-4.2/x86_64-apple-darwin17.0/bslib",
+      "title": "bslib"
+    },
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "publication",
+      "path": "[[workspace]]/content/publication"
+    },
+    {
+      "title": "project",
+      "path": "[[workspace]]/content/project"
+    },
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
+    },
+    {
+      "title": "admin",
+      "path": "[[workspace]]/content/authors/admin"
+    },
+    {
+      "title": "home",
+      "path": "[[workspace]]/content/home"
+    },
+    {
+      "title": "neuropsychology",
+      "path": "[[workspace]]/content/neuropsychology"
+    },
+    {
+      "title": "area.1",
+      "path": "[[workspace]]/content/neuropsychology/area.1"
+    },
+    {
+      "title": "area.2",
+      "path": "[[workspace]]/content/neuropsychology/area.2"
+    },
+    {
+      "title": "neuroscience",
+      "path": "[[workspace]]/content/neuroscience"
+    },
+    {
+      "title": "gwm",
+      "path": "[[workspace]]/content/project/gwm"
+    },
+    {
+      "title": "01_hello",
+      "path": "[[workspace]]/static/shiny/01_hello"
+    },
+    {
+      "title": "example.1",
+      "path": "[[workspace]]/content/neuroscience/example.1"
+    },
+    {
+      "title": "example.2",
+      "path": "[[workspace]]/content/neuroscience/example.2"
+    },
+    {
+      "path": "[[workspace]]/content/project/adhd-ahrq",
+      "title": "adhd-ahrq"
+    },
+    {
+      "path": "[[workspace]]/content/project/adhd-executive"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "ADD/ADHD",
+    "ADHD",
+    "Activity level",
+    "Adolescent",
+    "Adult",
+    "Antipsychotic Agents",
+    "Aripiprazole",
+    "Cognition Disorders",
+    "DRD1",
+    "DRD2",
+    "Female",
+    "GWAS",
+    "Humans",
+    "Male",
+    "Outcome Assessment; Health Care",
+    "Psychotic Disorders",
+    "Remission Induction",
+    "Risperidone",
+    "Schizophrenia",
+    "Source Themes",
+    "Young Adult",
+    "adhd",
+    "adolescence",
+    "amygdala",
+    "aripiprazole",
+    "calcium channel",
+    "cerebellum",
+    "cognition",
+    "cognitive ability",
+    "development",
+    "developmental science",
+    "doi",
+    "dopamine",
+    "educational attainment",
+    "executive function",
+    "gene expression",
+    "general cognitive ability",
+    "general cognitive function",
+    "genetic correlation",
+    "genetics",
+    "gwas",
+    "longitudinal studies",
+    "memory",
+    "neurocognition",
+    "neurodevelopment",
+    "neuropsychology",
+    "neurosurgery",
+    "nootropics",
+    "pathways",
+    "planning",
+    "pleiotropy",
+    "potassium channel",
+    "proxy phenotype",
+    "psychosis",
+    "risperidone",
+    "schizophrenia",
+    "seeg",
+    "synapse",
+    "working memory"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "research"
+  ]
+}

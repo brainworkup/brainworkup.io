@@ -10,5 +10,6 @@
     "sash.hoverBorder": "#ab82e6",
     "tab.activeBorder": "#ab82e6"
   },
-  "peacock.color": "#8e57de"
+  "peacock.color": "#8e57de",
+  "frontMatter.content.autoUpdateDate": true
 }
