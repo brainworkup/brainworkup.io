@@ -2,8 +2,7 @@
 header:
   caption: ""
   image: ""
-pagetitle: "Publications | brainworkup.io"
-# title: Publications
+title: Publications
 view: 3
 # pagetitle: "Publications | brainworkup.io"
 # toc: false
