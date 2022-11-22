@@ -1,16 +1,18 @@
 ---
-date: "2022-11-19"
+date: 2022-11-19
 #external_link: "https://github.com/brainworkup/gwm.flow"
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-  - genetics
-  - working memory
-  - gwas
-  - neuropsychology
+  - Genetics
+  - Executive Functions
+  - Neuropsychology
 title: GWAS of Working Memory
+lastmod: 2022-11-22T22:13:02.638Z
+categories:
+  - Research
 ---
 
 ## Grant No. (PI): R03 MH123787-01

@@ -6,15 +6,17 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-  - neuropsychology
-  - adhd
+  - ADHD
+  - Executive Functions
+  - Neuropsychology
 title: ADHD and Executive Functioning in College Students
 keywords:
-  - adhd
+  - ADHD
+  - Executive Functions
 description: Grant to submit to study EF in college students
 categories:
-  - research
-lastmod: 2022-11-22T22:08:09.205Z
+  - Research
+lastmod: 2022-11-22T22:12:43.575Z
 ---
 
 ## Abstract
