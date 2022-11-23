@@ -93,6 +93,7 @@ xaringanExtra::use_extra_styles(
 )
 ```
 
+
 name: title
 class: title-slide, center, middle
 background-image: url(usc_ksom_logo.jpg)
@@ -117,9 +118,11 @@ background-size: contain
 
 ### Distribution of Scores: _Population-level Interpretation_
 
+
 ```{r gauss-plot1, fig.cap='Statistical classification of neuropsychological test scores in the general population.', fig.retina=3, fig.asp=0.5, out.width = '50%'}
 knitr::include_graphics("plot_narrow.png", auto_pdf = TRUE)
 ```
+
 
 ---
 
@@ -130,9 +133,11 @@ background-size: contain
 ### Distribution of Scores: _Clinical-level Interpretation_
 
 
+
 ```{r gauss-plot2, fig.cap='General clinical interpretation of performance for individual test scores and broader neuropsychological domains', fig.retina=3, fig.asp=0.5, out.width='50%'}
 knitr::include_graphics("plot_broad.png", auto_pdf = TRUE)
 ```
+
 
 ---
 
@@ -140,6 +145,7 @@ class: center, middle
 background-color: var(--near-black)
 
 ### Neuropsychological Testing Results
+
 
 ```{r, read-data}
 neuropsych <-
@@ -420,12 +426,14 @@ plot1 <-
 plot1
 ```
 
+
 ---
 
 class: middle, center 
 background-color: var(--near-black)
 
 ### Behavioral Ratings Results
+
 
 ```{r drilldown2-level1}
 ## Level 1
@@ -773,3 +781,4 @@ plot2 <-
   )
 plot2
 ```
+
