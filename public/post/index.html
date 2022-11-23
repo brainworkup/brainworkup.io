@@ -421,7 +421,7 @@
 
 
 <meta content="2022-11-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-11-22 15:23:11 -0800 PST" itemprop="dateModified">
+<meta content="2022-11-22 17:13:53 -0800 PST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -468,6 +468,112 @@
     
     <div class="article-style" itemprop="articleBody">
       Distribution of Scores: Population-level Interpretation Distribution of Scores: Clinical-level Interpretation Neuropsychological Testing Results Behavioral Ratings Results   Distribution of Scores: Population-level Interpretation  Figure 1: Statistical classification of neuropsychological test scores in the general population.
+    </div>
+    
+
+
+    
+  </div>
+</div>
+    </div>
+    
+  
+    
+    <div class="col-lg-4 col-md-6 mb-4">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    
+    
+
+    <div class="card-body">
+    <h3 class="article-title mb-1 mt-0" itemprop="name">
+      <a href="/2022/11/21/hello-quarto/" itemprop="url">Hello, Quarto</a>
+    </h3>
+    
+    
+
+
+
+<meta content="2022-11-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-11-22 17:42:30 -0800 PST" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    <time>Nov 22, 2022</time>
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder"></i>
+    <a href="/categories/matplotlib/">Matplotlib</a>, <a href="/categories/coordinates/">Coordinates</a></span>
+  
+
+  
+
+</div>
+
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      <h2 id="polar-axis">Polar Axis</h2>
+<p>For a demonstration of a line plot on a polar axis, see @fig-polar.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> numpy <span style="color:#f92672">as</span> np
+<span style="color:#f92672">import</span> matplotlib.pyplot <span style="color:#f92672">as</span> plt
+
+r <span style="color:#f92672">=</span> np<span style="color:#f92672">.</span>arange(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">0.01</span>)
+theta <span style="color:#f92672">=</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">*</span> np<span style="color:#f92672">.</span>pi <span style="color:#f92672">*</span> r
+fig, ax <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>subplots(subplot_kw<span style="color:#f92672">=</span>{<span style="color:#e6db74">&#39;projection&#39;</span>: <span style="color:#e6db74">&#39;polar&#39;</span>})
+ax<span style="color:#f92672">.</span>plot(theta, r)
+ax<span style="color:#f92672">.</span>set_rticks([<span style="color:#ae81ff">0.5</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1.5</span>, <span style="color:#ae81ff">2</span>])
+ax<span style="color:#f92672">.</span>grid(True)
+plt<span style="color:#f92672">.</span>show()
+</code></pre></div><figure>
+<img src="index_files/figure-markdown_strict/fig-polar-output-1.png" id="fig-polar" width="450" height="439" alt="Figure 1: A line plot on a polar axis" />
+<figcaption aria-hidden="true">Figure 1: A line plot on a polar axis</figcaption>
+</figure>
+
     </div>
     
 
@@ -717,7 +823,7 @@ Inputs and Outputs You can embed Shiny inputs and outputs in your document. Outp
 
 
 <meta content="2021-06-18 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-11-22 16:11:46 -0800 PST" itemprop="dateModified">
+<meta content="2022-11-22 17:13:53 -0800 PST" itemprop="dateModified">
 
 <div class="article-metadata">
 

@@ -115,6 +115,31 @@ Figure 4: HighchartR Drilldown
     </item>
     
     <item>
+      <title>Hello, Quarto</title>
+      <link>https://brainworkup.org/2022/11/21/hello-quarto/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2022/11/21/hello-quarto/</guid>
+      <description>&lt;h2 id=&#34;polar-axis&#34;&gt;Polar Axis&lt;/h2&gt;
+&lt;p&gt;For a demonstration of a line plot on a polar axis, see @fig-polar.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; np
+&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; plt
+
+r &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;arange(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0.01&lt;/span&gt;)
+theta &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r
+fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots(subplot_kw&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;projection&amp;#39;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;polar&amp;#39;&lt;/span&gt;})
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(theta, r)
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;set_rticks([&lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;])
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;grid(True)
+plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;figure&gt;
+&lt;img src=&#34;index_files/figure-markdown_strict/fig-polar-output-1.png&#34; id=&#34;fig-polar&#34; width=&#34;450&#34; height=&#34;439&#34; alt=&#34;Figure 1: A line plot on a polar axis&#34; /&gt;
+&lt;figcaption aria-hidden=&#34;true&#34;&gt;Figure 1: A line plot on a polar axis&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Xaringan Drilldown</title>
       <link>https://brainworkup.org/2021/08/26/xaringan-drilldown/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>

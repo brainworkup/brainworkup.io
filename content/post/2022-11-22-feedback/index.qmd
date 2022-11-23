@@ -9,18 +9,11 @@ tags:
   - Xaringan
   - R
   - R Markdown
-subtitle: ''
-summary: ''
-authors: []
 lastmod: '2022-11-22T15:23:11-08:00'
 featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
 projects: []
 patient: "Biggie"
-institute: "Department of Psychiatry and the Behavioral Sciences"
+format: hugo-md
 ---
 
 ```{r patient, include=FALSE}
@@ -302,7 +295,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown-plot, fig.cap='HighchartR Drilldown', fig.retina=3, out.width = "100%"}
+```{r drilldown-plot, fig.cap='HighchartR Drilldown'}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -651,7 +644,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown2-plot, fig.cap='HighchartR Drilldown', out.width = "100%"}
+```{r drilldown2-plot, fig.cap='HighchartR Drilldown'}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -704,5 +697,5 @@ plot2 <-
       fontFamily = "Cabin"),
     backgroundColor = list("gray")
   )
-frameWidget(plot2)
+plot2
 ```
