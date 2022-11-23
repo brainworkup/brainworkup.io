@@ -23,12 +23,6 @@ runtime: shiny
 <script src="{{< blogdown/postref >}}index_files/strftime/strftime-min.js"></script>
 <link href="{{< blogdown/postref >}}index_files/ionrangeslider-css/css/ion.rangeSlider.css" rel="stylesheet" />
 
-<div id="TOC">
-<ul>
-<li><a href="#section-inputs-and-outputs" id="section-toc-inputs-and-outputs">Inputs and Outputs</a></li>
-<li><a href="#section-embedded-application" id="section-toc-embedded-application">Embedded Application</a></li>
-</ul>
-</div>
 
 <p>This R Markdown document is made interactive using Shiny.
 Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.</p>
@@ -61,13 +55,13 @@ The <code>selectInput</code> and <code>sliderInput</code> functions create the i
 </div>
 </div>
 </div>
-<div class="shiny-plot-output html-fill-item" id="outa20730549e86ce03" style="width:100%;height:400px;"></div>
+<div class="shiny-plot-output html-fill-item" id="outf69723cfa06a2490" style="width:100%;height:400px;"></div>
 </div>
 <div id="section-embedded-application" class="section level2">
 <h2>Embedded Application</h2>
 <p>It’s also possible to embed an entire Shiny application within an R Markdown document using the <code>shinyAppDir</code> function.
 This example embeds a Shiny application located in another directory:</p>
-<iframe data-deferred-src="appba07d34b5cd679e86ff2e0476fa46fdb/?w=&amp;__subapp__=1" width="100%" height="550" class="shiny-frame shiny-frame-deferred"></iframe>
+<iframe data-deferred-src="app13f433bf02495b2bc7938859bce92ccc/?w=&amp;__subapp__=1" width="100%" height="550" class="shiny-frame shiny-frame-deferred"></iframe>
 <p>Note the use of the <code>height</code> parameter to determine how much vertical space the embedded application should occupy.</p>
 <p>You can also use the <code>shinyApp</code> function to define an application inline rather then in an external directory.</p>
 <p>In all of R code chunks above the <code>echo = FALSE</code> attribute is used.

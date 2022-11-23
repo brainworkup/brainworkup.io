@@ -3,11 +3,10 @@ title: Animated Plots
 author: admin
 date: '2021-09-24'
 categories:
-  - data visualization
+  - Dataverse
 tags:
   - gganimate
   - ggplot2
-  - plot
 slug: animated-plots
 subtitle: Trajectory of working memory
 summary: Trajectory of working memory using gganimate
@@ -43,11 +42,11 @@ library(tibble)
 # NIH EXAMINER working memory data - fill sample
 wm <- tidytable::fread("wm.csv")
 # tidy data
-wm <- wm %>%
-  tidytable::mutate(age_int = trunc(age)) %>%
+wm <- wm |>
+  tidytable::mutate(age_int = trunc(age)) |>
   tidytable::relocate(age_int, .after = age)
 
-wm <- wm %>%
+wm <- wm |>
   mutate(
     age_5y = case_when(
       age_int == 3 ~ 3,
@@ -83,10 +82,10 @@ wm <- wm %>%
       age_int %in% 85:89 ~ 85,
       age_int %in% 90:99 ~ 90
     )
-  ) %>%
+  ) |>
   relocate(age_5y, .after = age_int)
 
-wm <- wm %>%
+wm <- wm |>
   mutate(
     age_5y.1 = case_when(
       age_int %in% 3:9 ~ 5,
@@ -108,10 +107,10 @@ wm <- wm %>%
       age_int %in% 85:89 ~ 85,
       age_int %in% 90:99 ~ 90
     )
-  ) %>%
+  ) |>
   relocate(age_5y.1, .after = age_5y)
 
-wm <- wm %>%
+wm <- wm |>
   mutate(
     age_10y = case_when(
       age_int %in% 3:9 ~ 0,
@@ -125,7 +124,7 @@ wm <- wm %>%
       age_int %in% 80:89 ~ 80,
       age_int %in% 90:99 ~ 90
     )
-  ) %>%
+  ) |>
   relocate(age_10y, .after = age_5y.1)
 
 # age as integer
@@ -139,13 +138,13 @@ wm <- wm[, age_10y := as.integer(age_10y)]
 wm <- tibble::as_tibble(wm)
 
 # convert names
-names_fresh <- names(wm) %>%
-  str_replace_all("[#%()]", "") %>%
-  str_replace_all("[ /]", "_") %>%
+names_fresh <- names(wm) |>
+  str_replace_all("[#%()]", "") |>
+  str_replace_all("[ /]", "_") |>
   str_to_lower()
 
 # set names
-wm <- wm %>%
+wm <- wm |>
   set_names(names_fresh)
 
 # write out indiv tests
@@ -153,11 +152,12 @@ readr::write_csv(wm, "wm.csv")
 ```
 
 ```{r wm}
-# NIH EXAMINER working memory data - fill sample
-wm <- tidytable::fread("wm.csv")
+# library(dplyr)
+# # NIH EXAMINER working memory data - fill sample
+# wm <- tidytable::fread("wm.csv")
 
 # wm phenos
-pheno <- data.frame(wm %>% select(
+pheno <- data.frame(wm |> select(
   age_10y,
   wm,
   dots,
@@ -186,7 +186,7 @@ plot_for_loop <- function(df, x_var, y_var) {
 }
 
 # Loop through every column
-plot_list <- colnames(pheno)[-1] %>%
+plot_list <- colnames(pheno)[-1] |>
   map(~ plot_for_loop(pheno, .x, colnames(pheno)[1]))
 
 # save each file to the corresponding location on disk:
@@ -202,8 +202,8 @@ ggsave("cow.pdf", path = getwd(), device = "pdf", scale = 1, width = 11.69, heig
 ## WM animations using `gganimate`
 
 ```{r data-wm}
-# NIH EXAMINER working memory data - fill sample
-wm <- tidytable::fread("wm.csv")
+# # NIH EXAMINER working memory data - fill sample
+# wm <- tidytable::fread("wm.csv")
 
 # gganimate code
 anim <- ggplot2::ggplot(wm, na.rm = TRUE, aes(x = wm, y = as.factor(age_10y), fill = stat(x))) +

@@ -1,2 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,test_type,score_type,timed,verbal,pass,absort,description
-Test of Premorbid Functioning,98,42,Average,,40,topf,TOPF,Intelligence/General Ability,Premorbid Ability,Premorbid Ability,npsych_test,standard_score,FALSE,Verbal,Sequential,TOPF_1,irregular word reading/premorbid ability level

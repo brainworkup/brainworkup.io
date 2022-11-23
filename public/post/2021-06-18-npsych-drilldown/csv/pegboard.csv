@@ -1,3 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,domain_test,domain_broad,test_type,score_type,timed,fluid_crystal,pass,absort
-Dominant Hand Time,0.8,78,High Average,,53,pegboard,Grooved Pegboard,Motor,Fine Motor Dexterity,RH Dexterity,Fine Motor,Cognitive,npsych_test,z_score,TRUE,,,GP_01
-Nondominant Hand Time,0,50,Average,,65,pegboard,Grooved Pegboard,Motor,Fine Motor Dexterity,LH Dexterity,Fine Motor,Cognitive,npsych_test,z_score,TRUE,,,GP_02

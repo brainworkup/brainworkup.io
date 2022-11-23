@@ -20,12 +20,6 @@
       <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
       <description>
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#r-markdown&#34; id=&#34;toc-r-markdown&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#including-plots&#34; id=&#34;toc-including-plots&#34;&gt;Including Plots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
@@ -60,7 +54,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;768&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

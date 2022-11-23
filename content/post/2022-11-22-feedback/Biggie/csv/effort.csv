@@ -1,0 +1,5 @@
+scale,raw_score,score,percentile,range,ci_95,test,test_name,domain,subdomain,narrow,pass,verbal,timed,test_type,score_type,absort,description
+Word Choice,,,,,,acs_effort,ACS Word Choice,Validity/Effort,Validity/Effort,Validity/Effort,,Verbal,Untimed,npsych_test,raw_score,acs_effort_1,effort test (word choice)
+Reliable Digit Span,,,,,,acs_effort,Reliable Digit Span,Validity/Effort,Validity/Effort,Validity/Effort,,Verbal,Untimed,npsych_test,raw_score,acs_effort_2,reliable digit span
+TOMM Trial 1,,,,,,,,,,,,,,,,,
+TOMM Trial 2,,,,,,,,,,,,,,,,,

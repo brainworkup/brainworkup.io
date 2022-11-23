@@ -1,0 +1,2 @@
+scale,raw_score,score,percentile,range,ci_95,test,test_name,domain,subdomain,narrow,pass,verbal,timed,test_type,score_type,absort,description,result
+Symbol Span,21,8,25,Low Average,,wms4,WMS-IV,Attention/Executive,Working Memory,Nonverbal Working Memory,Attention,Nonverbal,Untimed,npsych_test,scaled_score,wms4_ssp,Nonverbal working memory,Nonverbal working memory was Average.

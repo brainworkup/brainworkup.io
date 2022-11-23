@@ -3,13 +3,14 @@ title: Xaringan Drilldown
 author: Joey Trampush
 date: '2021-08-26'
 categories:
-  - xaringan
+  - Dataverse
 tags:
   - R
+  - Xaringan
 subtitle: R + neuropsychological data
 summary: Where does the summary show up?
 authors:
-  - Joey Trampush
+  - admin
 lastmod: '2021-08-26'
 featured: no
 draft: no
@@ -25,13 +26,6 @@ output:
       countIncrementalSlides: yes
       includePresenterNotes: yes
     self_contained: yes
-  blogdown::html_page:
-    toc: no
-    fig_width: 7
-    fig_asp: 0.618
-    fig_retina: 2
-    dev: svg
-rmd_hash: ad12fe1c1b68566d
 ---
 
 
@@ -60,9 +54,6 @@ library(manipulateWidget)
 library(tibble)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
-  fig.width = 9,
-  fig.height = 3.5,
-  fig.retina = 3,
   out.width = "100%",
   cache = FALSE,
   echo = FALSE,
@@ -71,10 +62,6 @@ knitr::opts_chunk$set(
   fig.show = TRUE,
   hiline = TRUE
 )
-```
-
-```{r xaringan-broadcast, echo=FALSE}
-xaringanExtra::use_broadcast()
 ```
 
 ```{r xaringan-themer}
@@ -93,7 +80,6 @@ style_mono_accent(
 
 ---
 
-
 # Distribution of Scores: Population-level Interpretation
 
 ```{r gauss-plot1, fig.cap='Statistical classification of neuropsychological test scores in the general population.', fig.width=4, fig.height=4, out.width = "50%"}
@@ -105,10 +91,11 @@ knitr::include_graphics("plot_narrow.png", auto_pdf = TRUE)
 # Neuropsych Drilldown: z-Scores (M = 0, SD = 1)
 
 ```{r}
-neurocog <- read_csv("neurocog.csv")
+neurocog <- read.csv("neurocog.csv")
 ```
 
 ```{r}
+library(dplyr)
 # for zscores
 ncogz <- neurocog %>%
   group_by(domain) %>%

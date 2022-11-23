@@ -7,39 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Animated Plots</title>
-      <link>https://brainworkup.org/2021/09/24/animated-plots/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/2021/09/24/animated-plots/</guid>
-      <description>
-
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#ridgeline-plots-using-ggridges&#34; id=&#34;toc-ridgeline-plots-using-ggridges&#34;&gt;Ridgeline plots using &lt;code&gt;ggridges&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#wm-animations-using-gganimate&#34; id=&#34;toc-wm-animations-using-gganimate&#34;&gt;WM animations using &lt;code&gt;gganimate&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Trajectory of working memory.&lt;/p&gt;
-&lt;div id=&#34;ridgeline-plots-using-ggridges&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Ridgeline plots using &lt;code&gt;ggridges&lt;/code&gt;&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;## Warning: `stat(x)` was deprecated in ggplot2 3.4.0.
-## ℹ Please use `after_stat(x)` instead.&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://brainworkup.org/2021/09/24/animated-plots/index_files/figure-html/wm-1.svg&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;wm-animations-using-gganimate&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;WM animations using &lt;code&gt;gganimate&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;anim.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Hello R Markdown</title>
@@ -49,12 +20,6 @@
       <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
       <description>
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#r-markdown&#34; id=&#34;toc-r-markdown&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#including-plots&#34; id=&#34;toc-including-plots&#34;&gt;Including Plots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
@@ -89,7 +54,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;768&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

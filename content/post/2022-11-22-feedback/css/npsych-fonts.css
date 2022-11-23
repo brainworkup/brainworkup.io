@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+@font-face {
+  font-family: "National";
+  src: url("https://www.usc.edu/assets/fonts/NationalWeb-Regular.eot");
+  src: local(":)"),
+    url("https://www.usc.edu/assets/fonts/NationalWeb-Regular.woff")
+      format("woff"),
+    url("https://www.usc.edu/assets/fonts/NationalWeb-Regular.ttf")
+      format("truetype"),
+    url("https://www.usc.edu/assets/fonts/NationalWeb-Regular.svg")
+      format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Bitter', Prompt, sans-serif;
+  font-weight: 400;
+  background-color: var(--near-black);
+  /* color: var(--near-white); */
+}
+
+h1 {
+  font-family: 'Monoton', cursive;
+  font-weight: 600;
+  color: var(--header-color);
+}
+
+h2 {
+  font-family: 'Monoton', cursive;
+  font-weight: 300;
+  color: var(--header-color);
+}
+
+h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: var(--near-white);
+  /* font-size: 1.5em !important; */
+}
+
+h4, h5 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 400;
+  color: var(--washed-red);
+}
+
+h6 {
+  font-family: 'New Rocker', cursive;
+  font-weight: 400;
+  color: var(--washed-red);
+  font-size: 2em !important;
+}
+
+.remark-code,
+.remark-inline-code {
+  font-family: 'Fira Code', monospace, var(--code-font-family), Menlo, Consolas, Monaco, Liberation Mono,
+    Lucida Console;
+}
+
+.f1 {
+  font-size: 3rem;
+}
+
+.f2 {
+  font-size: 2.25rem;
+}
+
+.f3 {
+  font-size: 1.5rem;
+}
+
+.f4 {
+  font-size: 1.25rem;
+}
+
+.f5 {
+  font-size: 1rem;
+}
+
+.f6 {
+  font-size: 0.875rem;
+}

@@ -7,69 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Highcharter Drilldown on Neuropsychological Domains</title>
-      <link>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</guid>
-      <description>
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#neuropsychological-testing-results&#34; id=&#34;toc-neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Neuropsychological Testing Results&lt;/h2&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-aside {
-  margin-left: 100%;
-  position: absolute;
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-img {
-  width: 200vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-rect[Attributes Style] {
-    fill: transparent;
-    x: 0;
-    y: 0;
-    width: 1200;
-    height: 800;
-    rx: 0;
-    ry: 0;
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-.drilld {
-  width: 300vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:768px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: HighchartR Drilldown
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Drilldown on Neuropsych Data with R</title>
@@ -82,18 +23,6 @@ Figure 1: HighchartR Drilldown
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#highcharter-drilldown-setup&#34; id=&#34;toc-highcharter-drilldown-setup&#34;&gt;Highcharter Drilldown Setup&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#r-markdown-chunk-options&#34; id=&#34;toc-r-markdown-chunk-options&#34;&gt;R Markdown chunk options&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#load-libraries&#34; id=&#34;toc-load-libraries&#34;&gt;Load libraries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-data&#34; id=&#34;toc-import-data&#34;&gt;Import data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#drilldown-using-percentiles&#34; id=&#34;toc-drilldown-using-percentiles&#34;&gt;Drilldown using percentiles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#drilldown-using-zscores&#34; id=&#34;toc-drilldown-using-zscores&#34;&gt;Drilldown using zScores&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;div id=&#34;highcharter-drilldown-setup&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Highcharter Drilldown Setup&lt;/h2&gt;
@@ -167,12 +96,6 @@ Figure 2: Drilldown Neuropsych zScores
       <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
       <description>
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#r-markdown&#34; id=&#34;toc-r-markdown&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#including-plots&#34; id=&#34;toc-including-plots&#34;&gt;Including Plots&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
@@ -207,7 +130,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;768&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

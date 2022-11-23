@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2022 21:55:01 +0000</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>adhd</title>
+      <link>https://brainworkup.org/tags/adhd/</link>
+      <pubDate>Tue, 22 Nov 2022 21:55:01 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/adhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive Functions</title>
+      <link>https://brainworkup.org/tags/executive-functions/</link>
+      <pubDate>Tue, 22 Nov 2022 21:55:01 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/executive-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuropsychology</title>
+      <link>https://brainworkup.org/tags/neuropsychology/</link>
+      <pubDate>Tue, 22 Nov 2022 21:55:01 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/neuropsychology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>memory</title>
@@ -18,15 +45,6 @@
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuropsychology</title>
-      <link>https://brainworkup.org/tags/neuropsychology/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/neuropsychology/</guid>
       <description></description>
     </item>
     
@@ -49,15 +67,6 @@
     </item>
     
     <item>
-      <title>adhd</title>
-      <link>https://brainworkup.org/tags/adhd/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/adhd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>amygdala</title>
       <link>https://brainworkup.org/tags/amygdala/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
@@ -67,20 +76,11 @@
     </item>
     
     <item>
-      <title>genetics</title>
+      <title>Genetics</title>
       <link>https://brainworkup.org/tags/genetics/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gwas</title>
-      <link>https://brainworkup.org/tags/gwas/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/gwas/</guid>
       <description></description>
     </item>
     
@@ -112,56 +112,20 @@
     </item>
     
     <item>
-      <title>working memory</title>
-      <link>https://brainworkup.org/tags/working-memory/</link>
-      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/working-memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ggplot2</title>
-      <link>https://brainworkup.org/tags/ggplot2/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/ggplot2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>https://brainworkup.org/tags/r/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>https://brainworkup.org/tags/r-markdown/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Xaringan</title>
+      <link>https://brainworkup.org/tags/xaringan/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gganimate</title>
-      <link>https://brainworkup.org/tags/gganimate/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/gganimate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>https://brainworkup.org/tags/plot/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/plot/</guid>
+      <guid>https://brainworkup.org/tags/xaringan/</guid>
       <description></description>
     </item>
     
@@ -171,6 +135,24 @@
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>https://brainworkup.org/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://brainworkup.org/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://brainworkup.org/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://brainworkup.org/tags/r-markdown/</guid>
       <description></description>
     </item>
     
@@ -207,6 +189,15 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/genetic-correlation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWAS</title>
+      <link>https://brainworkup.org/tags/gwas/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/gwas/</guid>
       <description></description>
     </item>
     
@@ -513,6 +504,15 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/tags/drd2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working memory</title>
+      <link>https://brainworkup.org/tags/working-memory/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/working-memory/</guid>
       <description></description>
     </item>
     

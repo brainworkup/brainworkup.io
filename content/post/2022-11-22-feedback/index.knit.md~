@@ -1,0 +1,127 @@
+---
+title: Feedback
+author: Joey Trampush
+date: '2022-11-22'
+slug: feedback
+categories:
+  - Dataverse
+tags:
+  - Xaringan
+  - R
+  - R Markdown
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-11-22T15:23:11-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+patient: "Biggie"
+institute: "Department of Psychiatry and the Behavioral Sciences"
+output:
+  xaringan::moon_reader:
+    css: ["css/npsych-fonts.css", "css/npsych-theme.css"]
+    lib_dir: libs
+    self_contained: true
+    anchor_sections: false
+    seal: false    
+    nature:
+      highlightStyle: monokai
+      highlightLines: true
+      countIncrementalSlides: false
+      highlightLanguage: ["r", "css", "yaml"]
+      ratio: '16:9'
+      navigation: list(click = true)
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      includePresenterNotes: yes
+      beforeInit: ["libs/macros.js"]
+---
+
+
+
+
+
+
+
+name: title
+class: title-slide, center, middle
+background-image: url(usc_ksom_logo.jpg)
+background-position: bottom
+background-repeat: no-repeat
+background-size: 25%
+background-color: var(--usc-black)
+
+
+# Feedback
+## Biggie
+### Joey Trampush
+### Department of Psychiatry and the Behavioral Sciences
+### 2022-11-22
+
+
+---
+
+name: gauss1
+class: middle center
+background-size: contain
+
+### Distribution of Scores: _Population-level Interpretation_
+
+<div class="figure">
+<img src="plot_narrow.png" alt="Statistical classification of neuropsychological test scores in the general population." width="50%" />
+<p class="caption">(\#fig:gauss-plot1)Statistical classification of neuropsychological test scores in the general population.</p>
+</div>
+
+---
+
+name: gauss2
+class: middle center
+background-size: contain
+
+### Distribution of Scores: _Clinical-level Interpretation_
+
+
+<div class="figure">
+<img src="plot_broad.png" alt="General clinical interpretation of performance for individual test scores and broader neuropsychological domains" width="50%" />
+<p class="caption">(\#fig:gauss-plot2)General clinical interpretation of performance for individual test scores and broader neuropsychological domains</p>
+</div>
+
+---
+
+class: center, middle
+background-color: var(--near-black)
+
+### Neuropsychological Testing Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

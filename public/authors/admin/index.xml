@@ -17,12 +17,7 @@
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://brainworkup.org/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -51,60 +46,34 @@ slides feature.
     </item>
     
     <item>
-      <title>Highcharter Drilldown on Neuropsychological Domains</title>
-      <link>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <title>Xaringan Drilldown</title>
+      <link>https://brainworkup.org/2021/08/26/xaringan-drilldown/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/</guid>
+      <guid>https://brainworkup.org/2021/08/26/xaringan-drilldown/</guid>
       <description>
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/04/05/highcharter-drilldown-neurocognitive-domains/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/panelset/panelset.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/panelset/panelset.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#neuropsychological-testing-results&#34; id=&#34;toc-neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
-&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Neuropsychological Testing Results&lt;/h2&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-aside {
-  margin-left: 100%;
-  position: absolute;
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-img {
-  width: 200vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-rect[Attributes Style] {
-    fill: transparent;
-    x: 0;
-    y: 0;
-    width: 1200;
-    height: 800;
-    rx: 0;
-    ry: 0;
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-.drilld {
-  width: 300vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:768px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;distribution-of-scores-population-level-interpretation&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Distribution of Scores: Population-level Interpretation&lt;/h1&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:gauss-plot1&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
-Figure 1: HighchartR Drilldown
+Figure 1: Statistical classification of neuropsychological test scores in the general population.
 &lt;/p&gt;
 &lt;/div&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;neuropsych-drilldown-z-scores-m-0-sd-1&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Neuropsych Drilldown: z-Scores (M = 0, SD = 1)&lt;/h1&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drillz-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -123,12 +92,6 @@ Figure 1: HighchartR Drilldown
 &lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
 &lt;link href=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#section-inputs-and-outputs&#34; id=&#34;section-toc-inputs-and-outputs&#34;&gt;Inputs and Outputs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-embedded-application&#34; id=&#34;section-toc-embedded-application&#34;&gt;Embedded Application&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;p&gt;This R Markdown document is made interactive using Shiny.
 Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.&lt;/p&gt;
@@ -161,13 +124,13 @@ The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;outa20730549e86ce03&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;outf69723cfa06a2490&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Embedded Application&lt;/h2&gt;
 &lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
 This example embeds a Shiny application located in another directory:&lt;/p&gt;
-&lt;iframe data-deferred-src=&#34;appba07d34b5cd679e86ff2e0476fa46fdb/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;iframe data-deferred-src=&#34;app13f433bf02495b2bc7938859bce92ccc/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
 &lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
 &lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
@@ -187,18 +150,6 @@ This is to prevent the R code within the chunk from rendering in the document al
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
-&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#highcharter-drilldown-setup&#34; id=&#34;toc-highcharter-drilldown-setup&#34;&gt;Highcharter Drilldown Setup&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#r-markdown-chunk-options&#34; id=&#34;toc-r-markdown-chunk-options&#34;&gt;R Markdown chunk options&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#load-libraries&#34; id=&#34;toc-load-libraries&#34;&gt;Load libraries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-data&#34; id=&#34;toc-import-data&#34;&gt;Import data&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#drilldown-using-percentiles&#34; id=&#34;toc-drilldown-using-percentiles&#34;&gt;Drilldown using percentiles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#drilldown-using-zscores&#34; id=&#34;toc-drilldown-using-zscores&#34;&gt;Drilldown using zScores&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
 
 &lt;div id=&#34;highcharter-drilldown-setup&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Highcharter Drilldown Setup&lt;/h2&gt;

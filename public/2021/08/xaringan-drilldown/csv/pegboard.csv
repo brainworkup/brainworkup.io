@@ -1,3 +1,0 @@
-scale,score,percentile,range,ci_95,raw_score,test,test_name,domain,subdomain,narrow,test_type,score_type,timed,verbal,pass,absort,description
-Right-Hand Time,42,21,Low-Average,,72,pegboard,Grooved Pegboard,Motor,Fine Motor Dexterity,Fine Motor Dexterity RH,npsych_test,t_score,TRUE,Nonverbal,Sequential,GP_1,fine motor dexterity for dominant hand
-Left-Hand Time,45,31,Average,,75,pegboard,Grooved Pegboard,Motor,Fine Motor Dexterity,Fine Motor Dexterity LH,npsych_test,t_score,TRUE,Nonverbal,Sequential,GP_2,fine motor dexterity for nondominant hand
