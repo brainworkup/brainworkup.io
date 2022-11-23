@@ -7,86 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year} Joey Trampush</copyright>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
 	    <atom:link href="https://brainworkup.org/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Drilldown on Neuropsych Data with R</title>
-      <link>https://brainworkup.org/2021/06/18/npsych-drilldown/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/2021/06/18/npsych-drilldown/</guid>
-      <description>
-&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;highcharter-drilldown-setup&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Highcharter Drilldown Setup&lt;/h2&gt;
-&lt;div id=&#34;r-markdown-chunk-options&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;R Markdown chunk options&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div id=&#34;load-libraries&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Load libraries&lt;/h3&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-aside {
-  margin-left: 100%;
-  position: absolute;
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-img {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-rect[Attributes Style] {
-    fill: transparent;
-    x: 0;
-    y: 0;
-    width: 800;
-    height: 500;
-    rx: 0;
-    ry: 0;
-}
-&lt;/style&gt;
-&lt;/div&gt;
-&lt;div id=&#34;import-data&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Import data&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;drilldown-using-percentiles&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Drilldown using percentiles&lt;/h2&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-.drilld {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-}
-&lt;/style&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drillp&#34;&gt;&lt;/span&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drillp.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: Drilldown Neuropsych Pct
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;drilldown-using-zscores&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Drilldown using zScores&lt;/h2&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drillz&#34;&gt;&lt;/span&gt;
-&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drillz.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 2: Drilldown Neuropsych zScores
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Hello R Markdown</title>

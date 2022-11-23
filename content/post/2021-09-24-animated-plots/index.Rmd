@@ -38,7 +38,7 @@ library(tidytable)
 library(tibble)
 ```
 
-```{r, eval=T, include=F}
+```{r, eval=T, echo=FALSE}
 # NIH EXAMINER working memory data - fill sample
 wm <- tidytable::fread("wm.csv")
 # tidy data
@@ -152,9 +152,9 @@ readr::write_csv(wm, "wm.csv")
 ```
 
 ```{r wm}
-# library(dplyr)
-# # NIH EXAMINER working memory data - fill sample
-# wm <- tidytable::fread("wm.csv")
+library(tidytable)
+# NIH EXAMINER working memory data - fill sample
+wm <- tidytable::fread("wm.csv")
 
 # wm phenos
 pheno <- data.frame(wm |> select(
@@ -202,8 +202,8 @@ ggsave("cow.pdf", path = getwd(), device = "pdf", scale = 1, width = 11.69, heig
 ## WM animations using `gganimate`
 
 ```{r data-wm}
-# # NIH EXAMINER working memory data - fill sample
-# wm <- tidytable::fread("wm.csv")
+# NIH EXAMINER working memory data - fill sample
+wm <- tidytable::fread("wm.csv")
 
 # gganimate code
 anim <- ggplot2::ggplot(wm, na.rm = TRUE, aes(x = wm, y = as.factor(age_10y), fill = stat(x))) +
@@ -226,7 +226,7 @@ anim <- ggplot2::ggplot(wm, na.rm = TRUE, aes(x = wm, y = as.factor(age_10y), fi
   gganimate::exit_fade()
 ```
 
-```{r, eval=F}
+```{r, eval=T}
 gganimate::animate(anim, fps = 20)
 ```
 

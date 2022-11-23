@@ -40,6 +40,33 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>https://brainworkup.org/tags/r/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://brainworkup.org/tags/r-markdown/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xaringan</title>
+      <link>https://brainworkup.org/tags/xaringan/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/tags/xaringan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>memory</title>
       <link>https://brainworkup.org/tags/memory/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
@@ -112,24 +139,6 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://brainworkup.org/tags/r/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xaringan</title>
-      <link>https://brainworkup.org/tags/xaringan/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/tags/xaringan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>shiny</title>
       <link>https://brainworkup.org/tags/shiny/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
@@ -144,15 +153,6 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>https://brainworkup.org/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://brainworkup.org/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://brainworkup.org/tags/r-markdown/</guid>
       <description></description>
     </item>
     

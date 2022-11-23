@@ -5,7 +5,7 @@ summary: "Drilldown plot in highcharter trying to post"
 slug: npsych-drilldown
 authors:
 - admin
-categories: [R]
+categories: ["Dataverse"]
 date: '2021-06-18'
 draft: false
 featured: false

@@ -21,27 +21,6 @@ image:
 projects: []
 patient: "Biggie"
 institute: "Department of Psychiatry and the Behavioral Sciences"
-output:
-  xaringan::moon_reader:
-    css: ["css/npsych-fonts.css", "css/npsych-theme.css"]
-    lib_dir: libs
-    self_contained: true
-    anchor_sections: false
-    seal: false    
-    nature:
-      highlightStyle: monokai
-      highlightLines: true
-      countIncrementalSlides: false
-      highlightLanguage: ["r", "css", "yaml"]
-      ratio: '16:9'
-      navigation: list(click = true)
-      slideNumberFormat: |
-        <div class="progress-bar-container">
-          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
-          </div>
-        </div>
-      includePresenterNotes: yes
-      beforeInit: ["libs/macros.js"]
 ---
 
 ```{r patient, include=FALSE}
@@ -73,7 +52,6 @@ library(xaringanthemer)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
   fig.path = "figs/",
-  fig.retina = 3,
   out.width = "100%",
   fig.showtext = TRUE,
   comment = NULL,
@@ -87,78 +65,27 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r xaringan-extra, include=F}
-xaringanExtra::use_animate_css(minified = FALSE, xaringan = TRUE)
-xaringanExtra::use_tachyons()
-xaringanExtra::use_tile_view()
-
-xaringanExtra::use_scribble()
-xaringanExtra::use_panelset()
-
-xaringanExtra::style_panelset_tabs(font_family = "inherit")
-xaringanExtra::use_freezeframe()
-xaringanExtra::use_fit_screen()
-xaringanExtra::use_extra_styles(
-  hover_code_line = TRUE, #<<
-  mute_unhighlighted_code = TRUE #<<
-)
-```
-
-name: title
-class: title-slide, center, middle
-background-image: url(usc_ksom_logo.jpg)
-background-position: bottom
-background-repeat: no-repeat
-background-size: 25%
-background-color: var(--usc-black)
-
-
-# `r rmarkdown::metadata$title`
-## `r rmarkdown::metadata$patient`
-### `r rmarkdown::metadata$author`
-### `r rmarkdown::metadata$institute`
-### `r rmarkdown::metadata$date`
-
-
----
-
-name: gauss1
-class: middle center
-background-size: contain
-
-### Distribution of Scores: _Population-level Interpretation_
+### Distribution of Scores: *Population-level Interpretation*
 
 ```{r gauss-plot1, fig.cap='Statistical classification of neuropsychological test scores in the general population.', fig.retina=3, fig.asp=0.5, out.width = '50%'}
 knitr::include_graphics("plot_narrow.png", auto_pdf = TRUE)
 ```
 
----
-
-name: gauss2
-class: middle center
-background-size: contain
-
-### Distribution of Scores: _Clinical-level Interpretation_
-
+### Distribution of Scores: *Clinical-level Interpretation*
 
 ```{r gauss-plot2, fig.cap='General clinical interpretation of performance for individual test scores and broader neuropsychological domains', fig.retina=3, fig.asp=0.5, out.width='50%'}
 knitr::include_graphics("plot_broad.png", auto_pdf = TRUE)
 ```
 
----
-
-class: center, middle
-background-color: var(--near-black)
-
 ### Neuropsychological Testing Results
 
 ```{r, read-data}
 neuropsych <-
-  vroom::vroom("Biggie/neuropsych.csv")
+  read.csv("neuropsych.csv")
 neurocog <-
-  vroom::vroom("Biggie/neurocog.csv")
+  read.csv("neurocog.csv")
 neurobehav <-
-  vroom::vroom("Biggie/neurobehav.csv")
+  read.csv("neurobehav.csv")
 ```
 
 ```{r drilldown-level1}
@@ -375,7 +302,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown-plot, fig.cap='HighchartR Drilldown', fig.width=12, fig.height=8, fig.retina=3, out.width = "100%"}
+```{r drilldown-plot, fig.cap='HighchartR Drilldown', fig.retina=3, out.width = "100%"}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -430,11 +357,6 @@ plot1 <-
   )
 plot1
 ```
-
----
-
-class: middle, center 
-background-color: var(--near-black)
 
 ### Behavioral Ratings Results
 
@@ -729,7 +651,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown2-plot, fig.cap='HighchartR Drilldown', fig.width=12, fig.height=8, fig.retina=3, out.width = "100%"}
+```{r drilldown2-plot, fig.cap='HighchartR Drilldown', out.width = "100%"}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -782,5 +704,5 @@ plot2 <-
       fontFamily = "Cabin"),
     backgroundColor = list("gray")
   )
-plot2
+frameWidget(plot2)
 ```

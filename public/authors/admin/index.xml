@@ -150,6 +150,18 @@ This is to prevent the R code within the chunk from rendering in the document al
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/06/18/npsych-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#highcharter-drilldown-setup&#34; id=&#34;toc-highcharter-drilldown-setup&#34;&gt;Highcharter Drilldown Setup&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#r-markdown-chunk-options&#34; id=&#34;toc-r-markdown-chunk-options&#34;&gt;R Markdown chunk options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#load-libraries&#34; id=&#34;toc-load-libraries&#34;&gt;Load libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-data&#34; id=&#34;toc-import-data&#34;&gt;Import data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#drilldown-using-percentiles&#34; id=&#34;toc-drilldown-using-percentiles&#34;&gt;Drilldown using percentiles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#drilldown-using-zscores&#34; id=&#34;toc-drilldown-using-zscores&#34;&gt;Drilldown using zScores&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;div id=&#34;highcharter-drilldown-setup&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Highcharter Drilldown Setup&lt;/h2&gt;
