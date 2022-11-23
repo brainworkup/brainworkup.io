@@ -41,21 +41,6 @@ library(widgetframe)
 library(xaringan)
 library(xaringanExtra)
 library(xaringanthemer)
-## knitr options
-options(htmltools.dir.version = FALSE)
-knitr::opts_chunk$set(
-  fig.path = "figs/",
-  out.width = "100%",
-  fig.showtext = TRUE,
-  comment = NULL,
-  cache = FALSE,
-  cache.path = "cache/",
-  echo = FALSE,
-  message = FALSE,
-  warning = FALSE,
-  dev = c("svg", "svglite"),
-  hiline = TRUE
-)
 ```
 
 ### Distribution of Scores: *Population-level Interpretation*
@@ -697,5 +682,5 @@ plot2 <-
       fontFamily = "Cabin"),
     backgroundColor = list("gray")
   )
-plot2
+frameWidget(plot2)
 ```
