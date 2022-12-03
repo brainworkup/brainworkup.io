@@ -54,13 +54,13 @@
     <lastmod>2022-11-22T14:26:48-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/categories/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
+    <lastmod>2022-11-22T17:42:30-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/tags/executive-functions/</loc>
     <lastmod>2022-11-22T14:26:48-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
+    <lastmod>2022-11-22T18:10:24-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/tags/neuropsychology/</loc>
     <lastmod>2022-11-22T14:26:48-08:00</lastmod>
@@ -69,22 +69,7 @@
     <lastmod>2022-11-22T14:26:48-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/tags/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/categories/dataverse/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/2022/11/22/feedback/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/tags/r/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/tags/r-markdown/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/tags/xaringan/</loc>
-    <lastmod>2022-11-22T17:53:07-08:00</lastmod>
+    <lastmod>2022-11-22T16:11:46-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/categories/coordinates/</loc>
     <lastmod>2022-11-22T17:42:30-08:00</lastmod>
@@ -100,6 +85,9 @@
   </url><url>
     <loc>https://brainworkup.org/tags/memory/</loc>
     <lastmod>2022-11-21T10:57:13-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/</loc>
+    <lastmod>2022-11-22T18:10:24-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/tags/neurosurgery/</loc>
     <lastmod>2022-11-21T10:57:13-08:00</lastmod>
@@ -158,6 +146,15 @@
     <loc>https://brainworkup.org/privacy/</loc>
     <lastmod>2022-11-20T11:30:05-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.org/categories/dataverse/</loc>
+    <lastmod>2022-11-22T17:13:53-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/tags/r/</loc>
+    <lastmod>2022-11-22T16:11:46-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/tags/xaringan/</loc>
+    <lastmod>2022-11-22T16:11:46-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.org/2021/08/26/xaringan-drilldown/</loc>
     <lastmod>2022-11-22T16:11:46-08:00</lastmod>
   </url><url>
@@ -180,6 +177,9 @@
     <lastmod>2022-11-22T16:11:46-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/categories/r/</loc>
+    <lastmod>2022-11-22T16:11:46-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/tags/r-markdown/</loc>
     <lastmod>2022-11-22T16:11:46-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/tags/regression/</loc>
@@ -416,6 +416,9 @@
     <loc>https://brainworkup.org/publication/preprint/</loc>
     <lastmod>2022-11-19T16:16:38-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.org/authors/terho-lehtim%5Ca/</loc>
+    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.org/authors/a%5Cichand-stefanis-nikos-c-soumare/</loc>
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
@@ -465,6 +468,9 @@
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/anu-loukola/</loc>
+    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/authors/ara-h%5Cagg/</loc>
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/ari-v-ahola-olli/</loc>
@@ -866,6 +872,9 @@
     <loc>https://brainworkup.org/authors/tobias-luck/</loc>
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.org/authors/tri-r%5Caikk%5Cnen/</loc>
+    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.org/authors/ulman-lindenberger/</loc>
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
@@ -882,15 +891,6 @@
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/yasaman-saba/</loc>
-    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/ara-h%5Cagg/</loc>
-    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/terho-lehtim%5Ca/</loc>
-    <lastmod>2022-11-20T11:56:59-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/tri-r%5Caikk%5Cnen/</loc>
     <lastmod>2022-11-20T11:56:59-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/ahmad-r.-hariri/</loc>
@@ -1217,6 +1217,9 @@
     <loc>https://brainworkup.org/authors/behrooz-z.-alizadeh/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.org/authors/bge-schmidt/</loc>
+    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.org/authors/bjarni-gunnarsson/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
@@ -1230,9 +1233,6 @@
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/brenda-w.j.h.-penninx/</loc>
-    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/bge-schmidt/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/carrie-a.m.-northover/</loc>
@@ -1329,6 +1329,9 @@
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/edward-kong/</loc>
+    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
+  </url><url>
+    <loc>https://brainworkup.org/authors/eedik-m%5Cagi/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/elina-d-iacono-william-g.-hypp%5Conen/</loc>
@@ -1889,10 +1892,10 @@
     <loc>https://brainworkup.org/authors/stavroula-kanoni/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
-    <loc>https://brainworkup.org/authors/steven-f.-lehrer/</loc>
+    <loc>https://brainworkup.org/authors/steven-f.-hrer/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
-    <loc>https://brainworkup.org/authors/steven-f.-hrer/</loc>
+    <loc>https://brainworkup.org/authors/steven-f.-lehrer/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/steven-j.-pitts/</loc>
@@ -1934,6 +1937,9 @@
     <loc>https://brainworkup.org/authors/tomi-m%5Caki-os/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
+    <loc>https://brainworkup.org/authors/tonu-esko/</loc>
+    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
+  </url><url>
     <loc>https://brainworkup.org/authors/tuan-anh-nguyen-viet/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
@@ -1941,9 +1947,6 @@
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/tushar-kundu/</loc>
-    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/tonu-esko/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/u-and-chabris-christopher-f.-b%5Cultmann/</loc>
@@ -1995,9 +1998,6 @@
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/zoltan-kutalik/</loc>
-    <lastmod>2022-11-20T12:21:25-08:00</lastmod>
-  </url><url>
-    <loc>https://brainworkup.org/authors/eedik-m%5Cagi/</loc>
     <lastmod>2022-11-20T12:21:25-08:00</lastmod>
   </url><url>
     <loc>https://brainworkup.org/authors/a-c-need/</loc>

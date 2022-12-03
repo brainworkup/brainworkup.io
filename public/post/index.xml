@@ -12,680 +12,6 @@
     
     
     <item>
-      <title>Feedback</title>
-      <link>https://brainworkup.org/2022/11/22/feedback/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/2022/11/22/feedback/</guid>
-      <description>&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/proj4js/proj4.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/css/motion.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/highcharts.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/highcharts-3d.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/highcharts-more.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/stock.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/map.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/data.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/exporting.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/offline-exporting.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/drilldown.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/item-series.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/overlapping-datalabels.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/annotations.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/export-data.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/funnel.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/heatmap.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/treemap.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/sankey.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/dependency-wheel.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/organization.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/solid-gauge.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/streamgraph.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/sunburst.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/vector.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/wordcloud.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/xrange.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/tilemap.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/venn.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/gantt.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/timeline.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/parallel-coordinates.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/bullet.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/coloraxis.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/dumbbell.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/lollipop.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/series-label.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/plugins/motion.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/custom/reset.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highcharts/modules/boost.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/highchart-binding/highchart.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://brainworkup.org/2022/11/22/feedback/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;distribution-of-scores-population-level-interpretation&#34;&gt;Distribution of Scores: &lt;em&gt;Population-level Interpretation&lt;/em&gt;&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;knitr&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;include_graphics&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;plot_narrow.png&amp;#34;&lt;/span&gt;, auto_pdf &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;&lt;/p&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: Statistical classification of neuropsychological test scores in the general population.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;distribution-of-scores-clinical-level-interpretation&#34;&gt;Distribution of Scores: &lt;em&gt;Clinical-level Interpretation&lt;/em&gt;&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;knitr&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;include_graphics&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;plot_broad.png&amp;#34;&lt;/span&gt;, auto_pdf &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;p&gt;&lt;img src=&#34;plot_broad.png&#34; alt=&#34;General clinical interpretation of performance for individual test scores and broader neuropsychological domains&#34; width=&#34;50%&#34; /&gt;&lt;/p&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 2: General clinical interpretation of performance for individual test scores and broader neuropsychological domains
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;neuropsych &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;read.csv&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;neuropsych.csv&amp;#34;&lt;/span&gt;)
-neurocog &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;read.csv&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;neurocog.csv&amp;#34;&lt;/span&gt;)
-neurobehav &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;read.csv&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;neurobehav.csv&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 1&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Domain scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# 1. create mean z-scores for domain&lt;/span&gt;
-ncog1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; neurocog &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(domain) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-    zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;2L&lt;/span&gt;)
-ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-ncog1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  ncog1 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-    range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;98&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally High&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;91&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;97&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Above Average&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;75&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;90&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;High Average&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;74&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low Average&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-      zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally Low&amp;#34;&lt;/span&gt;,
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-    )
-  )
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# 2. sort hi to lo&lt;/span&gt;
-ncog1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(ncog1, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# 3. create tibble with new column with domain name lowercase&lt;/span&gt;
-ncog_level1_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-  name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain,
-  y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-  y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-  range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-  drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(name)
-)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 2&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Subdomain scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## function to create second level of drilldown (subdomain scores)&lt;/span&gt;
-ncog_level2_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurocog, neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# same as above&lt;/span&gt;
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-      ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(subdomain) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-        zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-    ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;2L&lt;/span&gt;)
-    ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-      ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-        range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;98&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally High&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;91&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;97&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Above Average&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;75&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;90&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;High Average&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;74&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low Average&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-          zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally Low&amp;#34;&lt;/span&gt;,
-          &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-        )
-      )
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# 2. sort hi to lo&lt;/span&gt;
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(ncog2, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# 3. create tibble with new column with domain name lowercase&lt;/span&gt;
-    ncog_level2_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-      name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain,
-      y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-      y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-      range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-      drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, name, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;))
-    )
-
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(x_level),
-      type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-      data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(ncog_level2_status)
-    )
-  })
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 3&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Narrow subdomains&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## reuse function&lt;/span&gt;
-ncog_level3_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurocog, neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# reuse function but with y_level&lt;/span&gt;
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(y_level) {
-      &lt;span style=&#34;color:#75715e&#34;&gt;# 1. create mean z-scores for subdomain&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# ncog3 becomes pronoun for domain&lt;/span&gt;
-      ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(ncog2, ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; y_level)
-
-      ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(narrow) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z), zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-      &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-      ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;2L&lt;/span&gt;)
-      ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-      ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-        ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-          range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;98&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally High&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;91&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;97&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Above Average&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;75&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;90&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;High Average&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;74&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low Average&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally Low&amp;#34;&lt;/span&gt;,
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-          )
-        )
-
-      ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(ncog3, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-      ncog_level3_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-        name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow,
-        y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-        y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-        range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-        drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, name, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;))
-      )
-
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-        id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;)),
-        type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-        data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(ncog_level3_status)
-      )
-    })
-  }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 4&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Scale scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## reuse both functions&lt;/span&gt;
-ncog_level4_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    ncog2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurocog, neurocog&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(y_level) {
-      ncog3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(ncog2, ncog2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; y_level)
-
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(z_level) {
-        ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(ncog3, ncog3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; z_level)
-
-        ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-          ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(scale) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-        &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-        ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;2L&lt;/span&gt;)
-        ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-        ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-          ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-            range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;98&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally High&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;91&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;97&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Above Average&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;75&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;90&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;High Average&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;74&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;9&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low Average&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-              zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Exceptionally Low&amp;#34;&lt;/span&gt;,
-              &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-            )
-          )
-
-        ncog4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(ncog4, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-        ncog_level4_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-          name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;scale,
-          y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-          y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-          range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ncog4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range
-        )
-
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-          id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, z_level, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;)),
-          type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-          data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(ncog_level4_status)
-        )
-      })
-    }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-  }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;thm_merge &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_merge&lt;/span&gt;(
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_monokai&lt;/span&gt;(),
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_darkunica&lt;/span&gt;()
-)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Tooltip&lt;/span&gt;
-x &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Name&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Score&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Percentile&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Range&amp;#34;&lt;/span&gt;)
-y &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.name}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.y}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.y2}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.range}&amp;#34;&lt;/span&gt;)
-tt &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tooltip_table&lt;/span&gt;(x, y)
-
-&lt;span style=&#34;color:#75715e&#34;&gt;## Create drilldown bar plot zscores&lt;/span&gt;
-plot1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;highchart&lt;/span&gt;() &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_title&lt;/span&gt;(
-    text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; patient,
-    style &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      fontSize &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;15px&amp;#34;&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_add_series&lt;/span&gt;(
-    ncog_level1_status,
-    type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;bar&amp;#34;&lt;/span&gt;,
-    name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Neuropsychological Test Scores&amp;#34;&lt;/span&gt;,
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;hcaes&lt;/span&gt;(x &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; name, y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; y)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_xAxis&lt;/span&gt;(
-    type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;category&amp;#34;&lt;/span&gt;,
-    title &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Domain&amp;#34;&lt;/span&gt;),
-    categories &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; .$name) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_yAxis&lt;/span&gt;(
-    title &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Z-Score (M = 0, SD = 1)&amp;#34;&lt;/span&gt;),
-    labels &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      format &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{value}&amp;#34;&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_tooltip&lt;/span&gt;(
-    pointFormat &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tt,
-    useHTML &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-    valueDecimals &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_plotOptions&lt;/span&gt;(
-    series &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      colorByPoint &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-      allowPointSelect &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-      dataLabels &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_drilldown&lt;/span&gt;(
-    allowPointDrilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-    series &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(
-      ncog_level2_drill,
-      ncog_level3_drill,
-      ncog_level4_drill)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_colorAxis&lt;/span&gt;(
-    minColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;red&amp;#34;&lt;/span&gt;,
-    maxColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blue&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_add_theme&lt;/span&gt;(
-    thm_merge) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_chart&lt;/span&gt;(
-    style &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      fontFamily &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Cabin&amp;#34;&lt;/span&gt;),
-    backgroundColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;gray&amp;#34;&lt;/span&gt;)
-  )
-plot1
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;div class=&#34;highchart html-widget html-fill-item&#34; id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;hc_opts&#34;:{&#34;chart&#34;:{&#34;reflow&#34;:true,&#34;style&#34;:{&#34;fontFamily&#34;:&#34;Cabin&#34;},&#34;backgroundColor&#34;:[&#34;gray&#34;]},&#34;title&#34;:{&#34;text&#34;:&#34;Biggie&#34;,&#34;style&#34;:{&#34;fontSize&#34;:&#34;15px&#34;}},&#34;yAxis&#34;:{&#34;title&#34;:{&#34;text&#34;:&#34;Z-Score (M = 0, SD = 1)&#34;},&#34;labels&#34;:{&#34;format&#34;:&#34;{value}&#34;}},&#34;credits&#34;:{&#34;enabled&#34;:false},&#34;exporting&#34;:{&#34;enabled&#34;:false},&#34;boost&#34;:{&#34;enabled&#34;:false},&#34;plotOptions&#34;:{&#34;series&#34;:{&#34;label&#34;:{&#34;enabled&#34;:false},&#34;turboThreshold&#34;:0,&#34;colorByPoint&#34;:true,&#34;allowPointSelect&#34;:true,&#34;dataLabels&#34;:true},&#34;treemap&#34;:{&#34;layoutAlgorithm&#34;:&#34;squarified&#34;}},&#34;series&#34;:[{&#34;group&#34;:&#34;group&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Verbal/Language&#34;,&#34;y&#34;:1.34,&#34;y2&#34;:85,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;verbal/language&#34;},{&#34;name&#34;:&#34;Intelligence/General Ability&#34;,&#34;y&#34;:0.92,&#34;y2&#34;:74,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability&#34;},{&#34;name&#34;:&#34;Memory&#34;,&#34;y&#34;:0.64,&#34;y2&#34;:72,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;memory&#34;},{&#34;name&#34;:&#34;Visual Perception/Construction&#34;,&#34;y&#34;:0.48,&#34;y2&#34;:66,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction&#34;},{&#34;name&#34;:&#34;Attention/Executive&#34;,&#34;y&#34;:0.29,&#34;y2&#34;:58,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive&#34;}],&#34;type&#34;:&#34;bar&#34;,&#34;name&#34;:&#34;Neuropsychological Test Scores&#34;}],&#34;xAxis&#34;:{&#34;type&#34;:&#34;category&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Domain&#34;},&#34;categories&#34;:null},&#34;tooltip&#34;:{&#34;pointFormat&#34;:&#34;&lt;table&gt;\n  &lt;tr&gt;\n    &lt;th&gt;Name&lt;\/th&gt;\n    &lt;td&gt;{point.name}&lt;\/td&gt;\n  &lt;\/tr&gt;\n  &lt;tr&gt;\n    &lt;th&gt;Score&lt;\/th&gt;\n    &lt;td&gt;{point.y}&lt;\/td&gt;\n  &lt;\/tr&gt;\n  &lt;tr&gt;\n    &lt;th&gt;Percentile&lt;\/th&gt;\n    &lt;td&gt;{point.y2}&lt;\/td&gt;\n  &lt;\/tr&gt;\n  &lt;tr&gt;\n    &lt;th&gt;Range&lt;\/th&gt;\n    &lt;td&gt;{point.range}&lt;\/td&gt;\n  &lt;\/tr&gt;\n&lt;\/table&gt;&#34;,&#34;useHTML&#34;:true,&#34;valueDecimals&#34;:1},&#34;drilldown&#34;:{&#34;allowPointDrilldown&#34;:true,&#34;series&#34;:[{&#34;id&#34;:&#34;memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Memory Index&#34;,&#34;y&#34;:1.13,&#34;y2&#34;:87,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_memory index&#34;},{&#34;name&#34;:&#34;Learning Efficiency&#34;,&#34;y&#34;:0.84,&#34;y2&#34;:79,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_learning efficiency&#34;},{&#34;name&#34;:&#34;Delayed Recall&#34;,&#34;y&#34;:0.48,&#34;y2&#34;:66,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;memory_delayed recall&#34;}]},{&#34;id&#34;:&#34;attention/executive&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Processing Speed&#34;,&#34;y&#34;:1.27,&#34;y2&#34;:81,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_processing speed&#34;},{&#34;name&#34;:&#34;Attention Span&#34;,&#34;y&#34;:0.69,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_attention span&#34;},{&#34;name&#34;:&#34;Response Monitoring&#34;,&#34;y&#34;:0.19,&#34;y2&#34;:57,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_response monitoring&#34;},{&#34;name&#34;:&#34;Orientation&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_orientation&#34;},{&#34;name&#34;:&#34;Working Memory&#34;,&#34;y&#34;:-0.09,&#34;y2&#34;:47,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_working memory&#34;},{&#34;name&#34;:&#34;Attention/Executive&#34;,&#34;y&#34;:-0.15,&#34;y2&#34;:46,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_attention/executive&#34;},{&#34;name&#34;:&#34;Planning&#34;,&#34;y&#34;:-1.53,&#34;y2&#34;:9,&#34;range&#34;:&#34;Low Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_planning&#34;}]},{&#34;id&#34;:&#34;verbal/language&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Acquired Knowledge&#34;,&#34;y&#34;:2.33,&#34;y2&#34;:99,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;verbal/language_acquired knowledge&#34;},{&#34;name&#34;:&#34;Fluency&#34;,&#34;y&#34;:1.43,&#34;y2&#34;:86,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_fluency&#34;},{&#34;name&#34;:&#34;Language Index&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_language index&#34;},{&#34;name&#34;:&#34;Expression&#34;,&#34;y&#34;:0.92,&#34;y2&#34;:82,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_expression&#34;},{&#34;name&#34;:&#34;Comprehension&#34;,&#34;y&#34;:0.41,&#34;y2&#34;:66,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_comprehension&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;General Intelligence&#34;,&#34;y&#34;:2.05,&#34;y2&#34;:98,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_general intelligence&#34;},{&#34;name&#34;:&#34;Crystallized Intelligence&#34;,&#34;y&#34;:1.83,&#34;y2&#34;:95,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_crystallized intelligence&#34;},{&#34;name&#34;:&#34;Neurocognitive Index&#34;,&#34;y&#34;:0.81,&#34;y2&#34;:79,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_neurocognitive index&#34;},{&#34;name&#34;:&#34;Processing Speed&#34;,&#34;y&#34;:0.28,&#34;y2&#34;:61,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_processing speed&#34;},{&#34;name&#34;:&#34;Working Memory&#34;,&#34;y&#34;:-0.13,&#34;y2&#34;:45,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_working memory&#34;},{&#34;name&#34;:&#34;Fluid Intelligence&#34;,&#34;y&#34;:-0.2,&#34;y2&#34;:42,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_fluid intelligence&#34;}]},{&#34;id&#34;:&#34;visual perception/construction&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Planning&#34;,&#34;y&#34;:0.7,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_planning&#34;},{&#34;name&#34;:&#34;Fluid Reasoning&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_fluid reasoning&#34;},{&#34;name&#34;:&#34;Visual Processing&#34;,&#34;y&#34;:0.35,&#34;y2&#34;:58,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_visual processing&#34;},{&#34;name&#34;:&#34;Spatial Index&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_spatial index&#34;}]},{&#34;id&#34;:&#34;memory_learning efficiency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Story Memory&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_learning efficiency_story memory&#34;},{&#34;name&#34;:&#34;Visual Memory&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_learning efficiency_visual memory&#34;},{&#34;name&#34;:&#34;Word-List Learning&#34;,&#34;y&#34;:0.78,&#34;y2&#34;:78,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_learning efficiency_word-list learning&#34;}]},{&#34;id&#34;:&#34;memory_delayed recall&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Story Memory&#34;,&#34;y&#34;:1.34,&#34;y2&#34;:91,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;memory_delayed recall_story memory&#34;},{&#34;name&#34;:&#34;Free-Recall Memory&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_delayed recall_free-recall memory&#34;},{&#34;name&#34;:&#34;Recognition Memory&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;memory_delayed recall_recognition memory&#34;},{&#34;name&#34;:&#34;Visual Memory&#34;,&#34;y&#34;:-0.42,&#34;y2&#34;:35,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;memory_delayed recall_visual memory&#34;}]},{&#34;id&#34;:&#34;memory_memory index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Memory Index&#34;,&#34;y&#34;:1.13,&#34;y2&#34;:87,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;memory_memory index_memory index&#34;}]},{&#34;id&#34;:&#34;attention/executive_response monitoring&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Response Monitoring&#34;,&#34;y&#34;:0.19,&#34;y2&#34;:57,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_response monitoring_response monitoring&#34;}]},{&#34;id&#34;:&#34;attention/executive_planning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Planning&#34;,&#34;y&#34;:-1.53,&#34;y2&#34;:9,&#34;range&#34;:&#34;Low Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_planning_planning&#34;}]},{&#34;id&#34;:&#34;attention/executive_attention/executive&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Attention Index&#34;,&#34;y&#34;:0.61,&#34;y2&#34;:73,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_attention/executive_attention index&#34;},{&#34;name&#34;:&#34;Executive Functions Index&#34;,&#34;y&#34;:-0.92,&#34;y2&#34;:18,&#34;range&#34;:&#34;Low Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_attention/executive_executive functions index&#34;}]},{&#34;id&#34;:&#34;attention/executive_orientation&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;General Verbal Information&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_orientation_general verbal information&#34;}]},{&#34;id&#34;:&#34;attention/executive_attention span&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Verbal Attention&#34;,&#34;y&#34;:0.69,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_attention span_verbal attention&#34;}]},{&#34;id&#34;:&#34;attention/executive_working memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Verbal Working Memory&#34;,&#34;y&#34;:0.11,&#34;y2&#34;:54,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_working memory_verbal working memory&#34;},{&#34;name&#34;:&#34;Nonverbal Working Memory&#34;,&#34;y&#34;:-0.67,&#34;y2&#34;:25,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_working memory_nonverbal working memory&#34;}]},{&#34;id&#34;:&#34;attention/executive_processing speed&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Psychomotor Speed&#34;,&#34;y&#34;:1.6,&#34;y2&#34;:94,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_processing speed_psychomotor speed&#34;},{&#34;name&#34;:&#34;Cognitive Efficiency&#34;,&#34;y&#34;:0.95,&#34;y2&#34;:68,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;attention/executive_processing speed_cognitive efficiency&#34;}]},{&#34;id&#34;:&#34;verbal/language_fluency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Phonemic Fluency&#34;,&#34;y&#34;:2.58,&#34;y2&#34;:100,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;verbal/language_fluency_phonemic fluency&#34;},{&#34;name&#34;:&#34;Semantic Fluency&#34;,&#34;y&#34;:1.1,&#34;y2&#34;:86,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_fluency_semantic fluency&#34;},{&#34;name&#34;:&#34;Ideational Fluency&#34;,&#34;y&#34;:0.61,&#34;y2&#34;:73,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_fluency_ideational fluency&#34;}]},{&#34;id&#34;:&#34;verbal/language_language index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Language Index&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_language index_language index&#34;}]},{&#34;id&#34;:&#34;verbal/language_comprehension&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Listening Ability&#34;,&#34;y&#34;:0.41,&#34;y2&#34;:66,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_comprehension_listening ability&#34;}]},{&#34;id&#34;:&#34;verbal/language_expression&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Word Retrieval&#34;,&#34;y&#34;:0.92,&#34;y2&#34;:82,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;verbal/language_expression_word retrieval&#34;}]},{&#34;id&#34;:&#34;verbal/language_acquired knowledge&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Verbal Reasoning&#34;,&#34;y&#34;:2.33,&#34;y2&#34;:99,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;verbal/language_acquired knowledge_verbal reasoning&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_general intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;General Intelligence&#34;,&#34;y&#34;:2.05,&#34;y2&#34;:98,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_general intelligence_general intelligence&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_crystallized intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Crystallized Intelligence&#34;,&#34;y&#34;:2.33,&#34;y2&#34;:99,&#34;range&#34;:&#34;Exceptionally High&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_crystallized intelligence_crystallized intelligence&#34;},{&#34;name&#34;:&#34;Premorbid Ability&#34;,&#34;y&#34;:1.33,&#34;y2&#34;:91,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_crystallized intelligence_premorbid ability&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_fluid intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Fluid Intelligence&#34;,&#34;y&#34;:-0.2,&#34;y2&#34;:42,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_fluid intelligence_fluid intelligence&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_working memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Working Memory&#34;,&#34;y&#34;:-0.13,&#34;y2&#34;:45,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_working memory_working memory&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_processing speed&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Processing Speed&#34;,&#34;y&#34;:0.28,&#34;y2&#34;:61,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_processing speed_processing speed&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_neurocognitive index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Neurocognitive Index&#34;,&#34;y&#34;:0.81,&#34;y2&#34;:79,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;intelligence/general ability_neurocognitive index_neurocognitive index&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_spatial index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Spatial Index&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_spatial index_spatial index&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_visual processing&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Visuoconstruction&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_visual processing_visuoconstruction&#34;},{&#34;name&#34;:&#34;Visuoperception&#34;,&#34;y&#34;:-0.71,&#34;y2&#34;:24,&#34;range&#34;:&#34;Low Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_visual processing_visuoperception&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_planning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Perceptual Organization&#34;,&#34;y&#34;:0.7,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_planning_perceptual organization&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_fluid reasoning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Inductive Reasoning&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;,&#34;drilldown&#34;:&#34;visual perception/construction_fluid reasoning_inductive reasoning&#34;}]},{&#34;id&#34;:&#34;memory_learning efficiency_word-list learning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Trial 1 Correct&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Trial 4 Correct&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Trials 1-4 Correct&#34;,&#34;y&#34;:0.92,&#34;y2&#34;:82,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Trial 3 Correct&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Trial 2 Correct&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;memory_learning efficiency_visual memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Shape Learning Immediate Recognition&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;memory_learning efficiency_story memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Story Learning Immediate Recall&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;memory_delayed recall_free-recall memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Long Delay Cued Recall&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Long Delay Free Recall&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Short Delay Free Recall&#34;,&#34;y&#34;:0.99,&#34;y2&#34;:84,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;memory_delayed recall_recognition memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Recognition Discriminability (d&#39;)&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Recognition Discriminability Nonparametric&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Total Hits&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Total False Positives&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;memory_delayed recall_visual memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Shape Learning Delayed Recognition&#34;,&#34;y&#34;:0.2,&#34;y2&#34;:58,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Shape Learning Percent Retention&#34;,&#34;y&#34;:-0.67,&#34;y2&#34;:25,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;ROCFT Delayed Recall&#34;,&#34;y&#34;:-0.8,&#34;y2&#34;:21,&#34;range&#34;:&#34;Low Average&#34;}]},{&#34;id&#34;:&#34;memory_delayed recall_story memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Story Learning Delayed Recall&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;},{&#34;name&#34;:&#34;Story Learning Percent Retention&#34;,&#34;y&#34;:1.28,&#34;y2&#34;:90,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;memory_memory index_memory index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Memory Index&#34;,&#34;y&#34;:1.13,&#34;y2&#34;:87,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_response monitoring_response monitoring&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Total Intrusions&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Word Generation Perseverations&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Numbers &amp; Letters Part A Errors&#34;,&#34;y&#34;:-0.1,&#34;y2&#34;:46,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_planning_planning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Unstructured Task&#34;,&#34;y&#34;:-1,&#34;y2&#34;:16,&#34;range&#34;:&#34;Low Average&#34;},{&#34;name&#34;:&#34;Mazes&#34;,&#34;y&#34;:-2.05,&#34;y2&#34;:2,&#34;range&#34;:&#34;Below Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_attention/executive_attention index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Attention Index&#34;,&#34;y&#34;:0.61,&#34;y2&#34;:73,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_attention/executive_executive functions index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Executive Functions Index&#34;,&#34;y&#34;:-0.92,&#34;y2&#34;:18,&#34;range&#34;:&#34;Low Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_orientation_general verbal information&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Orientation&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_attention span_verbal attention&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Digits Forward&#34;,&#34;y&#34;:0.71,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Digits Forward Longest Span&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_working memory_verbal working memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Letter-Number Sequencing&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Digits Backward&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;},{&#34;name&#34;:&#34;Digits Backward Longest Span&#34;,&#34;y&#34;:0,&#34;y2&#34;:50,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_working memory_nonverbal working memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Symbol Span&#34;,&#34;y&#34;:-0.67,&#34;y2&#34;:25,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_processing speed_psychomotor speed&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Numbers &amp; Letters Part A Efficiency&#34;,&#34;y&#34;:1.75,&#34;y2&#34;:96,&#34;range&#34;:&#34;Above Average&#34;},{&#34;name&#34;:&#34;Numbers &amp; Letters Part A Speed&#34;,&#34;y&#34;:1.75,&#34;y2&#34;:96,&#34;range&#34;:&#34;Above Average&#34;},{&#34;name&#34;:&#34;Trails A&#34;,&#34;y&#34;:1.3,&#34;y2&#34;:90,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;attention/executive_processing speed_cognitive efficiency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Coding&#34;,&#34;y&#34;:2.65,&#34;y2&#34;:100,&#34;range&#34;:&#34;Exceptionally High&#34;},{&#34;name&#34;:&#34;Trails B&#34;,&#34;y&#34;:0.8,&#34;y2&#34;:79,&#34;range&#34;:&#34;High Average&#34;},{&#34;name&#34;:&#34;Numbers &amp; Letters Part B Efficiency&#34;,&#34;y&#34;:-0.61,&#34;y2&#34;:27,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_fluency_phonemic fluency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Letter Fluency&#34;,&#34;y&#34;:2.58,&#34;y2&#34;:100,&#34;range&#34;:&#34;Exceptionally High&#34;}]},{&#34;id&#34;:&#34;verbal/language_fluency_semantic fluency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Category Fluency&#34;,&#34;y&#34;:1.1,&#34;y2&#34;:86,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_fluency_ideational fluency&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Word Generation&#34;,&#34;y&#34;:0.61,&#34;y2&#34;:73,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_language index_language index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Language Index&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_comprehension_listening ability&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Auditory Comprehension&#34;,&#34;y&#34;:0.41,&#34;y2&#34;:66,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_expression_word retrieval&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Naming&#34;,&#34;y&#34;:0.92,&#34;y2&#34;:82,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;verbal/language_acquired knowledge_verbal reasoning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Similarities&#34;,&#34;y&#34;:2.33,&#34;y2&#34;:99,&#34;range&#34;:&#34;Exceptionally High&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_general intelligence_general intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;General Intelligence&#34;,&#34;y&#34;:2.05,&#34;y2&#34;:98,&#34;range&#34;:&#34;Exceptionally High&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_crystallized intelligence_crystallized intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Crystallized Knowledge&#34;,&#34;y&#34;:2.33,&#34;y2&#34;:99,&#34;range&#34;:&#34;Exceptionally High&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_crystallized intelligence_premorbid ability&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;TOPF Standard Score&#34;,&#34;y&#34;:1.33,&#34;y2&#34;:91,&#34;range&#34;:&#34;Above Average&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_fluid intelligence_fluid intelligence&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Fluid Reasoning&#34;,&#34;y&#34;:-0.2,&#34;y2&#34;:42,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_working memory_working memory&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Working Memory&#34;,&#34;y&#34;:-0.13,&#34;y2&#34;:45,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_processing speed_processing speed&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Processing Speed&#34;,&#34;y&#34;:0.28,&#34;y2&#34;:61,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;intelligence/general ability_neurocognitive index_neurocognitive index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Total Index&#34;,&#34;y&#34;:0.81,&#34;y2&#34;:79,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_spatial index_spatial index&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;NAB Spatial Index&#34;,&#34;y&#34;:0.33,&#34;y2&#34;:63,&#34;range&#34;:&#34;Average&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_visual processing_visuoperception&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Visual Discrimination&#34;,&#34;y&#34;:-0.71,&#34;y2&#34;:24,&#34;range&#34;:&#34;Low Average&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_visual processing_visuoconstruction&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Design Construction&#34;,&#34;y&#34;:1.41,&#34;y2&#34;:92,&#34;range&#34;:&#34;Above Average&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_planning_perceptual organization&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;ROCFT Copy&#34;,&#34;y&#34;:0.7,&#34;y2&#34;:76,&#34;range&#34;:&#34;High Average&#34;}]},{&#34;id&#34;:&#34;visual perception/construction_fluid reasoning_inductive reasoning&#34;,&#34;type&#34;:&#34;column&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;Matrix Reasoning&#34;,&#34;y&#34;:0.67,&#34;y2&#34;:75,&#34;range&#34;:&#34;High Average&#34;}]}]},&#34;colorAxis&#34;:{&#34;minColor&#34;:&#34;red&#34;,&#34;maxColor&#34;:&#34;blue&#34;}},&#34;theme&#34;:{&#34;colors&#34;:[&#34;#2b908f&#34;,&#34;#90ee7e&#34;,&#34;#f45b5b&#34;,&#34;#7798BF&#34;,&#34;#aaeeee&#34;,&#34;#ff0066&#34;,&#34;#eeaaee&#34;,&#34;#55BF3B&#34;],&#34;chart&#34;:{&#34;backgroundColor&#34;:{&#34;linearGradient&#34;:{&#34;x1&#34;:0,&#34;y1&#34;:0,&#34;x2&#34;:1,&#34;y2&#34;:1},&#34;stops&#34;:[[0,&#34;#2a2a2b&#34;],[1,&#34;#3e3e40&#34;]]},&#34;style&#34;:{&#34;fontFamily&#34;:&#34;Unica One, sans-serif&#34;,&#34;color&#34;:&#34;#A2A39C&#34;},&#34;plotBorderColor&#34;:&#34;#606063&#34;},&#34;title&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#E0E0E3&#34;,&#34;textTransform&#34;:&#34;uppercase&#34;,&#34;fontSize&#34;:&#34;20px&#34;},&#34;align&#34;:&#34;left&#34;},&#34;subtitle&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#E0E0E3&#34;,&#34;textTransform&#34;:&#34;uppercase&#34;},&#34;align&#34;:&#34;left&#34;},&#34;legend&#34;:{&#34;align&#34;:&#34;right&#34;,&#34;verticalAlign&#34;:&#34;bottom&#34;,&#34;itemStyle&#34;:{&#34;fontWeight&#34;:&#34;normal&#34;,&#34;color&#34;:&#34;#E0E0E3&#34;},&#34;itemHoverStyle&#34;:{&#34;color&#34;:&#34;#FFF&#34;},&#34;itemHiddenStyle&#34;:{&#34;color&#34;:&#34;#606063&#34;}},&#34;xAxis&#34;:{&#34;gridLineDashStyle&#34;:&#34;Dot&#34;,&#34;gridLineWidth&#34;:1,&#34;gridLineColor&#34;:&#34;#707073&#34;,&#34;lineColor&#34;:&#34;#707073&#34;,&#34;minorGridLineColor&#34;:&#34;#505053&#34;,&#34;tickColor&#34;:&#34;#707073&#34;,&#34;tickWidth&#34;:1,&#34;labels&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#E0E0E3&#34;}},&#34;title&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#A0A0A3&#34;}}},&#34;yAxis&#34;:{&#34;gridLineDashStyle&#34;:&#34;Dot&#34;,&#34;gridLineColor&#34;:&#34;#707073&#34;,&#34;lineColor&#34;:&#34;#707073&#34;,&#34;minorGridLineColor&#34;:&#34;#505053&#34;,&#34;tickColor&#34;:&#34;#707073&#34;,&#34;tickWidth&#34;:1,&#34;labels&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#E0E0E3&#34;}},&#34;title&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#A0A0A3&#34;}}},&#34;tooltip&#34;:{&#34;backgroundColor&#34;:&#34;rgba(0, 0, 0, 0.85)&#34;,&#34;style&#34;:{&#34;color&#34;:&#34;#F0F0F0&#34;}},&#34;plotOptions&#34;:{&#34;series&#34;:{&#34;dataLabels&#34;:{&#34;color&#34;:&#34;#B0B0B3&#34;},&#34;marker&#34;:{&#34;lineColor&#34;:&#34;#333&#34;}},&#34;boxplot&#34;:{&#34;fillColor&#34;:&#34;#505053&#34;},&#34;candlestick&#34;:{&#34;lineColor&#34;:&#34;white&#34;},&#34;errorbar&#34;:{&#34;color&#34;:&#34;white&#34;}},&#34;credits&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#666&#34;}},&#34;labels&#34;:{&#34;style&#34;:{&#34;color&#34;:&#34;#707073&#34;}},&#34;drilldown&#34;:{&#34;activeAxisLabelStyle&#34;:{&#34;color&#34;:&#34;#F0F0F3&#34;},&#34;activeDataLabelStyle&#34;:{&#34;color&#34;:&#34;#F0F0F3&#34;}},&#34;navigation&#34;:{&#34;buttonOptions&#34;:{&#34;symbolStroke&#34;:&#34;#DDDDDD&#34;,&#34;theme&#34;:{&#34;fill&#34;:&#34;#505053&#34;}}},&#34;rangeSelector&#34;:{&#34;buttonTheme&#34;:{&#34;fill&#34;:&#34;#505053&#34;,&#34;stroke&#34;:&#34;#000000&#34;,&#34;style&#34;:{&#34;color&#34;:&#34;#CCC&#34;},&#34;states&#34;:{&#34;hover&#34;:{&#34;fill&#34;:&#34;#707073&#34;,&#34;stroke&#34;:&#34;#000000&#34;,&#34;style&#34;:{&#34;color&#34;:&#34;white&#34;}},&#34;select&#34;:{&#34;fill&#34;:&#34;#000003&#34;,&#34;stroke&#34;:&#34;#000000&#34;,&#34;style&#34;:{&#34;color&#34;:&#34;white&#34;}}}},&#34;inputBoxBorderColor&#34;:&#34;#505053&#34;,&#34;inputStyle&#34;:{&#34;backgroundColor&#34;:&#34;#333&#34;,&#34;color&#34;:&#34;silver&#34;},&#34;labelStyle&#34;:{&#34;color&#34;:&#34;silver&#34;}},&#34;navigator&#34;:{&#34;handles&#34;:{&#34;backgroundColor&#34;:&#34;#666&#34;,&#34;borderColor&#34;:&#34;#AAA&#34;},&#34;outlineColor&#34;:&#34;#CCC&#34;,&#34;maskFill&#34;:&#34;rgba(255,255,255,0.1)&#34;,&#34;series&#34;:{&#34;color&#34;:&#34;#7798BF&#34;,&#34;lineColor&#34;:&#34;#A6C7ED&#34;},&#34;xAxis&#34;:{&#34;gridLineColor&#34;:&#34;#505053&#34;}},&#34;scrollbar&#34;:{&#34;barBackgroundColor&#34;:&#34;#808083&#34;,&#34;barBorderColor&#34;:&#34;#808083&#34;,&#34;buttonArrowColor&#34;:&#34;#CCC&#34;,&#34;buttonBackgroundColor&#34;:&#34;#606063&#34;,&#34;buttonBorderColor&#34;:&#34;#606063&#34;,&#34;rifleColor&#34;:&#34;#FFF&#34;,&#34;trackBackgroundColor&#34;:&#34;#404043&#34;,&#34;trackBorderColor&#34;:&#34;#404043&#34;},&#34;legendBackgroundColor&#34;:&#34;rgba(0, 0, 0, 0.5)&#34;,&#34;background2&#34;:&#34;#505053&#34;,&#34;dataLabelsColor&#34;:&#34;#B0B0B3&#34;,&#34;textColor&#34;:&#34;#C0C0C0&#34;,&#34;contrastTextColor&#34;:&#34;#F0F0F3&#34;,&#34;maskColor&#34;:&#34;rgba(255,255,255,0.3)&#34;},&#34;conf_opts&#34;:{&#34;global&#34;:{&#34;Date&#34;:null,&#34;VMLRadialGradientURL&#34;:&#34;http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png&#34;,&#34;canvasToolsURL&#34;:&#34;http =//code.highcharts.com/list(version)/modules/canvas-tools.js&#34;,&#34;getTimezoneOffset&#34;:null,&#34;timezoneOffset&#34;:0,&#34;useUTC&#34;:true},&#34;lang&#34;:{&#34;contextButtonTitle&#34;:&#34;Chart context menu&#34;,&#34;decimalPoint&#34;:&#34;.&#34;,&#34;downloadCSV&#34;:&#34;Download CSV&#34;,&#34;downloadJPEG&#34;:&#34;Download JPEG image&#34;,&#34;downloadPDF&#34;:&#34;Download PDF document&#34;,&#34;downloadPNG&#34;:&#34;Download PNG image&#34;,&#34;downloadSVG&#34;:&#34;Download SVG vector image&#34;,&#34;downloadXLS&#34;:&#34;Download XLS&#34;,&#34;drillUpText&#34;:&#34;◁ Back to {series.name}&#34;,&#34;exitFullscreen&#34;:&#34;Exit from full screen&#34;,&#34;exportData&#34;:{&#34;annotationHeader&#34;:&#34;Annotations&#34;,&#34;categoryDatetimeHeader&#34;:&#34;DateTime&#34;,&#34;categoryHeader&#34;:&#34;Category&#34;},&#34;hideData&#34;:&#34;Hide data table&#34;,&#34;invalidDate&#34;:null,&#34;loading&#34;:&#34;Loading...&#34;,&#34;months&#34;:[&#34;January&#34;,&#34;February&#34;,&#34;March&#34;,&#34;April&#34;,&#34;May&#34;,&#34;June&#34;,&#34;July&#34;,&#34;August&#34;,&#34;September&#34;,&#34;October&#34;,&#34;November&#34;,&#34;December&#34;],&#34;noData&#34;:&#34;No data to display&#34;,&#34;numericSymbolMagnitude&#34;:1000,&#34;numericSymbols&#34;:[&#34;k&#34;,&#34;M&#34;,&#34;G&#34;,&#34;T&#34;,&#34;P&#34;,&#34;E&#34;],&#34;printChart&#34;:&#34;Print chart&#34;,&#34;resetZoom&#34;:&#34;Reset zoom&#34;,&#34;resetZoomTitle&#34;:&#34;Reset zoom level 1:1&#34;,&#34;shortMonths&#34;:[&#34;Jan&#34;,&#34;Feb&#34;,&#34;Mar&#34;,&#34;Apr&#34;,&#34;May&#34;,&#34;Jun&#34;,&#34;Jul&#34;,&#34;Aug&#34;,&#34;Sep&#34;,&#34;Oct&#34;,&#34;Nov&#34;,&#34;Dec&#34;],&#34;shortWeekdays&#34;:[&#34;Sat&#34;,&#34;Sun&#34;,&#34;Mon&#34;,&#34;Tue&#34;,&#34;Wed&#34;,&#34;Thu&#34;,&#34;Fri&#34;],&#34;thousandsSep&#34;:&#34; &#34;,&#34;viewData&#34;:&#34;View data table&#34;,&#34;viewFullscreen&#34;:&#34;View in full screen&#34;,&#34;weekdays&#34;:[&#34;Sunday&#34;,&#34;Monday&#34;,&#34;Tuesday&#34;,&#34;Wednesday&#34;,&#34;Thursday&#34;,&#34;Friday&#34;,&#34;Saturday&#34;]}},&#34;type&#34;:&#34;chart&#34;,&#34;fonts&#34;:[&#34;Unica+One&#34;,&#34;Cabin&#34;],&#34;debug&#34;:false},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 3: HighchartR Drilldown
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;behavioral-ratings-results&#34;&gt;Behavioral Ratings Results&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 1&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Domain scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# 1. create mean z-scores for domain&lt;/span&gt;
-nbhv1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; neurobehav &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(domain) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-    zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-nbhv1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  nbhv1 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-    range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= -1.1 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:0.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -2:-2.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -3:-3.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -4 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 4 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 3:3.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 2:2.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:1.9 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -1.1 &amp;amp;&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;#   domain != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-      zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Markedly Elevated&amp;#34;&lt;/span&gt;,
-      zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Significantly Elevated&amp;#34;&lt;/span&gt;,
-      zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Mildly Elevated&amp;#34;&lt;/span&gt;,
-      zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-      zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zPct &amp;gt; 99 ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zPct %in% 98:99 ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zPct %in% 84:97 ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zPct %in% 16:83 ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# zPct &amp;lt;= 82 ~ &amp;#34;Below Average&amp;#34;,&lt;/span&gt;
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-    )
-  )
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# 2. sort hi to lo&lt;/span&gt;
-nbhv1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(nbhv1, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# 3. create tibble with new column with domain name lowercase&lt;/span&gt;
-nbhv_level1_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-  name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain,
-  y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-  y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-  range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv1&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-  drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(name)
-)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 2&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Subdomain scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## function to create second level of drilldown (subdomain scores)&lt;/span&gt;
-nbhv_level2_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurobehav, neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# same as above&lt;/span&gt;
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-      nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(subdomain) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-        zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-    nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-    nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-      nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-      tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-        range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 1 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:0.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -2:-2.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -3:-3.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -4 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 4 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 3:3.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 2:2.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:1.9 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -1.1 &amp;amp;&lt;/span&gt;
-          &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-          zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Markedly Elevated&amp;#34;&lt;/span&gt;,
-          zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Significantly Elevated&amp;#34;&lt;/span&gt;,
-          zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Mildly Elevated&amp;#34;&lt;/span&gt;,
-          zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-          zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-          &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-        )
-      )
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# 2. sort hi to lo&lt;/span&gt;
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(nbhv2, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# 3. create tibble with new column with domain name lowercase&lt;/span&gt;
-    nbhv_level2_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-      name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain,
-      y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-      y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-      range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-      drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, name, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;))
-    )
-
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(x_level),
-      type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-      data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(nbhv_level2_status)
-    )
-  })
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 3&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Narrow subdomains&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## reuse function&lt;/span&gt;
-nbhv_level3_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurobehav, neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#75715e&#34;&gt;# reuse function but with y_level&lt;/span&gt;
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(y_level) {
-      &lt;span style=&#34;color:#75715e&#34;&gt;# 1. create mean z-scores for subdomain&lt;/span&gt;
-      &lt;span style=&#34;color:#75715e&#34;&gt;# nbhv3 becomes pronoun for domain&lt;/span&gt;
-      nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(nbhv2, nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; y_level)
-
-      nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(narrow) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z), zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-      &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-      nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-      nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-      nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-        nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-        tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-          range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 1 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:0.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -2:-2.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -3:-3.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -4 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 4 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 3:3.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 2:2.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:1.9 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -1.1 &amp;amp;&lt;/span&gt;
-            &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-            zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Markedly Elevated&amp;#34;&lt;/span&gt;,
-            zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Significantly Elevated&amp;#34;&lt;/span&gt;,
-            zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Mildly Elevated&amp;#34;&lt;/span&gt;,
-            zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-            zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-            &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-          )
-        )
-
-      nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(nbhv3, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-      nbhv_level3_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-        name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow,
-        y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-        y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-        range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range,
-        drilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, name, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;))
-      )
-
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-        id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;)),
-        type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-        data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(nbhv_level3_status)
-      )
-    })
-  }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Level 4&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## Scale scores&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;## reuse both functions&lt;/span&gt;
-nbhv_level4_drill &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x_level) {
-    nbhv2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(neurobehav, neurobehav&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;domain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; x_level)
-
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(y_level) {
-      nbhv3 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(nbhv2, nbhv2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;subdomain &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; y_level)
-
-      &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;unique&lt;/span&gt;(nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow), &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(z_level) {
-        nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;subset&lt;/span&gt;(nbhv3, nbhv3&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;narrow &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; z_level)
-
-        nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-          nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;group_by&lt;/span&gt;(scale) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;summarize&lt;/span&gt;(zMean &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(z),
-            zPct &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(percentile)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          &lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;NA&lt;/span&gt;)
-
-        &lt;span style=&#34;color:#75715e&#34;&gt;# round z-score to 1 decimal&lt;/span&gt;
-        nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-        nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct, &lt;span style=&#34;color:#ae81ff&#34;&gt;0L&lt;/span&gt;)
-        nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-          nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-          tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;mutate&lt;/span&gt;(
-            range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tidytable&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;case_when&lt;/span&gt;(
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 1 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:0.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -2:-2.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -3:-3.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -4 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name %in% c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;gt;= 4 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Markedly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 3:3.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Significantly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% 2:2.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Mildly Elevated&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean %in% -1:1.9 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;WNL&amp;#34;,&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;# zMean &amp;lt;= -1.1 &amp;amp;&lt;/span&gt;
-              &lt;span style=&#34;color:#75715e&#34;&gt;#   name != c(&amp;#34;Adaptive Skills&amp;#34;, &amp;#34;Personal Adjustment&amp;#34;) ~ &amp;#34;Strength&amp;#34;,&lt;/span&gt;
-              zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Markedly Elevated&amp;#34;&lt;/span&gt;,
-              zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Significantly Elevated&amp;#34;&lt;/span&gt;,
-              zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Mildly Elevated&amp;#34;&lt;/span&gt;,
-              zMean &lt;span style=&#34;color:#f92672&#34;&gt;%in%&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0.9&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Average&amp;#34;&lt;/span&gt;,
-              zMean &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;-1.1&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Below Average&amp;#34;&lt;/span&gt;,
-              &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;~&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;as.character&lt;/span&gt;(range)
-            )
-          )
-
-        nbhv4 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;arrange&lt;/span&gt;(nbhv4, &lt;span style=&#34;color:#a6e22e&#34;&gt;desc&lt;/span&gt;(zMean))
-
-        nbhv_level4_status &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tibble&lt;/span&gt;(
-          name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;scale,
-          y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zMean,
-          y2 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;zPct,
-          range &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; nbhv4&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;range
-        )
-
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-          id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tolower&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;paste&lt;/span&gt;(x_level, y_level, z_level, sep &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;_&amp;#34;&lt;/span&gt;)),
-          type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;column&amp;#34;&lt;/span&gt;,
-          data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list_parse&lt;/span&gt;(nbhv_level4_status)
-        )
-      })
-    }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-  }) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(recursive &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;FALSE&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;thm_merge &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_merge&lt;/span&gt;(
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_monokai&lt;/span&gt;(),
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_theme_darkunica&lt;/span&gt;()
-)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Tooltip&lt;/span&gt;
-x &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Name&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Score&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Percentile&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Range&amp;#34;&lt;/span&gt;)
-y &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.name}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.y}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.y2}&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{point.range}&amp;#34;&lt;/span&gt;)
-tt &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;tooltip_table&lt;/span&gt;(x, y)
-
-&lt;span style=&#34;color:#75715e&#34;&gt;## Create drilldown bar plot zscores&lt;/span&gt;
-plot2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;highchart&lt;/span&gt;() &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_title&lt;/span&gt;(
-    text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; patient,
-    style &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      fontSize &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;15px&amp;#34;&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_add_series&lt;/span&gt;(
-    nbhv_level1_status,
-    type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;bar&amp;#34;&lt;/span&gt;,
-    name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Behavioral Rating Scales&amp;#34;&lt;/span&gt;,
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;hcaes&lt;/span&gt;(x &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; name, y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; y)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_xAxis&lt;/span&gt;(
-    type &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;category&amp;#34;&lt;/span&gt;,
-    title &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Domain&amp;#34;&lt;/span&gt;),
-    categories &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; .$name) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_yAxis&lt;/span&gt;(
-    title &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      text &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Z-Score (M = 0, SD = 1)&amp;#34;&lt;/span&gt;),
-    labels &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      format &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{value}&amp;#34;&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_tooltip&lt;/span&gt;(
-    pointFormat &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; tt,
-    useHTML &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-    valueDecimals &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_plotOptions&lt;/span&gt;(
-    series &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      colorByPoint &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-      allowPointSelect &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-      dataLabels &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_drilldown&lt;/span&gt;(
-    allowPointDrilldown &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;TRUE&lt;/span&gt;,
-    series &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(
-      nbhv_level2_drill,
-      nbhv_level3_drill,
-      nbhv_level4_drill)) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_colorAxis&lt;/span&gt;(
-    minColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;red&amp;#34;&lt;/span&gt;,
-    maxColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blue&amp;#34;&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_add_theme&lt;/span&gt;(
-    thm_merge) &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
-  &lt;span style=&#34;color:#a6e22e&#34;&gt;hc_chart&lt;/span&gt;(
-    style &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(
-      fontFamily &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Cabin&amp;#34;&lt;/span&gt;),
-    backgroundColor &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;gray&amp;#34;&lt;/span&gt;)
-  )
-&lt;span style=&#34;color:#a6e22e&#34;&gt;frameWidget&lt;/span&gt;(plot2)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_drilldown2-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 4: HighchartR Drilldown
-&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello, Quarto</title>
       <link>https://brainworkup.org/2022/11/21/hello-quarto/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
@@ -693,20 +19,154 @@ Figure 4: HighchartR Drilldown
       <guid>https://brainworkup.org/2022/11/21/hello-quarto/</guid>
       <description>&lt;h2 id=&#34;polar-axis&#34;&gt;Polar Axis&lt;/h2&gt;
 &lt;p&gt;For a demonstration of a line plot on a polar axis, see @fig-polar.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; np
-&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; plt
-
-r &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;arange(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0.01&lt;/span&gt;)
-theta &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r
-fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots(subplot_kw&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;projection&amp;#39;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;polar&amp;#39;&lt;/span&gt;})
-ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(theta, r)
-ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;set_rticks([&lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;])
-ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;grid(True)
-plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;figure&gt;
+&lt;details&gt;
+&lt;summary&gt;Code&lt;/summary&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; np
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; plt
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;r &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;arange(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0.01&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;theta &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots(subplot_kw&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;projection&amp;#39;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;polar&amp;#39;&lt;/span&gt;})
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(theta, r)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;set_rticks([&lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;grid(&lt;span style=&#34;color:#66d9ef&#34;&gt;True&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;figure&gt;
 &lt;img src=&#34;index_files/figure-markdown_strict/fig-polar-output-1.png&#34; id=&#34;fig-polar&#34; width=&#34;450&#34; height=&#34;439&#34; alt=&#34;Figure 1: A line plot on a polar axis&#34; /&gt;
 &lt;figcaption aria-hidden=&#34;true&#34;&gt;Figure 1: A line plot on a polar axis&lt;/figcaption&gt;
 &lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuropsychological Evaluation Results/Feedback</title>
+      <link>https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/</guid>
+      <description>
+&lt;script src=&#34;https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#distribution-of-scores-population-level-interpretation&#34; id=&#34;toc-distribution-of-scores-population-level-interpretation&#34;&gt;Distribution of Scores: &lt;em&gt;Population-level Interpretation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#distribution-of-scores-clinical-level-interpretation&#34; id=&#34;toc-distribution-of-scores-clinical-level-interpretation&#34;&gt;Distribution of Scores: &lt;em&gt;Clinical-level Interpretation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#neuropsychological-testing-results&#34; id=&#34;toc-neuropsychological-testing-results&#34;&gt;Neuropsychological Testing Results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#behavioral-ratings-results&#34; id=&#34;toc-behavioral-ratings-results&#34;&gt;Behavioral Ratings Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## load libraries
+library(bwu)
+library(crosstalk)
+library(gifski)
+library(highcharter)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Registered S3 method overwritten by &amp;#39;quantmod&amp;#39;:
+##   method            from
+##   as.zoo.data.frame zoo&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## Highcharts (www.highcharts.com) is a Highsoft software product which is&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## not free for commercial and Governmental use&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(htmlwidgets)
+library(knitr)
+library(languageserver)
+library(manipulateWidget)
+library(reactable)
+library(revealjs)
+library(rmarkdown)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## 
+## Attaching package: &amp;#39;rmarkdown&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following object is masked from &amp;#39;package:languageserver&amp;#39;:
+## 
+##     run&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## The following object is masked from &amp;#39;package:bwu&amp;#39;:
+## 
+##     tufte_handout&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(svglite)
+library(tibble)
+library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ── Attaching packages
+## ────────────────────────────────── tidyverse
+## 1.3.2.9000 ──&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
+## ✔ tidyr     1.2.1.9001        ✔ stringr   1.4.1.9000   
+## ✔ readr     2.1.3.9000        ✔ forcats   0.5.2.9000   
+## ✔ purrr     0.9000.0.9000     ✔ lubridate 1.9.0.9000   
+## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(vroom)
+library(widgetframe)
+library(xaringan)
+library(xaringanExtra)
+library(xaringanthemer)
+## knitr options
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.path = &amp;quot;figs/&amp;quot;,
+  # fig.width = 12,
+  # fig.height = 4,
+  # fig.asp = .5,
+  fig.retina = 3,
+  out.width = &amp;quot;100%&amp;quot;,
+  fig.showtext = TRUE,
+  comment = NULL,
+  cache = FALSE,
+  cache.path = &amp;quot;cache/&amp;quot;,
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  dev = c(&amp;quot;svg&amp;quot;, &amp;quot;svglite&amp;quot;),
+  hiline = TRUE
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;name: gauss1 class: middle center background-size: contain&lt;/p&gt;
+&lt;div id=&#34;distribution-of-scores-population-level-interpretation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Distribution of Scores: &lt;em&gt;Population-level Interpretation&lt;/em&gt;&lt;/h3&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:gauss-plot1&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;plot_narrow.png&#34; alt=&#34;Statistical classification of neuropsychological test scores in the general population.&#34; width=&#34;50%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Statistical classification of neuropsychological test scores in the general population.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;name: gauss2 class: middle center background-size: contain&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;distribution-of-scores-clinical-level-interpretation&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Distribution of Scores: &lt;em&gt;Clinical-level Interpretation&lt;/em&gt;&lt;/h3&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:gauss-plot2&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;plot_broad.png&#34; alt=&#34;General clinical interpretation of performance for individual test scores and broader neuropsychological domains&#34; width=&#34;50%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: General clinical interpretation of performance for individual test scores and broader neuropsychological domains
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: center, middle background-color: var(–near-black)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;neuropsychological-testing-results&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Neuropsychological Testing Results&lt;/h3&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown-plot&#34;&gt;&lt;/span&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 3: HighchartR Drilldown
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;class: middle, center background-color: var(–near-black)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;behavioral-ratings-results&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Behavioral Ratings Results&lt;/h3&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:drilldown2-plot&#34;&gt;&lt;/span&gt;
+&lt;div id=&#34;htmlwidget-2&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-2&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;figs//widgets/widget_drilldown2-plot.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 4: HighchartR Drilldown
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     

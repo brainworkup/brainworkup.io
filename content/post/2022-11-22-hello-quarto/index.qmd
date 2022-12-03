@@ -1,11 +1,15 @@
 ---
-title: Hello, Quarto
-date: "2022-11-21"
+title: "Hello, Quarto"
+description: "Novel Scalable Mental Health Screening Procedures on Ubiquitous Sensing Devices"
+author: "Joey Trampush"
+date: today
 categories: 
   - Matplotlib
   - Coordinates
 format: hugo-md
 jupyter: python3
+image: google.webp
+draft: false
 ---
 
 ## Polar Axis

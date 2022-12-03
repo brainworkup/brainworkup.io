@@ -1,16 +1,16 @@
 ---
 title: "Neuropsychological Evaluation Results/Feedback"
 patient: "Biggie"
-author: "Joey Trampush, PhD"
+author: "Joey Trampush"
 institute: "Department of Psychiatry and the Behavioral Sciences"
-date: "May 1, 2018"
+date: "2022-11-21"
 output:
   xaringan::moon_reader:
     css: ["css/npsych-fonts.css", "css/npsych-theme.css"]
     lib_dir: libs
     self_contained: true
     anchor_sections: false
-    seal: false
+    seal: false    
     nature:
       highlightStyle: monokai
       highlightLines: true
@@ -32,9 +32,6 @@ patient <- rmarkdown::metadata$patient
 ```
 
 ```{r}
-#| warning: false
-#| message: false
-#| echo: false
 ## load libraries
 library(bwu)
 library(crosstalk)
@@ -59,9 +56,9 @@ library(xaringanthemer)
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
   fig.path = "figs/",
-  fig.width = 12,
-  fig.height = 4,
-  fig.asp = .5,
+  # fig.width = 12,
+  # fig.height = 4,
+  # fig.asp = .5,
   fig.retina = 3,
   out.width = "100%",
   fig.showtext = TRUE,
@@ -76,78 +73,39 @@ knitr::opts_chunk$set(
 )
 ```
 
-```{r xaringan-extra, include=F}
-xaringanExtra::use_animate_css(minified = FALSE, xaringan = TRUE)
-xaringanExtra::use_tachyons()
-xaringanExtra::use_tile_view()
-xaringanExtra::use_broadcast()
-xaringanExtra::use_scribble()
-xaringanExtra::use_panelset()
-xaringanExtra::use_webcam()
-xaringanExtra::style_panelset_tabs(font_family = "inherit")
-xaringanExtra::use_freezeframe()
-xaringanExtra::use_fit_screen()
-xaringanExtra::use_extra_styles(
-  hover_code_line = TRUE, #<<
-  mute_unhighlighted_code = TRUE #<<
-)
-```
+------------------------------------------------------------------------
 
-name: title
-class: title-slide, center, middle
-background-image: url(usc_ksom_logo.jpg)
-background-position: bottom
-background-repeat: no-repeat
-background-size: 25%
-background-color: var(--usc-black)
+name: gauss1 class: middle center background-size: contain
 
-
-# `r rmarkdown::metadata$title`
-## `r rmarkdown::metadata$patient`
-### `r rmarkdown::metadata$author`
-### `r rmarkdown::metadata$institute`
-### `r rmarkdown::metadata$date`
-
-
----
-
-name: gauss1
-class: middle center
-background-size: contain
-
-### Distribution of Scores: _Population-level Interpretation_
+### Distribution of Scores: *Population-level Interpretation*
 
 ```{r gauss-plot1, fig.cap='Statistical classification of neuropsychological test scores in the general population.', fig.retina=3, fig.asp=0.5, out.width = '50%'}
 knitr::include_graphics("plot_narrow.png", auto_pdf = TRUE)
 ```
 
----
+------------------------------------------------------------------------
 
-name: gauss2
-class: middle center
-background-size: contain
+name: gauss2 class: middle center background-size: contain
 
-### Distribution of Scores: _Clinical-level Interpretation_
-
+### Distribution of Scores: *Clinical-level Interpretation*
 
 ```{r gauss-plot2, fig.cap='General clinical interpretation of performance for individual test scores and broader neuropsychological domains', fig.retina=3, fig.asp=0.5, out.width='50%'}
 knitr::include_graphics("plot_broad.png", auto_pdf = TRUE)
 ```
 
----
+------------------------------------------------------------------------
 
-class: center, middle
-background-color: var(--near-black)
+class: center, middle background-color: var(--near-black)
 
 ### Neuropsychological Testing Results
 
 ```{r, read-data}
 neuropsych <-
-  vroom::vroom(here::here(patient, "neuropsych.csv"), show_col_types = FALSE)
+  vroom::vroom(here::here("static", "data", "neuropsych.csv"), show_col_types = FALSE)
 neurocog <-
-  vroom::vroom(here::here(patient, "neurocog.csv"), show_col_types = FALSE)
+  vroom::vroom(here::here("static", "data", "neurocog.csv"), show_col_types = FALSE)
 neurobehav <-
-  vroom::vroom(here::here(patient, "neurobehav.csv"), show_col_types = FALSE)
+  vroom::vroom(here::here("static", "data", "neurobehav.csv"), show_col_types = FALSE)
 ```
 
 ```{r drilldown-level1}
@@ -364,7 +322,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown-plot, fig.cap='HighchartR Drilldown', fig.width=12, fig.height=8, fig.retina=3, out.width = "100%"}
+```{r drilldown-plot, fig.cap='HighchartR Drilldown', fig.retina=3, out.width = "100%"}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -417,13 +375,12 @@ plot1 <-
       fontFamily = "Cabin"),
     backgroundColor = list("gray")
   )
-plot1
+frameWidget(plot1)
 ```
 
----
+------------------------------------------------------------------------
 
-class: middle, center 
-background-color: var(--near-black)
+class: middle, center background-color: var(--near-black)
 
 ### Behavioral Ratings Results
 
@@ -718,7 +675,7 @@ thm_merge <- hc_theme_merge(
 )
 ```
 
-```{r drilldown2-plot, fig.cap='HighchartR Drilldown', fig.width=12, fig.height=8, fig.retina=3, out.width = "100%"}
+```{r drilldown2-plot, fig.cap='HighchartR Drilldown', fig.retina=3, out.width = "100%"}
 # Tooltip
 x <- c("Name", "Score", "Percentile", "Range")
 y <- c("{point.name}", "{point.y}", "{point.y2}", "{point.range}")
@@ -771,5 +728,5 @@ plot2 <-
       fontFamily = "Cabin"),
     backgroundColor = list("gray")
   )
-plot2
+frameWidget(plot2)
 ```
