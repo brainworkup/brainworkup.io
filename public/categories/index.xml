@@ -22,24 +22,6 @@
     </item>
     
     <item>
-      <title>Coordinates</title>
-      <link>https://brainworkup.org/categories/coordinates/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/categories/coordinates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matplotlib</title>
-      <link>https://brainworkup.org/categories/matplotlib/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/categories/matplotlib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dataverse</title>
       <link>https://brainworkup.org/categories/dataverse/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
@@ -63,6 +45,60 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>https://brainworkup.org/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bayesian statistics</title>
+      <link>https://brainworkup.org/categories/bayesian-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinates</title>
+      <link>https://brainworkup.org/categories/coordinates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/coordinates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal article</title>
+      <link>https://brainworkup.org/categories/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>https://brainworkup.org/categories/matplotlib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nonverbal behavior</title>
+      <link>https://brainworkup.org/categories/nonverbal-behavior/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/nonverbal-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>substantive</title>
+      <link>https://brainworkup.org/categories/substantive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/categories/substantive/</guid>
       <description></description>
     </item>
     

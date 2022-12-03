@@ -12,34 +12,6 @@
     
     
     <item>
-      <title>Hello, Quarto</title>
-      <link>https://brainworkup.org/2022/11/21/hello-quarto/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://brainworkup.org/2022/11/21/hello-quarto/</guid>
-      <description>&lt;h2 id=&#34;polar-axis&#34;&gt;Polar Axis&lt;/h2&gt;
-&lt;p&gt;For a demonstration of a line plot on a polar axis, see @fig-polar.&lt;/p&gt;
-&lt;details&gt;
-&lt;summary&gt;Code&lt;/summary&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; np
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; plt
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;r &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;arange(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0.01&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;theta &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots(subplot_kw&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;projection&amp;#39;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;polar&amp;#39;&lt;/span&gt;})
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(theta, r)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;set_rticks([&lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;])
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;grid(&lt;span style=&#34;color:#66d9ef&#34;&gt;True&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
-&lt;figure&gt;
-&lt;img src=&#34;index_files/figure-markdown_strict/fig-polar-output-1.png&#34; id=&#34;fig-polar&#34; width=&#34;450&#34; height=&#34;439&#34; alt=&#34;Figure 1: A line plot on a polar axis&#34; /&gt;
-&lt;figcaption aria-hidden=&#34;true&#34;&gt;Figure 1: A line plot on a polar axis&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Neuropsychological Evaluation Results/Feedback</title>
       <link>https://brainworkup.org/2022/11/21/neuropsychological-evaluation-results/feedback/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
@@ -91,7 +63,7 @@ library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
 ## ────────────────────────────────── tidyverse
 ## 1.3.2.9000 ──&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## ✔ ggplot2   3.4.0.9000        ✔ dplyr     1.0.99.9000  
-## ✔ tidyr     1.2.1.9001        ✔ stringr   1.4.1.9000   
+## ✔ tidyr     1.2.1.9001        ✔ stringr   1.5.0        
 ## ✔ readr     2.1.3.9000        ✔ forcats   0.5.2.9000   
 ## ✔ purrr     0.9000.0.9000     ✔ lubridate 1.9.0.9000   
 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
@@ -183,6 +155,12 @@ Figure 4: HighchartR Drilldown
 &lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://brainworkup.org/2021/08/26/xaringan-drilldown/index_files/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#distribution-of-scores-population-level-interpretation&#34; id=&#34;toc-distribution-of-scores-population-level-interpretation&#34;&gt;Distribution of Scores: Population-level Interpretation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#neuropsych-drilldown-z-scores-m-0-sd-1&#34; id=&#34;toc-neuropsych-drilldown-z-scores-m-0-sd-1&#34;&gt;Neuropsych Drilldown: z-Scores (M = 0, SD = 1)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;div id=&#34;distribution-of-scores-population-level-interpretation&#34; class=&#34;section level1&#34;&gt;
@@ -217,6 +195,12 @@ Figure 1: Statistical classification of neuropsychological test scores in the ge
 &lt;script src=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/strftime/strftime-min.js&#34;&gt;&lt;/script&gt;
 &lt;link href=&#34;https://brainworkup.org/2021/06/27/shiny-document/index_files/ionrangeslider-css/css/ion.rangeSlider.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#section-inputs-and-outputs&#34; id=&#34;section-toc-inputs-and-outputs&#34;&gt;Inputs and Outputs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#section-embedded-application&#34; id=&#34;section-toc-embedded-application&#34;&gt;Embedded Application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;p&gt;This R Markdown document is made interactive using Shiny.
 Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately.&lt;/p&gt;
@@ -249,13 +233,13 @@ The &lt;code&gt;selectInput&lt;/code&gt; and &lt;code&gt;sliderInput&lt;/code&gt
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;outf69723cfa06a2490&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;shiny-plot-output html-fill-item&#34; id=&#34;out03de64a0ff85bd4a&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;section-embedded-application&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Embedded Application&lt;/h2&gt;
 &lt;p&gt;It’s also possible to embed an entire Shiny application within an R Markdown document using the &lt;code&gt;shinyAppDir&lt;/code&gt; function.
 This example embeds a Shiny application located in another directory:&lt;/p&gt;
-&lt;iframe data-deferred-src=&#34;app13f433bf02495b2bc7938859bce92ccc/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
+&lt;iframe data-deferred-src=&#34;app745b358832e1e64152b4a5fbcb62ce4e/?w=&amp;amp;__subapp__=1&#34; width=&#34;100%&#34; height=&#34;550&#34; class=&#34;shiny-frame shiny-frame-deferred&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Note the use of the &lt;code&gt;height&lt;/code&gt; parameter to determine how much vertical space the embedded application should occupy.&lt;/p&gt;
 &lt;p&gt;You can also use the &lt;code&gt;shinyApp&lt;/code&gt; function to define an application inline rather then in an external directory.&lt;/p&gt;
 &lt;p&gt;In all of R code chunks above the &lt;code&gt;echo = FALSE&lt;/code&gt; attribute is used.
@@ -360,6 +344,12 @@ Figure 2: Drilldown Neuropsych zScores
       <guid>https://brainworkup.org/2020/12/01/hello-r-markdown/</guid>
       <description>
 
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#r-markdown&#34; id=&#34;toc-r-markdown&#34;&gt;R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#including-plots&#34; id=&#34;toc-including-plots&#34;&gt;Including Plots&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
@@ -394,12 +384,40 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://brainworkup.org/2020/12/01/hello-r-markdown/index_files/figure-html/pie-1.svg&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello, Quarto</title>
+      <link>https://brainworkup.org/1/01/01/hello-quarto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brainworkup.org/1/01/01/hello-quarto/</guid>
+      <description>&lt;h2 id=&#34;polar-axis&#34;&gt;Polar Axis&lt;/h2&gt;
+&lt;p&gt;For a demonstration of a line plot on a polar axis, see @fig-polar.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Code&lt;/summary&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; np
+&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; matplotlib.pyplot &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; plt
+
+r &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;arange(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0.01&lt;/span&gt;)
+theta &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; np&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;pi &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; r
+fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots(subplot_kw&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;projection&amp;#39;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;polar&amp;#39;&lt;/span&gt;})
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(theta, r)
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;set_rticks([&lt;span style=&#34;color:#ae81ff&#34;&gt;0.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;])
+ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;grid(True)
+plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;show()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/details&gt;
+&lt;figure&gt;
+&lt;img src=&#34;index_files/figure-markdown_strict/fig-polar-output-1.png&#34; id=&#34;fig-polar&#34; width=&#34;450&#34; height=&#34;439&#34; alt=&#34;Figure 1: A line plot on a polar axis&#34; /&gt;
+&lt;figcaption aria-hidden=&#34;true&#34;&gt;Figure 1: A line plot on a polar axis&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
