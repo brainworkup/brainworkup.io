@@ -8,7 +8,10 @@
     "activityBarBadge.foreground": "#15202b",
     "editorGroup.border": "#ab82e6",
     "sash.hoverBorder": "#ab82e6",
-    "tab.activeBorder": "#ab82e6"
+    "tab.activeBorder": "#ab82e6",
+    "editorError.foreground": "#000000ff",
+    "editorInfo.foreground": "#000000ff",
+    "editorWarning.foreground": "#000000ff"
   },
   "peacock.color": "#8e57de",
   "frontMatter.content.autoUpdateDate": true

@@ -4,7 +4,7 @@ blogdown::hugo_build(local = TRUE)
 
 blogdown::serve_site()
 
-install.packages(c("pak", "languageserver"))
+install.packages(c("pak", "languageserver", "jsonlite"))
 
 blogdown::serve_site()
 blogdown::stop_server()
